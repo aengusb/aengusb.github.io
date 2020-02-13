@@ -17,6 +17,7 @@ Interviews:
 * CBC Radio: [Digital Democracy Project: The online campaign of the federal election](https://betalisten.cbc.ca/listen/live-radio/1-78-all-in-a-weekend/clip/15742134-digital-democracy-project-the-online-campaign-of-the-federal-election) (Oct 20, 2019)
 * CBC Radio: [Social Media and the Federal Election](https://www.cbc.ca/listen/live-radio/1-78-all-in-a-weekend/clip/15739794-social-media-and-the-federal-election) (Oct 5, 2019)
 
+[Digital Democracy Project](https://ppforum.ca/project/ddp/) 
 
 My work has been covered in:  
 * Washington Post: [The online MAGA movement tried to take down Canada’s Justin Trudeau. It fell short.](https://www.washingtonpost.com/politics/the-online-maga-movement-tried-to-take-down-canadas-justin-trudeau-it-fell-short/2019/10/22/0e01e282-f1ef-11e9-89eb-ec56cd414732_story.html)
