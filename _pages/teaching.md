@@ -7,16 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-I enjoy teaching. 
-
-For the presentation for the McGill 2018 and 2019 Bootcamp click <a href="https://aengusb.github.io/github_bootcamp/#">here</a>.
+For the presentation for the McGill 2019 Bootcamp click <a href="https://aengusb.github.io/github_bootcamp/#">here</a>.
 
 Courses I have given include:
 
 * Introduction to LaTex and Zotero (Winter 2018)
-* Introduction to replicable research using version control (Summer 2018 and 2019) 
+* Introduction to replicable research using version control (Summer 2018 and 2019)
 
-Courses I have assisted with include: 
+Courses I have assisted with include:
 
 * Techniques of Empirical Research (Fall 2017 and 2018)
 * R Bootcamp (Summer 2017 and 2018)
