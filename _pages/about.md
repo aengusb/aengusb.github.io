@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal-professional website. I am a PhD Candidate in Political Science at McGill University. I study political behaviour and particularly participation and motivation of online political activists. I study these phenomena in Canada and other mature democracies. Methodologically, I work with survey, census, and social media data with an additional interest in data science, machine learning, natural language processing and computational social science more generally. My work has been published or is forthcoming in *Journal of Politics* and *Party Politics*.
+Welcome to my personal-professional website. I am a PhD Candidate in Political Science at McGill University. I study political behaviour and particularly participation and motivation of online political activists. I study these phenomena in Canada and other mature democracies. Methodologically, I work with survey, census, and social media data with an additional interest in data science, machine learning, natural language processing and computational social science more generally. <!---My work has been published or is forthcoming in *Journal of Politics* and *Party Politics*.--->
 
 I am currently a research fellow at the [Center for the Study of Democratic Citizenship](https://csdc-cecd.ca/) which is a multi-university research center that seeks to better understand the relationship between citizens and political processes. I also work with the Canadian [Digital Democracy Project](https://ppforum.ca/project/ddp/) as Senior Political Analyst. I am also affiliated with the [Max Bell School for Public Policy](https://www.mcgill.ca/maxbellschool/) and the [Network Dynamics Lab](http://networkdynamics.org/).
 
