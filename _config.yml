@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Aengus Bridgman"
 title_separator          : "-"
 name                     : &name "About"
-description              : &description "personal description"
+description              : &description "PhD Candidate in Political Science at McGill University"
 url                      : https://aengusb.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aengusb/aengusb.github.io"
@@ -99,10 +99,10 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "aengus_b"
