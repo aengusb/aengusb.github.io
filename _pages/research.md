@@ -8,7 +8,7 @@ author_profile: true
 Peer Reviewed:
 
 * *A non-partisan legislative chamber: The influence of the Canadian Senate*, Party Politics (Forthcoming)
-* *Unveiling: The Electoral Consequences of an Exogenous Mid-Campaign Court Ruling*, Journal of Politics (Conditional accpetance)
+* *Unveiling: The Electoral Consequences of an Exogenous Mid-Campaign Court Ruling*, Journal of Politics (Conditional acceptance)
 
 My work on social media and digital democracy has been published in a series of reports:
 
@@ -25,4 +25,3 @@ The Digital Democracy Project final report will be released in early 2020.
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
-
