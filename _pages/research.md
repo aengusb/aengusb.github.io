@@ -7,7 +7,7 @@ author_profile: true
 
 Peer Reviewed:
 
-* *A non-partisan legislative chamber: The influence of the Canadian Senate*, Party Politics (Forthcoming)
+* [*A non-partisan legislative chamber: The influence of the Canadian Senate*](https://doi.org/10.1177/1354068820911345), Party Politics
 * *Unveiling: The Electoral Consequences of an Exogenous Mid-Campaign Court Ruling*, Journal of Politics (Conditional acceptance)
 
 My work on social media and digital democracy has been published in a series of reports:
