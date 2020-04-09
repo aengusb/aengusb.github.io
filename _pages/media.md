@@ -13,7 +13,7 @@ Below is selected political commentary in the form of newspaper articles, and te
 
 Interviews:  
 * McGill Tribune: [Making room for data science in the humanities](https://www.mcgilltribune.com/private/making-room-for-data-science-in-the-humanities-280120/?fbclid=IwAR3jcKYgnA-UAwItDpg9hO5fVpvsYzewckVnwKvUOYV0C-p4RIr1TCPRy2g) (Jan 28, 2020)
-* CBC Toronto News: [The rise of Jugmeet Singh on social media](https://www.cbc.ca/player/news/canada/toronto) (Oct 17, 2019)
+* CBC Toronto News: [The rise of Jagmeet Singh on social media](https://www.cbc.ca/player/news/canada/toronto) (Oct 17, 2019)
 * CBC Radio: [Digital Democracy Project: The online campaign of the federal election](https://betalisten.cbc.ca/listen/live-radio/1-78-all-in-a-weekend/clip/15742134-digital-democracy-project-the-online-campaign-of-the-federal-election) (Oct 20, 2019)
 * CBC Radio: [Social Media and the Federal Election](https://www.cbc.ca/listen/live-radio/1-78-all-in-a-weekend/clip/15739794-social-media-and-the-federal-election) (Oct 5, 2019)
 
