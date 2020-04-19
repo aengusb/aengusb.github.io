@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Aengus Bridgman"
 title_separator          : "-"
 name                     : &name "About"
-description              : &description "PhD Candidate in Political Science at McGill University"
+description              : &description "Political Sciencist. Social Media, Big Data and Canadian Politics."
 url                      : https://aengusb.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aengusb/aengusb.github.io"
@@ -72,10 +72,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
-
+    tracking_id          : "UA-163968317-1"
 
 # Site Author
 author:
