@@ -8,6 +8,7 @@ author_profile: true
 Peer Reviewed:
 
 * [*A non-partisan legislative chamber: The influence of the Canadian Senate*](https://doi.org/10.1177/1354068820911345), Party Politics
+* [*A Rare Moment of Cross-Partisan Consensus: Elite and Public Response to the COVID-19 Pandemic in Canada*](https://doi.org/10.1017/S0008423920000311), Canadian Journal of Political Science
 * *Unveiling: The Electoral Consequences of an Exogenous Mid-Campaign Court Ruling*, Journal of Politics (Conditional acceptance)
 
 My work on social media and digital democracy has been published in a series of reports:
