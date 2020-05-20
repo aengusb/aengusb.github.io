@@ -7,12 +7,15 @@ author_profile: true
 
 Refereed:
 
-![](images/bridgman_nonpartisan_2020.jpeg)
 
+
+![image-center]({{ site.url }}{{ site.baseurl }}/images/bridgman_nonpartisan_2020.jpeg){: .align-center}
 
 * Bridgman, Aengus, Costin Ciobanu, Aaron Erlich, Danielle Bohonos, and Christopher Ross. Forthcoming, [*Unveiling: The Electoral Consequences of an Exogenous Mid-Campaign Court Ruling*](http://abridgman.ca/files/bridgman_unveiling_2020.pdf), The Journal of Politics.
 
-![A non-partisan legislative chamber: The influence of the Canadian Senate](images/bridgman_nonpartisan_2020.jpeg){: .align-left}
+<figure style="width: 300px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/bridgman_nonpartisan_2020.jpeg" alt="">
+</figure>
 
 Bridgman, Aengus. 2020. [*A non-partisan legislative chamber: The influence of the Canadian Senate*](https://doi.org/10.1177/1354068820911345), Party Politics.
 
