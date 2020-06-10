@@ -31,6 +31,7 @@ The COVID-19 pandemic has placed nearly unprecedented pressure on policymakers a
 
 Non-refereed
 
-* Owen, Taylor, Peter Loewen, Derek Ruths, Aengus Bridgman, Robert Gorwa, Stephanie MacLellan, Eric Merkley, and Oleg Zhilin. 2020, [*Lessons in Resilience: Canada’s Digital Media Ecosystem and the 2019 Election*](https://ppforum.ca/articles/lessons-in-resilience-canadas-digital-media-ecosystem-and-the-2019-election/).
+* Owen, Taylor, Peter Loewen, Derek Ruths, Aengus Bridgman, Robert Gorwa, Stephanie MacLellan, Eric Merkley, and Oleg Zhilin. 2020, [*Lessons in Resilience: Canada’s Digital Media Ecosystem and the 2019 Election*](https://ppforum.ca/articles/lessons-in-resilience-canadas-digital-media-ecosystem-and-the-2019-election/). Prepared for the Public Policy Forum and the Digital Democracy Project.
+*  McAndrews, John R., Bridgman, Aengus, Loewen, Peter John, Rubenson, Daniel, Stephenson, Laura B., Harell, Allison. 2020, [*Evaluation of the 2019 Federal Leaders' Debates*](https://www.debates-debats.ca/en/report/evaluation-2019-federal-leaders-debates/). Prepared for the Leaders' Debates Commission.
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.ca/citations?user=rxQTZG0AAAAJ).

@@ -14,6 +14,7 @@ I have been interviewed for CBC, the McGill Tribute, La Presse, and Richochet Me
 Below is selected political commentary in the form of newspaper articles, and television/radio interviews.
 
 Interviews:
+* Le Devoir: [La Suède, version albertaine](https://www.ledevoir.com/politique/canada/579798/la-suede-version-albertaine) (May 29, 2020)
 * Ricochet Media: [La Covid-19 aurait un effet sur la polarisation politique](https://ricochet.media/fr/3088/la-covid-19-aurait-un-effet-sur-la-polarisation-politique) (May 8, 2020)
 * McGill Tribune: [Making room for data science in the humanities](https://www.mcgilltribune.com/private/making-room-for-data-science-in-the-humanities-280120/?fbclid=IwAR3jcKYgnA-UAwItDpg9hO5fVpvsYzewckVnwKvUOYV0C-p4RIr1TCPRy2g) (Jan 28, 2020)
 * CBC Toronto News: [The rise of Jagmeet Singh on social media](https://www.cbc.ca/player/news/canada/toronto) (Oct 17, 2019)
