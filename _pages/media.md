@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I have been interviewed for CBC, the McGill Tribute, La Presse, and Richochet Media. My work has been covered in, among others, The New York Times, CBC, National Observer, the Post Millenial, Vox, and the Toronto Star.
+I have been interviewed for, among others, CBC, Le Devoir, and La Presse. My work has been covered in, among others, The New York Times, CBC, National Observer, the Post Millenial, Vox, and the Toronto Star.
 
 Below is selected political commentary in the form of newspaper articles, and television/radio interviews.
 
