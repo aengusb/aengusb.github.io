@@ -9,19 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-I have been interviewed for, among others, CBC, Le Devoir, and La Presse. My work has been covered in, among others, The New York Times, CBC, National Observer, the Post Millenial, Vox, and the Toronto Star.
+I have been interviewed for, among others, CBC, CTV, Global News, Le Devoir, and La Presse. My work has been covered in, among others, The New York Times, CBC, National Observer, the Post Millenial, Vox, La Presse, Radio-Canada, and the Toronto Star.
 
 Below is selected political commentary in the form of newspaper articles, and television/radio interviews.
 
 Interviews:
+* La Presse: [J’ai fait mes recherches](https://www.lapresse.ca/actualites/2020-07-30/j-ai-fait-mes-recherches.php) (July 30, 2020)
+* Global News Montreal, CTV News Montreal, Radio-Canada, NVL Noovo, CJAD 800, 770 CHQR: Social media and misperceptions (July 29-31, 2020)
 * Le Devoir: [La Suède, version albertaine](https://www.ledevoir.com/politique/canada/579798/la-suede-version-albertaine) (May 29, 2020)
 * Ricochet Media: [La Covid-19 aurait un effet sur la polarisation politique](https://ricochet.media/fr/3088/la-covid-19-aurait-un-effet-sur-la-polarisation-politique) (May 8, 2020)
-* McGill Tribune: [Making room for data science in the humanities](https://www.mcgilltribune.com/private/making-room-for-data-science-in-the-humanities-280120/?fbclid=IwAR3jcKYgnA-UAwItDpg9hO5fVpvsYzewckVnwKvUOYV0C-p4RIr1TCPRy2g) (Jan 28, 2020)
-* CBC Toronto News: [The rise of Jagmeet Singh on social media](https://www.cbc.ca/player/news/canada/toronto) (Oct 17, 2019)
-* CBC Radio: [Digital Democracy Project: The online campaign of the federal election](https://betalisten.cbc.ca/listen/live-radio/1-78-all-in-a-weekend/clip/15742134-digital-democracy-project-the-online-campaign-of-the-federal-election) (Oct 20, 2019)
-* CBC Radio: [Social Media and the Federal Election](https://www.cbc.ca/listen/live-radio/1-78-all-in-a-weekend/clip/15739794-social-media-and-the-federal-election) (Oct 5, 2019)
+* McGill Tribune: [Making room for data science in the humanities](https://www.mcgilltribune.com/private/making-room-for-data-science-in-the-humanities-280120/?fbclid=IwAR3jcKYgnA-UAwItDpg9hO5fVpvsYzewckVnwKvUOYV0C-p4RIr1TCPRy2g) (January 28, 2020)
+* CBC Toronto News: [The rise of Jagmeet Singh on social media](https://www.cbc.ca/player/news/canada/toronto) (October 17, 2019)
+* CBC Radio: [Digital Democracy Project: The online campaign of the federal election](https://betalisten.cbc.ca/listen/live-radio/1-78-all-in-a-weekend/clip/15742134-digital-democracy-project-the-online-campaign-of-the-federal-election) (October 20, 2019)
+* CBC Radio: [Social Media and the Federal Election](https://www.cbc.ca/listen/live-radio/1-78-all-in-a-weekend/clip/15739794-social-media-and-the-federal-election) (October 5, 2019)
 
-Newspaper articles:
+News articles:
+* Journal de Montréal: [COVID-19: corrélation entre les fausses informations des médias sociaux et le non-respect des règles sanitaires](https://www.journaldemontreal.com/2020/07/29/covid-19--correlation-entre-les-fausses-informations-des-medias-sociaux-et-le-non-respect-des-regles-sanitaires) (July 30, 2020)
+* CTV News: [Canadians who turn to social media for COVID-19 news more prone to misconceptions: study ](https://montreal.ctvnews.ca/canadians-who-turn-to-social-media-for-covid-19-news-more-prone-to-misconceptions-study-1.5043823) (July 30, 2020)
+* Montreal Gazette: [Twitter, Facebook are the main sources of COVID-19 misinformation, a McGill study finds](https://montrealgazette.com/news/local-news/twitter-facebook-are-the-main-sources-of-covid-19-misinformation-a-mcgill-study-finds/wcm/229a5fe0-a31f-48f7-a23f-ea89f95fc5cb/) (July 29, 2020)
 * Vox: [Canada succeeded on coronavirus where America failed. Why?](https://www.vox.com/2020/5/4/21242750/coronavirus-covid-19-united-states-canada-trump-trudeau) (May 4, 2020)
 * New York Times: [Enduring Our Unendurable New Normal](https://messaging-custom-newsletters.nytimes.com/template/oakv2?uri=nyt://newsletter/f05a021b-53c5-40d3-859e-2c06b6f9523d&productCode=INT&te=1&nl=the-interpreter&emc=edit_int_20200417) (April 16, 2020)
 * Vox: [The coronavirus fight demands unity. But Republicans just want to own the libs.](https://www.vox.com/policy-and-politics/2020/4/16/21223600/hyper-partisanship-republicans-coronavirus-trump-hopkins) (April 16, 2020)

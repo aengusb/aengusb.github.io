@@ -7,9 +7,9 @@ author_profile: true
 
 Refereed:
 
-* **Bridgman, Aengus**, Costin Ciobanu, Aaron Erlich, Danielle Bohonos, and Christopher Ross. Forthcoming. [*Unveiling: The Electoral Consequences of an Exogenous Mid-Campaign Court Ruling*](https://abridgman.ca/files/bridgman_unveiling_2020.pdf), The Journal of Politics.
+* **Aengus Bridgman**, Costin Ciobanu, Aaron Erlich, Danielle Bohonos, and Christopher Ross. Forthcoming. [*Unveiling: The Electoral Consequences of an Exogenous Mid-Campaign Court Ruling*](https://abridgman.ca/files/bridgman_unveiling_2020.pdf), The Journal of Politics.
 * **Aengus Bridgman**, Eric Merkley, Peter John Loewen, Taylor Owen, Derek Ruths, Oleg Zhilin. 2020. [The causes and consequences of COVID-19 misperceptions: Understanding the role of news and social media](https://doi.org/10.37016/mr-2020-028), The Harvard Kennedy School (HKS) Misinformation Review.
-* **Bridgman, Aengus**. 2020. [*A non-partisan legislative chamber: The influence of the Canadian Senate*](https://doi.org/10.1177/1354068820911345), Party Politics.
+* **Aengus Bridgman**. 2020. [*A non-partisan legislative chamber: The influence of the Canadian Senate*](https://doi.org/10.1177/1354068820911345), Party Politics.
 * Eric Merkley, **Aengus Bridgman**, Peter John Loewen, Taylor Owen, Derek Ruths, Oleg Zhilin. 2020, [*A Rare Moment of Cross-Partisan Consensus: Elite and Public Response to the COVID-19 Pandemic in Canada*](https://doi.org/10.1017/S0008423920000311), The Canadian Journal of Political Science.
 
 <!--
@@ -26,7 +26,7 @@ The COVID-19 pandemic has placed nearly unprecedented pressure on policymakers a
 
 Non-refereed:
 
-* Owen, Taylor, Loewen, Peter, Ruths, Derek, **Aengus Bridgman**, Robert Gorwa, Stephanie MacLellan, Eric Merkley, and Oleg Zhilin. 2020, [*Lessons in Resilience: Canada’s Digital Media Ecosystem and the 2019 Election*](https://ppforum.ca/articles/lessons-in-resilience-canadas-digital-media-ecosystem-and-the-2019-election/). Prepared for the Public Policy Forum and the Digital Democracy Project.
-*  McAndrews, John R., **Bridgman, Aengus**, Loewen, Peter John, Rubenson, Daniel, Stephenson, Laura B., Harell, Allison. 2020, [*Evaluation of the 2019 Federal Leaders' Debates*](https://www.debates-debats.ca/en/report/evaluation-2019-federal-leaders-debates/). Prepared for the Leaders' Debates Commission.
+* Taylor Owen, Peter Loewen, Derek Ruths, **Aengus Bridgman**, Robert Gorwa, Stephanie MacLellan, Eric Merkley, and Oleg Zhilin. 2020, [*Lessons in Resilience: Canada’s Digital Media Ecosystem and the 2019 Election*](https://ppforum.ca/articles/lessons-in-resilience-canadas-digital-media-ecosystem-and-the-2019-election/). Prepared for the Public Policy Forum and the Digital Democracy Project.
+*  John R. McAndrews, **Aengus Bridgman**, Peter John Loewen, Daniel Rubenson, Laura B. Stephenson, Allison Harell. 2020, [*Evaluation of the 2019 Federal Leaders' Debates*](https://www.debates-debats.ca/en/report/evaluation-2019-federal-leaders-debates/). Prepared for the Leaders' Debates Commission.
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.ca/citations?user=rxQTZG0AAAAJ).
