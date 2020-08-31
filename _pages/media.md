@@ -18,7 +18,7 @@ Interviews:
 * Pod 6ix: [Covid Conspiracies & Misinformation with Aengus Bridgman](https://pod6ix.com/covid-conspiracies-misinfo-with-aengus-bridgman-lockdown-toronto-ep-12/) (August 20, 2020)
 * Canadian Press: e.g. [COVID-19 conspiracy theories are creating a 'public health crisis' in Canada: experts](https://nationalpost.com/news/canada/covid-19-conspiracies-creating-a-public-health-crisis-in-canada-experts-sa) (August 3, 2020)
 * La Presse: [J’ai fait mes recherches](https://www.lapresse.ca/actualites/2020-07-30/j-ai-fait-mes-recherches.php) (July 30, 2020)
-* Global News Montreal, CTV News Montreal, Radio-Canada, NVL Noovo, CJAD 800, 770 CHQR, Roy Green Show, Toronto Lockdown: Social media and misperceptions (July 29 - August 19, 2020)
+* Global News Montreal, CTV News Montreal, Radio-Canada, NVL Noovo, CJAD 800, 770 CHQR, Roy Green Show on Social media, COVID-19 and misperceptions in Canada, e.g. [Coronavirus: Social media users more likely to believe false information, McGill study suggests](https://globalnews.ca/news/7229581/coronavirus-social-media-disinformation-mcgill/) (July 29 - August 19, 2020)
 * Le Devoir: [La Suède, version albertaine](https://www.ledevoir.com/politique/canada/579798/la-suede-version-albertaine) (May 29, 2020)
 * Ricochet Media: [La Covid-19 aurait un effet sur la polarisation politique](https://ricochet.media/fr/3088/la-covid-19-aurait-un-effet-sur-la-polarisation-politique) (May 8, 2020)
 * McGill Tribune: [Making room for data science in the humanities](https://www.mcgilltribune.com/private/making-room-for-data-science-in-the-humanities-280120/?fbclid=IwAR3jcKYgnA-UAwItDpg9hO5fVpvsYzewckVnwKvUOYV0C-p4RIr1TCPRy2g) (January 28, 2020)
