@@ -14,6 +14,7 @@ I have been interviewed for, among others, CBC, CTV, Global News, Le Devoir, and
 Below is selected political commentary in the form of newspaper articles, and television/radio interviews.
 
 Interviews:
+* CBC News and national television and radio news: [Global rally against COVID-19 safety measures comes to Parliament Hill](https://www.cbc.ca/news/politics/covid-19-rally-ottawa-1.5705216) (August 29,2 2020)
 * Pod 6ix: [Covid Conspiracies & Misinformation with Aengus Bridgman](https://pod6ix.com/covid-conspiracies-misinfo-with-aengus-bridgman-lockdown-toronto-ep-12/) (August 20, 2020)
 * Canadian Press: e.g. [COVID-19 conspiracy theories are creating a 'public health crisis' in Canada: experts](https://nationalpost.com/news/canada/covid-19-conspiracies-creating-a-public-health-crisis-in-canada-experts-sa) (August 3, 2020)
 * La Presse: [J’ai fait mes recherches](https://www.lapresse.ca/actualites/2020-07-30/j-ai-fait-mes-recherches.php) (July 30, 2020)
@@ -38,6 +39,7 @@ News articles:
 * National Observer: [Public interest in Trudeau brownface scandal faded after a few days, report finds](https://www.nationalobserver.com/2019/10/03/news/public-interest-trudeau-brownface-scandal-faded-after-few-days-report-finds) (Oct 3, 2019)
 * Toronto Star: [News that's safe to use: Researchers aim to track information during campaign](https://www.cbc.ca/news/technology/digital-democracy-project-disinformation-canada-election-1.5239296) (August 9, 2019)
 * Post Millenial: [News that's safe to use: Researchers aim to track information during campaign](https://www.thepostmillennial.com/mainstream-media-main-sources-misinformation-report/) (Sep 2019)
-<!--
 
+<!--
+Testing
 -->
