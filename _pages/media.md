@@ -11,8 +11,6 @@ redirect_from:
 
 I have been interviewed for, among others, CBC, CTV, Global News, Le Devoir, and La Presse. My work has been covered in, among others, The New York Times, CBC, National Observer, the Post Millenial, Vox, La Presse, Radio-Canada, and the Toronto Star.
 
-Below is selected political commentary in the form of newspaper articles, and television/radio interviews.
-
 Interviews:
 * CBC News and national television and radio news: [Global rally against COVID-19 safety measures comes to Parliament Hill](https://www.cbc.ca/news/politics/covid-19-rally-ottawa-1.5705216) (August 29,2 2020)
 * Pod 6ix: [Covid Conspiracies & Misinformation with Aengus Bridgman](https://pod6ix.com/covid-conspiracies-misinfo-with-aengus-bridgman-lockdown-toronto-ep-12/) (August 20, 2020)
