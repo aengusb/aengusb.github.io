@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Aengus Bridgman"
 title_separator          : "-"
 name                     : &name "About"
-description              : &description "Political Sciencist. Social Media, Big Data and Canadian Politics."
+description              : &description "Political Scientist. Social Media, Big Data, and Canadian Politics."
 url                      : https://aengusb.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aengusb/aengusb.github.io"
