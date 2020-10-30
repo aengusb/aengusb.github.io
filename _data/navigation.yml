@@ -1,10 +1,14 @@
 # main links links
 main:
+
+  - title: "CV"
+    url: /vitae/
+
   - title: "Research"
     url: /research/
 
   - title: "Teaching"
-    url: /teaching/    
-                                
+    url: /teaching/
+
   - title: "Media"
     url: /media/

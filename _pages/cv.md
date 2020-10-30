@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Website currently under construction.
+My most recent CV can be found [here](https://abridgman.ca/files/bridgman_cv.pdf).
