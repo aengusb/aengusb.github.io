@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-My most recent CV can be found [here](https://abridgman.ca/files/bridgman_cv.pdf).
+My most recent *curriculum vitae* can be found [here](https://abridgman.ca/files/bridgman_cv.pdf).
