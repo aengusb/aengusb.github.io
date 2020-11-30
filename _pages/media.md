@@ -12,7 +12,11 @@ redirect_from:
 I have been interviewed for, among others, CBC, CTV, Global News, Le Devoir, and La Presse. My work has been covered in, among others, The New York Times, CBC, National Observer, the Post Millenial, Vox, La Presse, Radio-Canada, and the Toronto Star.
 
 Interviews:
-* CBC News and national television and radio news: [Global rally against COVID-19 safety measures comes to Parliament Hill](https://www.cbc.ca/news/politics/covid-19-rally-ottawa-1.5705216) (August 29,2 2020)
+* Montral Gazette: [Anti-mask fringe movement getting more media coverage than warranted: expert](https://montrealgazette.com/news/local-news/anti-maskers-get-more-coverage-than-size-of-movement-warrants-expert) (November 30, 2020)
+* CBC News: [Addressing vaccine hesitancy is a looming hurdle in race to end pandemic] (https://www.cbc.ca/news/canada/covid-19-vaccine-safety-1.5813484 (November 26, 2020)
+* CBC The National: [Vaccine hesitancy a looming hurdle to ending pandemic](https://www.youtube.com/watch?v=moVqOWjNkmY) (November 25, 2020)
+* Toronto Star: [A Conservative MP warns that Justin Trudeau wants a ‘Great Reset.’ Conspiracy theorists are worried, too](https://www.thestar.com/politics/federal/2020/11/19/a-conservative-mp-warns-that-justin-trudeau-wants-a-great-reset-conspiracy-theorists-are-worried-too.html?rf) (November 20, 2020)
+* CBC News and national television and radio news: [Global rally against COVID-19 safety measures comes to Parliament Hill](https://www.cbc.ca/news/politics/covid-19-rally-ottawa-1.5705216) (August 29, 2020)
 * Pod 6ix: [Covid Conspiracies & Misinformation with Aengus Bridgman](https://pod6ix.com/covid-conspiracies-misinfo-with-aengus-bridgman-lockdown-toronto-ep-12/) (August 20, 2020)
 * Canadian Press: e.g. [COVID-19 conspiracy theories are creating a 'public health crisis' in Canada: experts](https://nationalpost.com/news/canada/covid-19-conspiracies-creating-a-public-health-crisis-in-canada-experts-sa) (August 3, 2020)
 * La Presse: [J’ai fait mes recherches](https://www.lapresse.ca/actualites/2020-07-30/j-ai-fait-mes-recherches.php) (July 30, 2020)
