@@ -12,8 +12,9 @@ redirect_from:
 I have been interviewed for, among others, CBC, CTV, Global News, Le Devoir, and La Presse. My work has been covered in, among others, The New York Times, CBC, National Observer, the Post Millenial, Vox, La Presse, Radio-Canada, and the Toronto Star.
 
 Interviews:
-* Montral Gazette: [Anti-mask fringe movement getting more media coverage than warranted: expert](https://montrealgazette.com/news/local-news/anti-maskers-get-more-coverage-than-size-of-movement-warrants-expert) (November 30, 2020)
-* CBC News: [Addressing vaccine hesitancy is a looming hurdle in race to end pandemic] (https://www.cbc.ca/news/canada/covid-19-vaccine-safety-1.5813484 (November 26, 2020)
+* CJAD 800: [Are anti-mask groups really a movement or just a small number of people getting way too much attention?](https://www.iheartradio.ca/cjad/audio/are-anti-mask-groups-really-a-movement-or-just-a-small-number-of-people-getting-way-too-much-attention-1.14068306?mode=Article) (December 1, 2020)
+* Montreal Gazette: [Anti-mask fringe movement getting more media coverage than warranted: expert](https://montrealgazette.com/news/local-news/anti-maskers-get-more-coverage-than-size-of-movement-warrants-expert) (November 30, 2020)
+* CBC News: [Addressing vaccine hesitancy is a looming hurdle in race to end pandemic](https://www.cbc.ca/news/canada/covid-19-vaccine-safety-1.5813484 (November 26, 2020)
 * CBC The National: [Vaccine hesitancy a looming hurdle to ending pandemic](https://www.youtube.com/watch?v=moVqOWjNkmY) (November 25, 2020)
 * Toronto Star: [A Conservative MP warns that Justin Trudeau wants a ‘Great Reset.’ Conspiracy theorists are worried, too](https://www.thestar.com/politics/federal/2020/11/19/a-conservative-mp-warns-that-justin-trudeau-wants-a-great-reset-conspiracy-theorists-are-worried-too.html?rf) (November 20, 2020)
 * CBC News and national television and radio news: [Global rally against COVID-19 safety measures comes to Parliament Hill](https://www.cbc.ca/news/politics/covid-19-rally-ottawa-1.5705216) (August 29, 2020)
