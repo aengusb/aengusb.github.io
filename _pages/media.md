@@ -12,10 +12,12 @@ redirect_from:
 I have been interviewed for, among others, CBC, CTV, Global News, Le Devoir, and La Presse. My work has been covered in, among others, The New York Times, CBC, National Observer, the Post Millenial, Vox, La Presse, Radio-Canada, and the Toronto Star.
 
 Interviews:
+* CTV: [Social media, conspiracies, and misinformation](https://ottawa.ctvnews.ca/video?clipId=2122255&binId=1.1487308&playlistPageNum=1) (January 20, 2021)
+* CBC News: How social media platforms and personalities are countering false information about COVID-19 vaccines: [article](https://www.cbc.ca/news/health/social-media-covid-vaccine-misinformation-1.5842663) and [CBC The National television segment](https://www.youtube.com/watch?v=UfCvuKHLPws) (December 18, 2020)
+* Global News: [CSIS accuses Russia, China and Iran of spreading COVID-19 disinformation](https://globalnews.ca/news/7494689/csis-accuses-russia-china-iran-coronavirus-covid-19-disinformation/) (December 3, 2020)
 * CJAD 800: [Are anti-mask groups really a movement or just a small number of people getting way too much attention?](https://www.iheartradio.ca/cjad/audio/are-anti-mask-groups-really-a-movement-or-just-a-small-number-of-people-getting-way-too-much-attention-1.14068306?mode=Article) (December 1, 2020)
 * Montreal Gazette: [Anti-mask fringe movement getting more media coverage than warranted: expert](https://montrealgazette.com/news/local-news/anti-maskers-get-more-coverage-than-size-of-movement-warrants-expert) (November 30, 2020)
-* CBC News: [Addressing vaccine hesitancy is a looming hurdle in race to end pandemic](https://www.cbc.ca/news/canada/covid-19-vaccine-safety-1.5813484 (November 26, 2020)
-* CBC The National: [Vaccine hesitancy a looming hurdle to ending pandemic](https://www.youtube.com/watch?v=moVqOWjNkmY) (November 25, 2020)
+* CBC News: Addressing vaccine hesitancy is a looming hurdle in race to end pandemic [article](https://www.cbc.ca/news/canada/covid-19-vaccine-safety-1.5813484) and [The National television segment](https://www.youtube.com/watch?v=moVqOWjNkmY) (November 25, 2020)
 * Toronto Star: [A Conservative MP warns that Justin Trudeau wants a ‘Great Reset.’ Conspiracy theorists are worried, too](https://www.thestar.com/politics/federal/2020/11/19/a-conservative-mp-warns-that-justin-trudeau-wants-a-great-reset-conspiracy-theorists-are-worried-too.html?rf) (November 20, 2020)
 * CBC News and national television and radio news: [Global rally against COVID-19 safety measures comes to Parliament Hill](https://www.cbc.ca/news/politics/covid-19-rally-ottawa-1.5705216) (August 29, 2020)
 * Pod 6ix: [Covid Conspiracies & Misinformation with Aengus Bridgman](https://pod6ix.com/covid-conspiracies-misinfo-with-aengus-bridgman-lockdown-toronto-ep-12/) (August 20, 2020)

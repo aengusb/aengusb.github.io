@@ -27,6 +27,7 @@ The COVID-19 pandemic has placed nearly unprecedented pressure on policymakers a
 
 Non-refereed:
 
+* Taylor Owen, Peter Loewen, Derek Ruths, **Aengus Bridgman**, Haji Mohammed Saleem, Eric Merkley, and Oleg Zhilin. 2020. [Understanding vaccine hesistancy in Canada: attitudes, beliefs, and the information ecosystem](https://mediaecosystemobservatory.com/Vaccine-hesistancy).
 * Taylor Owen, Peter Loewen, Derek Ruths, **Aengus Bridgman**, Robert Gorwa, Stephanie MacLellan, Eric Merkley, and Oleg Zhilin. 2020, [Lessons in Resilience: Canada’s Digital Media Ecosystem and the 2019 Election](https://ppforum.ca/articles/lessons-in-resilience-canadas-digital-media-ecosystem-and-the-2019-election/). Prepared for the Public Policy Forum and the Digital Democracy Project.
 *  John R. McAndrews, **Aengus Bridgman**, Peter John Loewen, Daniel Rubenson, Laura B. Stephenson, Allison Harell. 2020, [Evaluation of the 2019 Federal Leaders' Debates](https://www.debates-debats.ca/en/report/evaluation-2019-federal-leaders-debates/). Prepared for the Leaders' Debates Commission.
 
