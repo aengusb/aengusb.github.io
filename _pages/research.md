@@ -31,4 +31,8 @@ Non-refereed:
 * Taylor Owen, Peter Loewen, Derek Ruths, **Aengus Bridgman**, Robert Gorwa, Stephanie MacLellan, Eric Merkley, and Oleg Zhilin. 2020, [Lessons in Resilience: Canada’s Digital Media Ecosystem and the 2019 Election](https://ppforum.ca/articles/lessons-in-resilience-canadas-digital-media-ecosystem-and-the-2019-election/). Prepared for the Public Policy Forum and the Digital Democracy Project.
 *  John R. McAndrews, **Aengus Bridgman**, Peter John Loewen, Daniel Rubenson, Laura B. Stephenson, Allison Harell. 2020, [Evaluation of the 2019 Federal Leaders' Debates](https://www.debates-debats.ca/en/report/evaluation-2019-federal-leaders-debates/). Prepared for the Leaders' Debates Commission.
 
+Here is a recent talk covering my research on COVID-19 misinformation:
+
+* National Institute of Statistical Sciences COVID-19 Data Science Webinar Series. [Misinformation and attitude formation among the Canadian Public](https://www.niss.org/news/misinformation-and-attitude-formation-analyzed-through-social-media-posts) (February 18, 2020)
+
 You can also find my articles on my [Google Scholar profile](https://scholar.google.ca/citations?user=rxQTZG0AAAAJ).
