@@ -7,6 +7,7 @@ author_profile: true
 
 Refereed:
 
+* **Aengus Bridgman**, Eric Merkley, Oleg Zhilin, Peter John Loewen, Taylor Owen, Derek Ruths. 2021. [Infodemic pathways: Evaluating the role that traditional and social media play in cross-national information transfer](https://www.frontiersin.org/articles/10.3389/fpos.2021.648646), *Frontiers in Political Science*.
 * **Aengus Bridgman**, Costin Ciobanu, Aaron Erlich, Danielle Bohonos, and Christopher Ross. 2020. [Unveiling: The Electoral Consequences of an Exogenous Mid-Campaign Court Ruling](https://www.journals.uchicago.edu/doi/pdf/10.1086/711177), *The Journal of Politics*.
 * **Aengus Bridgman**, Eric Merkley, Peter John Loewen, Taylor Owen, Derek Ruths, Oleg Zhilin. 2020. [The causes and consequences of COVID-19 misperceptions: Understanding the role of news and social media](https://doi.org/10.37016/mr-2020-028), *The Harvard Kennedy School (HKS) Misinformation Review*.
 * **Aengus Bridgman**. 2020. [A non-partisan legislative chamber: The influence of the Canadian Senate](https://doi.org/10.1177/1354068820911345), *Party Politics*.
