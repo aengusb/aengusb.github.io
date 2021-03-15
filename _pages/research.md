@@ -7,12 +7,26 @@ author_profile: true
 
 Refereed:
 
-* **Aengus Bridgman**, Eric Merkley, Oleg Zhilin, Peter John Loewen, Taylor Owen, Derek Ruths. 2021. [Infodemic pathways: Evaluating the role that traditional and social media play in cross-national information transfer](https://www.frontiersin.org/articles/10.3389/fpos.2021.648646), *Frontiers in Political Science*. [Replication materials available here.](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Y0RP9J)
-* **Aengus Bridgman**, Costin Ciobanu, Aaron Erlich, Danielle Bohonos, and Christopher Ross. 2020. [Unveiling: The Electoral Consequences of an Exogenous Mid-Campaign Court Ruling](https://www.journals.uchicago.edu/doi/pdf/10.1086/711177), *The Journal of Politics*. [Replication materials available here.](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Q20FB7)
-* **Aengus Bridgman**, Eric Merkley, Peter John Loewen, Taylor Owen, Derek Ruths, Oleg Zhilin. 2020. [The causes and consequences of COVID-19 misperceptions: Understanding the role of news and social media](https://doi.org/10.37016/mr-2020-028), *The Harvard Kennedy School (HKS) Misinformation Review*. [Replication materials available here.](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5QS2XP)
-* **Aengus Bridgman**. 2020. [A non-partisan legislative chamber: The influence of the Canadian Senate](https://doi.org/10.1177/1354068820911345), *Party Politics*. [Replication materials available here.](https://doi.org/10.7910/DVN/NGTGED])
+* **Aengus Bridgman**, Eric Merkley, Oleg Zhilin, Peter John Loewen, Taylor Owen, Derek Ruths. 2021. [Infodemic pathways: Evaluating the role that traditional and social media play in cross-national information transfer](https://www.frontiersin.org/articles/10.3389/fpos.2021.648646), *Frontiers in Political Science*. 
+
+[Replication materials available here.](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Y0RP9J)
+
+* **Aengus Bridgman**, Costin Ciobanu, Aaron Erlich, Danielle Bohonos, and Christopher Ross. 2020. [Unveiling: The Electoral Consequences of an Exogenous Mid-Campaign Court Ruling](https://www.journals.uchicago.edu/doi/pdf/10.1086/711177), *The Journal of Politics*. 
+
+[[Replication materials available here.]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Q20FB7)
+
+* **Aengus Bridgman**, Eric Merkley, Peter John Loewen, Taylor Owen, Derek Ruths, Oleg Zhilin. 2020. [The causes and consequences of COVID-19 misperceptions: Understanding the role of news and social media](https://doi.org/10.37016/mr-2020-028), *The Harvard Kennedy School (HKS) Misinformation Review*. 
+
+[Replication materials available here.](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5QS2XP)
+
+* **Aengus Bridgman**. 2020. [A non-partisan legislative chamber: The influence of the Canadian Senate](https://doi.org/10.1177/1354068820911345), *Party Politics*.
+
+[Replication materials available here.](https://doi.org/10.7910/DVN/NGTGED])
+
 * Eric Merkley, **Aengus Bridgman**, Peter John Loewen, Taylor Owen, Derek Ruths, Oleg Zhilin. 2020, [A Rare Moment of Cross-Partisan Consensus: Elite and Public Response to the COVID-19 Pandemic in Canada](https://doi.org/10.1017/S0008423920000311), *The Canadian Journal of Political Science*. 
-* **Aengus Bridgman**, Eric Merkley, Peter John Loewen, Taylor Owen, Derek Ruths. Conditionally accepted registered report. All in this together? A preregistered report on deservingness of government aid during the COVID-19 pandemic, *The Journal of Experimental Political Science*. [Replication materials available here.](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LPHMB7)
+* **Aengus Bridgman**, Eric Merkley, Peter John Loewen, Taylor Owen, Derek Ruths. Conditionally accepted registered report. All in this together? A preregistered report on deservingness of government aid during the COVID-19 pandemic, *The Journal of Experimental Political Science*.
+
+[Replication materials available here.](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LPHMB7)
 
 <!--
 
