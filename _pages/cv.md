@@ -12,7 +12,7 @@ redirect_from:
 My most recent *curriculum vitae* can be found [here](https://abridgman.ca/files/bridgman_cv.pdf).
 
 
-<object data="your_url_to_pdf" type="application/pdf">
+<object data="https://abridgman.ca/files/bridgman_cv.pdf" type="application/pdf">
   <embed src="https://abridgman.ca/files/bridgman_cv.pdf" type="application/pdf" />
 </object>
 
