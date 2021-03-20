@@ -11,9 +11,13 @@ redirect_from:
 
 My most recent *curriculum vitae* can be found [here](https://abridgman.ca/files/bridgman_cv.pdf).
 
-<object data='https://abridgman.ca/files/bridgman_cv.pdf'>
-    <p>Oops! Your browser doesn't support PDFs!</p>
-    <p><a href="https://abridgman.ca/files/bridgman_cv.pdf">Download Instead</a></p>
+<object
+  data="https://abridgman.ca/files/bridgman_cv.pdf"
+  type="application/pdf"
+  width="100%"
+  height="100%">
+  <p>Your browser does not support PDFs.
+    <a href="https://abridgman.ca/files/bridgman_cv.pdf">Download the PDF</a>.</p>
 </object>
 
 
