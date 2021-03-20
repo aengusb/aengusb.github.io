@@ -12,9 +12,8 @@ redirect_from:
 My most recent *curriculum vitae* can be found [here](https://abridgman.ca/files/bridgman_cv.pdf).
 
 
-
-<object data="https://abridgman.ca/files/bridgman_cv.pdf" type="application/pdf">
-    <iframe src="https://docs.google.com/viewer?url=https://abridgman.ca/files/bridgman_cv.pdf&embedded=true"></iframe>
+<object data="your_url_to_pdf" type="application/pdf">
+  <embed src="https://abridgman.ca/files/bridgman_cv.pdf" type="application/pdf" />
 </object>
 
 
