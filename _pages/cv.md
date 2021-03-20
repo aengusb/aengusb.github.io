@@ -11,29 +11,13 @@ redirect_from:
 
 My most recent *curriculum vitae* can be found [here](https://abridgman.ca/files/bridgman_cv.pdf).
 
-<object
-  data="https://abridgman.ca/files/bridgman_cv.pdf"
-  type="application/pdf"
-  width="100%"
-  height="100%">
-  <p>Your browser does not support PDFs.
-    <a href="https://abridgman.ca/files/bridgman_cv.pdf">Download the PDF</a>.</p>
+
+
+<object data="https://abridgman.ca/files/bridgman_cv.pdf" type="application/pdf">
+    <iframe src="https://docs.google.com/viewer?url=https://abridgman.ca/files/bridgman_cv.pdf&embedded=true"></iframe>
 </object>
 
-<object
-  data="https://abridgman.ca/files/bridgman_cv.pdf"
-  type="application/pdf"
-  width="100%"
-  height="100%">
-  <iframe
-    src="https://abridgman.ca/files/bridgman_cv.pdf"
-    width="100%"
-    height="100%"
-    style="border: none;">
-    <p>Your browser does not support PDFs.
-      <a href="https://abridgman.ca/files/bridgman_cv.pdf">Download the PDF</a>.</p>
-  </iframe>
-</object>
+
 
 
 <!-- <embed src="https://abridgman.ca/files/bridgman_cv.pdf" type="application/pdf" width="100%" height="100%"> -->
