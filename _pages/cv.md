@@ -10,3 +10,6 @@ redirect_from:
 {% include base_path %}
 
 My most recent *curriculum vitae* can be found [here](https://abridgman.ca/files/bridgman_cv.pdf).
+
+<embed src="https://abridgman.ca/files/bridgman_cv.pdf" width="500" height="375"
+ type="application/pdf">
