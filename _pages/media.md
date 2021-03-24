@@ -12,6 +12,7 @@ redirect_from:
 I have been interviewed for, among others, CBC, CTV, Global News, Le Devoir, and La Presse. My work has been covered in, among others, The New York Times, CBC, National Observer, the Post Millenial, Vox, La Presse, Radio-Canada, and the Toronto Star.
 
 Interviews:
+* The Hill Times: [Government efforts to fight COVID-19 misinformation get mixed reviews as ‘infodemic’ persists](https://www.hilltimes.com/2021/03/24/government-efforts-to-fight-covid-19-misinformation-appreciated-but-theres-still-more-to-be-done-mps-experts/290190) (March 24, 2021)
 * Canadian Press: [N.L. doctor not alone in spreading COVID-19 misinformation, says national association](https://www.piquenewsmagazine.com/coronavirus-covid-19-national-news/nl-doctor-not-alone-in-spreading-covid-19-misinformation-says-national-association-3537081) (March 11, 2021)
 * CTV: [Social media, conspiracies, and misinformation](https://ottawa.ctvnews.ca/video?clipId=2122255&binId=1.1487308&playlistPageNum=1) (January 20, 2021)
 * CBC News: How social media platforms and personalities are countering false information about COVID-19 vaccines: [article](https://www.cbc.ca/news/health/social-media-covid-vaccine-misinformation-1.5842663) and [CBC The National television segment](https://www.youtube.com/watch?v=UfCvuKHLPws) (December 18, 2020)
