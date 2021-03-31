@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Research"
+title: ""
 permalink: /research/
 author_profile: true
 ---
 
-# Refereed
+## Refereed
 
 * **Aengus Bridgman**, Eric Merkley, Peter John Loewen, Taylor Owen, Derek Ruths. 2021. [All in this together? A preregistered report on deservingness of government aid during the COVID-19 pandemic](https://www.doi.org/10.1017/XPS.2021.10), *The Journal of Experimental Political Science*. [[Replication materials available here]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LPHMB7)
 * **Aengus Bridgman**, Eric Merkley, Oleg Zhilin, Peter John Loewen, Taylor Owen, Derek Ruths. 2021. [Infodemic pathways: Evaluating the role that traditional and social media play in cross-national information transfer](https://www.frontiersin.org/articles/10.3389/fpos.2021.648646), *Frontiers in Political Science*. [[Replication materials available here]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Y0RP9J)
@@ -26,7 +26,7 @@ The COVID-19 pandemic has placed nearly unprecedented pressure on policymakers a
   <img src="{{ site.url }}{{ site.baseurl }}/images/nonpartisan_2020.jpeg" alt="">
 </figure> --->
 
-# Non-refereed:
+## Non-refereed:
 
 * Taylor Owen, Peter Loewen, Derek Ruths, **Aengus Bridgman**, Haji Mohammed Saleem, Eric Merkley, and Oleg Zhilin. 2020. [Understanding vaccine hesistancy in Canada: attitudes, beliefs, and the information ecosystem](https://mediaecosystemobservatory.com/Vaccine-hesistancy).
 * Taylor Owen, Peter Loewen, Derek Ruths, **Aengus Bridgman**, Robert Gorwa, Stephanie MacLellan, Eric Merkley, and Oleg Zhilin. 2020, [Lessons in Resilience: Canada’s Digital Media Ecosystem and the 2019 Election](https://ppforum.ca/articles/lessons-in-resilience-canadas-digital-media-ecosystem-and-the-2019-election/). Prepared for the Public Policy Forum and the Digital Democracy Project.
