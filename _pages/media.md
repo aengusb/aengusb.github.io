@@ -12,6 +12,7 @@ redirect_from:
 I have been interviewed for, among others, CBC, CTV, Global News, Le Devoir, and La Presse. My work has been covered in, among others, The New York Times, CBC, National Observer, the Post Millenial, Vox, La Presse, Radio-Canada, and the Toronto Star.
 
 Interviews:
+* Radio-Canada Téléjournal: [Bulletin de nouvelles du Mardi 6 Avril 2021 2021](https://ici.radio-canada.ca/tele/le-telejournal-ottawa-gatineau/site/episodes/524194/telejournal-ottawa-gatineau-mathieu-nadon-nouvelles) (April 6, 2021)
 * The Hill Times: [Government efforts to fight COVID-19 misinformation get mixed reviews as ‘infodemic’ persists](https://www.hilltimes.com/2021/03/24/government-efforts-to-fight-covid-19-misinformation-appreciated-but-theres-still-more-to-be-done-mps-experts/290190) (March 24, 2021)
 * Canadian Press: [N.L. doctor not alone in spreading COVID-19 misinformation, says national association](https://www.piquenewsmagazine.com/coronavirus-covid-19-national-news/nl-doctor-not-alone-in-spreading-covid-19-misinformation-says-national-association-3537081) (March 11, 2021)
 * CTV: [Social media, conspiracies, and misinformation](https://ottawa.ctvnews.ca/video?clipId=2122255&binId=1.1487308&playlistPageNum=1) (January 20, 2021)
@@ -34,6 +35,7 @@ Interviews:
 * CBC Radio: [Social Media and the Federal Election](https://www.cbc.ca/listen/live-radio/1-78-all-in-a-weekend/clip/15739794-social-media-and-the-federal-election) (October 5, 2019)
 
 News articles:
+* Montreal Gazette: [Pandemic? Try infodemic: McGill study says COVID-19 misinformation is a virus](https://montrealgazette.com/news/local-news/pandemic-try-infodemic-mcgill-study-says-covid-19-misinformation-is-a-virus) (April 8, 2021)
 * Journal de Montréal: [COVID-19: corrélation entre les fausses informations des médias sociaux et le non-respect des règles sanitaires](https://www.journaldemontreal.com/2020/07/29/covid-19--correlation-entre-les-fausses-informations-des-medias-sociaux-et-le-non-respect-des-regles-sanitaires) (July 30, 2020)
 * CTV News: [Canadians who turn to social media for COVID-19 news more prone to misconceptions: study](https://montreal.ctvnews.ca/canadians-who-turn-to-social-media-for-covid-19-news-more-prone-to-misconceptions-study-1.5043823) (July 30, 2020)
 * Montreal Gazette: [Twitter, Facebook are the main sources of COVID-19 misinformation, a McGill study finds](https://montrealgazette.com/news/local-news/twitter-facebook-are-the-main-sources-of-covid-19-misinformation-a-mcgill-study-finds/wcm/229a5fe0-a31f-48f7-a23f-ea89f95fc5cb/) (July 29, 2020)
