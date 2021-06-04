@@ -12,6 +12,7 @@ redirect_from:
 I have been interviewed for, among others, CBC, CTV, Global News, Le Devoir, and La Presse. My work has been covered in, among others, The New York Times, CBC, National Observer, the Post Millenial, Vox, La Presse, Radio-Canada, and the Toronto Star.
 
 Interviews:
+* Global News: [Misinformation spread during the pandemic](https://globalnews.ca/video/7917886/misinformation-spread-during-the-pandemic/) (May 30, 201/)
 * Radio-Canada Téléjournal: [Bulletin de nouvelles du Mardi 6 Avril 2021 2021](https://ici.radio-canada.ca/tele/le-telejournal-ottawa-gatineau/site/episodes/524194/telejournal-ottawa-gatineau-mathieu-nadon-nouvelles) (April 6, 2021)
 * The Hill Times: [Government efforts to fight COVID-19 misinformation get mixed reviews as ‘infodemic’ persists](https://www.hilltimes.com/2021/03/24/government-efforts-to-fight-covid-19-misinformation-appreciated-but-theres-still-more-to-be-done-mps-experts/290190) (March 24, 2021)
 * Canadian Press: [N.L. doctor not alone in spreading COVID-19 misinformation, says national association](https://www.piquenewsmagazine.com/coronavirus-covid-19-national-news/nl-doctor-not-alone-in-spreading-covid-19-misinformation-says-national-association-3537081) (March 11, 2021)
