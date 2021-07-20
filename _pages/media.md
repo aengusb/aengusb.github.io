@@ -15,6 +15,7 @@ Op-eds:
 * The Hill Times: [Conservative Party slowly learning real cost of promoting culturally divisive policies](https://www.hilltimes.com/2021/06/30/conservative-party-slowly-learning-real-cost-of-promoting-culturally-divisive-policies/303970) (June 30, 2021)
 
 Interviews:
+* Yahoo News: [Despite its slow start, Canada is now lapping U.S. on COVID vaccination. Is right-wing media to blame?](https://ca.news.yahoo.com/despite-a-slower-start-canada-is-now-lapping-us-on-covid-vaccination-are-right-wing-media-to-blame-090044237.html) (July 16, 2021)
 * Global News: [Misinformation spread during the pandemic](https://globalnews.ca/video/7917886/misinformation-spread-during-the-pandemic/) (May 30, 2021)
 * Radio-Canada Téléjournal: [Bulletin de nouvelles du Mardi 6 Avril 2021 2021](https://ici.radio-canada.ca/tele/le-telejournal-ottawa-gatineau/site/episodes/524194/telejournal-ottawa-gatineau-mathieu-nadon-nouvelles) (April 6, 2021)
 * The Hill Times: [Government efforts to fight COVID-19 misinformation get mixed reviews as ‘infodemic’ persists](https://www.hilltimes.com/2021/03/24/government-efforts-to-fight-covid-19-misinformation-appreciated-but-theres-still-more-to-be-done-mps-experts/290190) (March 24, 2021)
