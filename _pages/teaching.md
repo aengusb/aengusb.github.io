@@ -7,10 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-For the presentation for the McGill 2019 Bootcamp click <a href="https://aengusb.github.io/github_bootcamp/#">here</a>.
 
 Courses I have given include:
 
+* PPOL 636 Combating Mis and Disinformation: A Global Policy Challenge (Winter 2025)
+* POLI 361: Political Participation in Comparative Perspective (Fall 2024)
+* McGill 2019 Bootcamp click <a href="https://aengusb.github.io/github_bootcamp/#">here</a>.
 * Introduction to LaTex and Zotero (Winter 2018)
 * Introduction to replicable research using version control (Summer 2018 and 2019)
 
