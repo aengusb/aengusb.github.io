@@ -1,0 +1,520 @@
+{
+  "conferences": [
+    {
+      "id": "chpc-2025",
+      "title": "Expert Witness: Effects of Influencers and Social Media Content on Children and Adolescents",
+      "eventName": "House of Commons Standing Committee on Canadian Heritage (CHPC)",
+      "eventType": "testimony",
+      "date": "2025-12-03",
+      "year": 2025,
+      "location": {
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada"
+      },
+      "tags": ["social-media", "children", "testimony", "parliament"],
+      "url": "https://www.ourcommons.ca/DocumentViewer/en/45-1/CHPC/meeting-18/notice"
+    },
+    {
+      "id": "secd-2025",
+      "title": "Expert Witness: Impacts of Russia's Disinformation on Canada",
+      "eventName": "Senate Standing Committee on National Security, Defence and Veterans Affairs (SECD)",
+      "eventType": "testimony",
+      "date": "2025-10-27",
+      "year": 2025,
+      "location": {
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada"
+      },
+      "tags": ["disinformation", "russia", "testimony", "senate"],
+      "url": "https://sencanada.ca/en/committees/SECD/noticeofmeeting/674203/45-1"
+    },
+    {
+      "id": "apsa-2025",
+      "title": "Monitoring and Studying Disinformation during Elections: An Observatory Approach",
+      "eventName": "American Political Science Association Annual Meeting",
+      "eventType": "paper",
+      "date": "2025-08-28",
+      "year": 2025,
+      "location": {
+        "city": "Vancouver",
+        "state": "BC",
+        "country": "Canada"
+      },
+      "tags": ["disinformation", "elections", "methodology"]
+    },
+    {
+      "id": "quebec-ai-democracy-2025",
+      "title": "Member",
+      "eventName": "Comité de travail - Démocratie & IA (Quebec Government)",
+      "eventType": "service",
+      "date": "2025-01-01",
+      "year": 2025,
+      "location": {
+        "city": "Quebec City",
+        "state": "QC",
+        "country": "Canada"
+      },
+      "tags": ["AI", "democracy", "policy", "quebec"]
+    },
+    {
+      "id": "wpfc-2025",
+      "title": "AI & the Press: Threats & Opportunities",
+      "eventName": "World Press Freedom Canada",
+      "eventType": "invited",
+      "date": "2025-01-01",
+      "year": 2025,
+      "location": {
+        "country": "Canada"
+      },
+      "tags": ["AI", "press", "media"]
+    },
+    {
+      "id": "uottawa-2025",
+      "title": "AI, The Digital Ecosystem, and the Future of Democracy",
+      "eventName": "University of Ottawa",
+      "eventType": "invited",
+      "date": "2025-01-01",
+      "year": 2025,
+      "location": {
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada"
+      },
+      "tags": ["AI", "democracy", "digital-ecosystem"]
+    },
+    {
+      "id": "battle-truth-2025",
+      "title": "Battle for the Truth: How to Protect Canada from Dis- and Misinformation",
+      "eventName": "Panel Discussion",
+      "eventType": "invited",
+      "date": "2025-01-01",
+      "year": 2025,
+      "location": {
+        "country": "Canada"
+      },
+      "tags": ["misinformation", "disinformation", "canada"]
+    },
+    {
+      "id": "pifi-2024",
+      "title": "Expert Witness",
+      "eventName": "Public Inquiry on Foreign Interference",
+      "eventType": "testimony",
+      "date": "2024-01-01",
+      "year": 2024,
+      "location": {
+        "country": "Canada"
+      },
+      "tags": ["foreign-interference", "testimony", "government"]
+    },
+    {
+      "id": "ethi-2024",
+      "title": "Expert Witness",
+      "eventName": "House of Commons Standing Committee on Access to Information, Privacy and Ethics",
+      "eventType": "testimony",
+      "date": "2024-01-01",
+      "year": 2024,
+      "location": {
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada"
+      },
+      "tags": ["testimony", "parliament", "privacy"]
+    },
+    {
+      "id": "apsa-2024",
+      "title": "Information Ecosystems and Democratic Health",
+      "eventName": "American Political Science Association Annual Meeting",
+      "eventType": "paper",
+      "date": "2024-09-05",
+      "year": 2024,
+      "location": {
+        "city": "Philadelphia",
+        "state": "PA",
+        "country": "USA"
+      },
+      "tags": ["misinformation", "democracy", "media"]
+    },
+    {
+      "id": "cpsa-2024",
+      "title": "The Canadian Information Ecosystem",
+      "eventName": "Canadian Political Science Association Annual Conference",
+      "eventType": "paper",
+      "date": "2024-06-15",
+      "year": 2024,
+      "location": {
+        "city": "Montreal",
+        "state": "QC",
+        "country": "Canada"
+      },
+      "tags": ["media-ecosystem", "canada"]
+    },
+    {
+      "id": "iog-2023",
+      "title": "Disinformation Challenging Democracy",
+      "eventName": "Institute on Governance",
+      "eventType": "invited",
+      "date": "2023-01-01",
+      "year": 2023,
+      "location": {
+        "country": "Canada"
+      },
+      "tags": ["disinformation", "democracy"]
+    },
+    {
+      "id": "ica-2023",
+      "title": "Misinformation and Public Health During COVID-19",
+      "eventName": "International Communication Association Annual Conference",
+      "eventType": "paper",
+      "date": "2023-05-25",
+      "year": 2023,
+      "location": {
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada"
+      },
+      "tags": ["covid-19", "misinformation", "public-health"]
+    },
+    {
+      "id": "cpsa-2023",
+      "title": "Alberta Election Information Ecosystem",
+      "eventName": "Canadian Political Science Association Annual Conference",
+      "eventType": "paper",
+      "date": "2023-06-01",
+      "year": 2023,
+      "location": {
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada"
+      },
+      "tags": ["elections", "alberta", "media-ecosystem"]
+    },
+    {
+      "id": "epsa-2022",
+      "title": "Globalisation, crisis, and voting behaviour: The electoral impact of the European Globalisation Adjustment Fund",
+      "eventName": "European Political Science Association Annual Conference",
+      "eventType": "paper",
+      "date": "2022-06-01",
+      "year": 2022,
+      "location": {
+        "country": "Europe"
+      },
+      "tags": ["globalisation", "voting", "europe"]
+    },
+    {
+      "id": "apsa-2022",
+      "title": "Cross-National Information Transfer During COVID-19",
+      "eventName": "American Political Science Association Annual Meeting",
+      "eventType": "paper",
+      "date": "2022-09-15",
+      "year": 2022,
+      "location": {
+        "city": "Montreal",
+        "state": "QC",
+        "country": "Canada"
+      },
+      "tags": ["covid-19", "misinformation", "cross-national"]
+    },
+    {
+      "id": "mpsa-2022",
+      "title": "Social Distrust in Quebec",
+      "eventName": "Midwest Political Science Association Annual Conference",
+      "eventType": "paper",
+      "date": "2022-04-07",
+      "year": 2022,
+      "location": {
+        "city": "Chicago",
+        "state": "IL",
+        "country": "USA"
+      },
+      "tags": ["quebec", "social-trust"]
+    },
+    {
+      "id": "mcgill-alumni-2021",
+      "title": "Can vaccination efforts be derailed by fear and fallacy?",
+      "eventName": "McGill Alumni Webcast",
+      "eventType": "invited",
+      "date": "2021-01-01",
+      "year": 2021,
+      "location": {
+        "city": "Montreal",
+        "state": "QC",
+        "country": "Canada",
+        "virtual": true
+      },
+      "tags": ["vaccines", "misinformation", "covid-19"]
+    },
+    {
+      "id": "copss-2021",
+      "title": "Misinformation and attitude formation among the Canadian Public",
+      "eventName": "COPSS-NISS COVID-19 Data Science Webinar Series",
+      "eventType": "invited",
+      "date": "2021-01-01",
+      "year": 2021,
+      "location": {
+        "virtual": true
+      },
+      "tags": ["misinformation", "covid-19", "data-science"]
+    },
+    {
+      "id": "cpsa-2021-activists",
+      "title": "Who composes the conversation? An evaluation of the distinctiveness of digital activists",
+      "eventName": "Canadian Political Science Association Annual Conference",
+      "eventType": "paper",
+      "date": "2021-06-07",
+      "year": 2021,
+      "location": {
+        "city": "Virtual",
+        "country": "Canada",
+        "virtual": true
+      },
+      "tags": ["digital-activists", "social-media"]
+    },
+    {
+      "id": "cpsa-2021-wsb",
+      "title": "r/WallStreetBets, GameStop, and mobilization of expressive political participation",
+      "eventName": "Canadian Political Science Association Annual Conference",
+      "eventType": "paper",
+      "date": "2021-06-07",
+      "year": 2021,
+      "location": {
+        "city": "Virtual",
+        "country": "Canada",
+        "virtual": true
+      },
+      "tags": ["reddit", "participation", "finance"]
+    },
+    {
+      "id": "cpsa-2021-misinfo",
+      "title": "Reach, perceived accuracy, and engagement with real and fake stories during the 2021 Canadian federal election",
+      "eventName": "Canadian Political Science Association Annual Conference",
+      "eventType": "paper",
+      "date": "2021-06-07",
+      "year": 2021,
+      "location": {
+        "city": "Virtual",
+        "country": "Canada",
+        "virtual": true
+      },
+      "tags": ["misinformation", "elections", "canada"]
+    },
+    {
+      "id": "apsa-2021",
+      "title": "Globalisation, crisis, and voting behaviour: The electoral impact of the European Globalisation Adjustment Fund",
+      "eventName": "American Political Science Association Annual Meeting",
+      "eventType": "paper",
+      "date": "2021-09-01",
+      "year": 2021,
+      "location": {
+        "virtual": true
+      },
+      "tags": ["globalisation", "voting", "europe"]
+    },
+    {
+      "id": "tau-2020",
+      "title": "Disinformation in 2020: Actors, Threats, and Solutions",
+      "eventName": "Tel Aviv University / Institute for National Security Studies",
+      "eventType": "invited",
+      "date": "2020-01-01",
+      "year": 2020,
+      "location": {
+        "city": "Tel Aviv",
+        "country": "Israel"
+      },
+      "tags": ["disinformation", "security"]
+    },
+    {
+      "id": "umanitoba-2020",
+      "title": "Digital public engagement and political participation",
+      "eventName": "University of Manitoba",
+      "eventType": "invited",
+      "date": "2020-01-01",
+      "year": 2020,
+      "location": {
+        "city": "Winnipeg",
+        "state": "MB",
+        "country": "Canada"
+      },
+      "tags": ["digital", "participation"]
+    },
+    {
+      "id": "dawson-2020",
+      "title": "Misinformation, COVID-19, and social media: Research design from start to finish",
+      "eventName": "Dawson College",
+      "eventType": "invited",
+      "date": "2020-01-01",
+      "year": 2020,
+      "location": {
+        "city": "Montreal",
+        "state": "QC",
+        "country": "Canada"
+      },
+      "tags": ["misinformation", "covid-19", "research-methods"]
+    },
+    {
+      "id": "cscds-2020",
+      "title": "Data Science, Elections, Politics, and Media",
+      "eventName": "CSCDS Data Science Community Expo",
+      "eventType": "invited",
+      "date": "2020-01-01",
+      "year": 2020,
+      "location": {
+        "city": "Montreal",
+        "state": "QC",
+        "country": "Canada"
+      },
+      "tags": ["data-science", "elections", "media"]
+    },
+    {
+      "id": "ecpr-2020",
+      "title": "Globalisation, crisis, and voting behaviour: The electoral impact of the European Globalisation Adjustment Fund",
+      "eventName": "European Consortium for Political Research General Conference",
+      "eventType": "paper",
+      "date": "2020-08-01",
+      "year": 2020,
+      "location": {
+        "virtual": true
+      },
+      "tags": ["globalisation", "voting", "europe"]
+    },
+    {
+      "id": "apsa-2020",
+      "title": "Deservingness of Government Aid During COVID-19",
+      "eventName": "American Political Science Association Annual Meeting",
+      "eventType": "paper",
+      "date": "2020-09-10",
+      "year": 2020,
+      "location": {
+        "city": "Virtual",
+        "country": "USA",
+        "virtual": true
+      },
+      "tags": ["covid-19", "public-opinion", "government"]
+    },
+    {
+      "id": "cpsa-2020",
+      "title": "The Canadian Senate as Non-Partisan Chamber",
+      "eventName": "Canadian Political Science Association Annual Conference",
+      "eventType": "paper",
+      "date": "2020-06-01",
+      "year": 2020,
+      "location": {
+        "city": "Virtual",
+        "country": "Canada",
+        "virtual": true
+      },
+      "tags": ["senate", "canada", "institutions"]
+    },
+    {
+      "id": "misinfocon-2019",
+      "title": "So you think you can track an election",
+      "eventName": "Misinfocon",
+      "eventType": "invited",
+      "date": "2019-01-01",
+      "year": 2019,
+      "location": {
+        "country": "USA"
+      },
+      "tags": ["elections", "misinformation", "tracking"]
+    },
+    {
+      "id": "udem-senate-2019",
+      "title": "Evaluating legislative influence in bicameral systems: Canadian Senate reform and lobbyist behaviour",
+      "eventName": "Canada Research Chair in Electoral Democracy, University of Montreal",
+      "eventType": "invited",
+      "date": "2019-01-01",
+      "year": 2019,
+      "location": {
+        "city": "Montreal",
+        "state": "QC",
+        "country": "Canada"
+      },
+      "tags": ["senate", "lobbying", "canada"]
+    },
+    {
+      "id": "cpsa-2019",
+      "title": "Hyperdiversity and dual motivations of political participation: Evidence from the Canadian case on the impact of neighbourhood change",
+      "eventName": "Canadian Political Science Association Annual Conference",
+      "eventType": "paper",
+      "date": "2019-06-01",
+      "year": 2019,
+      "location": {
+        "city": "Vancouver",
+        "state": "BC",
+        "country": "Canada"
+      },
+      "tags": ["participation", "diversity", "canada"]
+    },
+    {
+      "id": "spsa-2019",
+      "title": "Globalisation, crisis, and voting behaviour: The electoral impact of the European Globalisation Adjustment Fund",
+      "eventName": "Southern Political Science Association Annual Conference",
+      "eventType": "paper",
+      "date": "2019-01-01",
+      "year": 2019,
+      "location": {
+        "city": "Austin",
+        "state": "TX",
+        "country": "USA"
+      },
+      "tags": ["globalisation", "voting", "europe"]
+    },
+    {
+      "id": "apsa-2019",
+      "title": "Unveiling: Court Rulings and Electoral Consequences",
+      "eventName": "American Political Science Association Annual Meeting",
+      "eventType": "paper",
+      "date": "2019-08-29",
+      "year": 2019,
+      "location": {
+        "city": "Washington",
+        "state": "DC",
+        "country": "USA"
+      },
+      "tags": ["elections", "courts", "quebec"]
+    },
+    {
+      "id": "udem-niqab-2018",
+      "title": "Losing elections for standing for your values? The electoral consequences of a court ruling on the niqab ban in Canada",
+      "eventName": "Canada Research Chair in Electoral Democracy, University of Montreal",
+      "eventType": "invited",
+      "date": "2018-01-01",
+      "year": 2018,
+      "location": {
+        "city": "Montreal",
+        "state": "QC",
+        "country": "Canada"
+      },
+      "tags": ["elections", "niqab", "courts"]
+    },
+    {
+      "id": "npsa-2018",
+      "title": "Canadian Senate change: appointed, independent, and ripe for lobbying",
+      "eventName": "Northeastern Political Science Association Annual Conference",
+      "eventType": "paper",
+      "date": "2018-11-01",
+      "year": 2018,
+      "location": {
+        "city": "Montreal",
+        "state": "QC",
+        "country": "Canada"
+      },
+      "tags": ["senate", "lobbying", "canada"]
+    },
+    {
+      "id": "cpsa-2018",
+      "title": "A Distinct Society? A compositional exploration of social capital in Quebec",
+      "eventName": "Canadian Political Science Association Annual Conference",
+      "eventType": "paper",
+      "date": "2018-06-01",
+      "year": 2018,
+      "location": {
+        "city": "Regina",
+        "state": "SK",
+        "country": "Canada"
+      },
+      "tags": ["quebec", "social-capital"]
+    }
+  ]
+}

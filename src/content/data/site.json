@@ -1,0 +1,38 @@
+{
+  "name": "Aengus Bridgman",
+  "title": "Aengus Bridgman",
+  "description": "Political Scientist. Digital Politics, Big Data, and Canadian Politics.",
+  "url": "https://abridgman.ca",
+  "author": {
+    "name": "Aengus Bridgman",
+    "position": "Assistant Professor (Research)",
+    "institution": "McGill University",
+    "department": "Max Bell School of Public Policy",
+    "location": "Montreal, Quebec, Canada",
+    "bio": "I am an Assistant Professor (Research) at McGill University. I study political behaviour and communication in Canada and other mature democracies. Methodologically, I work with survey, census, and social/traditional media data with an additional interest in data science, machine learning, natural language processing and computational social science more generally.",
+    "avatar": "/images/aengus_2_bw.jpg"
+  },
+  "social": {
+    "twitter": "AengusBridgman",
+    "github": "aengusb",
+    "googleScholar": "https://scholar.google.ca/citations?user=rxQTZG0AAAAJ",
+    "email": "aengus.bridgman@mcgill.ca"
+  },
+  "affiliations": [
+    {
+      "name": "Media Ecosystem Observatory",
+      "url": "https://www.meo.ca",
+      "role": "Director"
+    },
+    {
+      "name": "Canadian Digital Media Research Network",
+      "url": "https://www.cdmrn.ca",
+      "role": "Director"
+    },
+    {
+      "name": "Centre for Media, Technology and Democracy",
+      "url": "https://www.mediatechdemocracy.com/",
+      "role": "Affiliate"
+    }
+  ]
+}

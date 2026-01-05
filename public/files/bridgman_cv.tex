@@ -1,0 +1,329 @@
+%!TEX program = pdflatex
+\documentclass[11pt,letterpaper]{article}
+
+% Packages
+\usepackage[margin=1in]{geometry}
+% Use Computer Modern (default) - always available
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{xcolor}
+
+% Colors
+\definecolor{accent}{RGB}{13, 148, 136}
+\definecolor{linkblue}{RGB}{0, 102, 204}
+
+% Hyperref setup
+\hypersetup{
+  colorlinks=true,
+  linkcolor=linkblue,
+  urlcolor=linkblue,
+  pdfauthor={Aengus Bridgman},
+  pdftitle={Curriculum Vitae - Aengus Bridgman}
+}
+
+% Section formatting
+\titleformat{\section}{\Large\bfseries\color{accent}}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{12pt}{6pt}
+
+\titleformat{\subsection}{\large\bfseries}{}{0em}{}
+\titlespacing{\subsection}{0pt}{8pt}{4pt}
+
+% Header/Footer
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[C]{\thepage}
+\fancyfoot[R]{\small Updated: January 2026}
+
+% Custom commands
+\newcommand{\cvitem}[2]{\noindent\textbf{#1:} #2\\[4pt]}
+
+\begin{document}
+
+% Header
+\begin{center}
+{\LARGE\bfseries Aengus Bridgman}\\[6pt]
+{\large Assistant Professor (Research)}\\[2pt]
+{\large Max Bell School of Public Policy, McGill University}\\[8pt]
+\href{mailto:aengus.bridgman@mcgill.ca}{aengus.bridgman@mcgill.ca} \quad|\quad
+\href{https://abridgman.ca}{abridgman.ca} \quad|\quad
+\href{https://scholar.google.ca/citations?user=rxQTZG0AAAAJ}{Google Scholar}
+\end{center}
+
+\vspace{12pt}
+
+%% ACADEMIC POSITION
+\section{Academic Position}
+
+\cvitem{2023--present}{Assistant Professor (Research), Max Bell School of Public Policy, McGill University}
+
+%% EDUCATION
+\section{Education}
+
+\cvitem{2025}{Ph.D., Political Science, McGill University}
+\begin{itemize}[leftmargin=2em, topsep=0pt, itemsep=0pt]
+  \item Thesis: \textit{Those who compose the conversation: Three essays on online political activists}
+  \item Committee: Dietlind Stolle (Supervisor), Aaron Erlich, Taylor Owen
+\end{itemize}
+\vspace{4pt}
+\cvitem{2013}{M.A., Political Science, University of Ottawa}
+\cvitem{2010}{B.A. (Honours), Political Science, University of Manitoba}
+
+%% RESEARCH INTERESTS
+\section{Research Interests}
+
+\textbf{Methods:} Computational social science, causal inference, survey design and analysis, field and natural experiments, survey experiments, text-as-data, machine learning, network analysis\\[4pt]
+\textbf{Substantive:} Political behaviour, information ecosystems, political communication, digital activism, misinformation, social media, Canadian politics
+
+%% RELEVANT WORK EXPERIENCE
+\section{Relevant Work Experience}
+
+\cvitem{2023--present}{Director, Media Ecosystem Observatory}
+\cvitem{2023--present}{Director, Canadian Digital Media Research Network}
+\cvitem{2022--2023}{Research Scientist, Centre for Social Media and Politics, NYU}
+\cvitem{2022--2023}{Senior Policy Analyst, Privy Council Office}
+\cvitem{2019--2022}{Digital Lead, Media Ecosystem Observatory}
+\cvitem{2014--2016}{Consultant, Deloitte}
+\cvitem{2012--2013}{Researcher, Centre on Public Management and Policy}
+
+
+%% REFEREED PUBLICATIONS
+\section{Refereed Publications}
+
+\begin{enumerate}[leftmargin=2em]
+\item Jack Lucas, Michael McGregor, \textbf{Aengus Bridgman}. 2023. ``Spatial voting in non-partisan cities: A case study'', \textit{Electoral Studies}. \href{https://doi.org/10.1016/j.electstud.2023.102599}{doi:10.1016/j.electstud.2023.102599}.
+
+\item \textbf{Aengus Bridgman}, Rosalie Nadeau, Dietlind Stolle. 2022. ``A distinct society: Understanding social distrust in Quebec'', \textit{Canadian Journal of Political Science/Revue canadienne de science politique}. \href{https://doi.org/10.1017/S0008423921000780}{doi:10.1017/S0008423921000780}.
+
+\item \textbf{Aengus Bridgman}, Dietlind Stolle. 2022. ``Mobilization and Political Participation'', \textit{Oxford Handbook of Political Participation}. \url{https://academic.oup.com/edited-volume/44007/chapter-abstract/371816097}.
+
+\item \textbf{Aengus Bridgman}, Eric Merkley, Peter John Loewen, Taylor Owen, Derek Ruths. 2021. ``All in this together? A preregistered report on deservingness of government aid during the COVID-19 pandemic'', \textit{The Journal of Experimental Political Science}. \href{https://doi.org/10.1017/XPS.2021.10}{doi:10.1017/XPS.2021.10}.
+
+\item \textbf{Aengus Bridgman}, Eric Merkley, Oleg Zhilin, Peter John Loewen, Taylor Owen, Derek Ruths. 2021. ``Infodemic pathways: Evaluating the role that traditional and social media play in cross-national information transfer'', \textit{Frontiers in Political Science}. \url{https://www.frontiersin.org/articles/10.3389/fpos.2021.648646}.
+
+\item \textbf{Aengus Bridgman}, Costin Ciobanu, Aaron Erlich, Danielle Bohonos, Christopher Ross. 2020. ``Unveiling: An Unexpected Mid-campaign Court Ruling's Consequences and the Limits of Following the Leader'', \textit{The Journal of Politics}. \href{https://doi.org/10.1086/711177}{doi:10.1086/711177}.
+
+\item \textbf{Aengus Bridgman}, Eric Merkley, Peter John Loewen, Taylor Owen, Derek Ruths, Oleg Zhilin. 2020. ``The causes and consequences of COVID-19 misperceptions: Understanding the role of news and social media'', \textit{The Harvard Kennedy School (HKS) Misinformation Review}. \href{https://doi.org/10.37016/mr-2020-028}{doi:10.37016/mr-2020-028}.
+
+\item \textbf{Aengus Bridgman}. 2020. ``A non-partisan legislative chamber: The influence of the Canadian Senate'', \textit{Party Politics}. \href{https://doi.org/10.1177/1354068820911345}{doi:10.1177/1354068820911345}.
+
+\item Eric Merkley, \textbf{Aengus Bridgman}, Peter John Loewen, Taylor Owen, Derek Ruths, Lisa Teichmann, Oleg Zhilin. 2020. ``A Rare Moment of Cross-Partisan Consensus: Elite and Public Response to the COVID-19 Pandemic in Canada'', \textit{Canadian Journal of Political Science/Revue canadienne de science politique}. \href{https://doi.org/10.1017/S0008423920000311}{doi:10.1017/S0008423920000311}.
+
+\end{enumerate}
+
+%% REPORTS AND NON-REFEREED PUBLICATIONS
+\section{Reports and Non-Refereed Publications}
+
+\begin{enumerate}[leftmargin=2em]
+\item \textbf{Aengus Bridgman}, Alexei Abrahams, Jennie Phillips, Elizabeth Dubois, Stephanie Carvin, Marcus Kolga, Mika Desblancs-Patel, Jean-Romain Roy. 2024. ``Russian Funding of US and Canadian Political Influencers'', Canadian Digital Media Research Network. \href{https://static1.squarespace.com/static/65427f5b140649321cd829e9/t/675860f3c8ffb13de64d8916/1733845241887/MEO-CDMRN-Tenet-Media-Russia-Incident-Report_2024_final.pdf}{[Link]}.
+
+\item \textbf{Aengus Bridgman}, David Hobson, Chris Ross, Blake Lee-Whiting, Sara Parker, Chloe Kemeni, Julian Lam, Fenwick McKelvey, Elizabeth Dubois, Scott DeJong, Robert Marinov, Colleen McCool, Hélène Huang, Jeremy Clark, Junyan Zhu. 2024. ``August 3 Bot Activity on X Related to Rally in Kirkland Lake'', Canadian Digital Media Research Network. \href{https://static1.squarespace.com/static/65427f5b140649321cd829e9/t/66cf664bd218c123615bde47/1724868172938/MEO-InRpt_Kirkland-2024_004.pdf}{[Link]}.
+
+\item \textbf{Aengus Bridgman}, Alexei Abrahams, Thomas Bergeron, Esli Chan, Mika Desblancs-Patel, Danielle Bohonos, Ashley Vu, Jennie Phillips, Zeynep Pehlivan, Saewon Park, Chris Ross, Ben Steel, Junyan Zhu. 2024. ``British Columbia Election Information Ecosystem Project: Baseline Report'', Media Ecosystem Observatory. \href{https://static1.squarespace.com/static/6450265301129e5dbabfe8a2/t/66f6ac5ac031861caedcbc4b/1727442012759/MEO_BCEMP-BaseRept-2024_006jp.pdf}{[Link]}.
+
+\item Chris Russill, \textbf{Aengus Bridgman}, Helen A. Hayes, Michael Khoo, Ghadah Alrasheed, Hannah Tollefson, Chris Ross, Leigh Peterson. 2024. ``Flame Wars: Misinformation and Wildfire in Canada's Climate Conversation'', Re.Climate. \href{https://reclimate.ca/wp-content/uploads/2024/06/Re.Climate-Report-Wildfire-Misinformation-2024.pdf}{[Link]}.
+
+\item Sara Parker, Christopher Ross, Zeynep Pehlivan, \textbf{Aengus Bridgman}. 2024. ``Old News, New Reality: A Year of Meta's News Ban in Canada'', Media Ecosystem Observatory. \href{https://static1.squarespace.com/static/6450265301129e5dbabfe8a2/t/66c36dba3066f124adb4000c/1724083643261/Meta+News+Ban+Report-08-19.pdf}{[Link]}.
+
+\item Sara Parker, Saewon Park, Zeynep Pehlivan, Alexei Abrahams, Mika Desblancs, Taylor Owen, Jennie Phillips, \textbf{Aengus Bridgman}. 2024. ``When Journalism is Turned Off: The Information Ecosystem in Local News Deserts in Canada'', Media Ecosystem Observatory. \href{https://static1.squarespace.com/static/6450265301129e5dbabfe8a2/t/6622c8a408f39611294ebdb2/1713555621401/Whenjournalism+is+turned+off_Preliminary+Report.pdf}{[Link]}.
+
+\item \textbf{Aengus Bridgman}, Blake Lee-Whiting, Thomas Bergeron, Thomas Galipeau, Alexei Abrahams, Saewon Park, Sara Parker, Taylor Owen, Peter Loewen. 2023. ``Indistinct Information Habitats: Information and Attitudes in the 2023 Alberta Election'', Media Ecosystem Observatory. \href{https://figshare.com/articles/book/Indistinct_Information_Habitats_Information_and_Attitudes_in_the_2023_Alberta_Election/24625314}{[Link]}.
+
+\item \textbf{Aengus Bridgman}, Alexei Abrahams, Thomas Bergeron, Thomas Galipeau, Blake Lee-Whiting, Haaya Naushan, Saewon Park, Sara Parker, Zeynep Pehlivan, Jennie Phillips, Benjamin Steel, Peter Loewen, Taylor Owen. 2023. ``The Canadian Information Ecosystem'', Media Ecosystem Observatory. \href{https://figshare.com/articles/book/State_of_the_Canadian_Media_Ecosystem_Report_November_2023/24574036?file=43326219}{[Link]}.
+
+\item Mathieu Lavigne, Maxime Blanchard, Anne Imouza, \textbf{Aengus Bridgman}, Chloé Staller, Kaligirwa Namahoro, Ella Noel, Catherine Perron, Phaedra de Saint-Rome, Taylor Owen. 2023. ``Analyse du rôle de la mésinformation lors de l'élection provinciale québécoise de 2022'', Media Ecosystem Observatory. \href{https://doi.org/10.31219/osf.io/wam45}{[Link]}.
+
+\item \textbf{Aengus Bridgman}, Mathieu Lavigne, Melissa Baker, Thomas Bergeron, Danielle Bohonos, Anthony Burton, Katherine McCoy, Mackenzie Hart, Mathieu Lavault, Rupin Liddar, Pangying Peng, Chris Ross, Jaclyn Victor, Taylor Owen, Peter Loewen. 2022. ``Mis- and Disinformation during the 2021 Canadian Federal Election'', Media Ecosystem Observatory. \href{https://doi.org/10.31219/osf.io/ubfmx}{[Link]}.
+
+\item Lisa Teichmann, Sean Nossek, \textbf{Aengus Bridgman}, Peter John Loewen, Taylor Owen, Derek Ruths. 2020. ``Public Health Communication and Engagement on Social Media during the COVID-19 Pandemic'', Journal of Medical Internet Research (Preprint). \href{https://osf.io/7hypj/}{[Link]}.
+
+\item Taylor Owen, Peter Loewen, Derek Ruths, \textbf{Aengus Bridgman}, Haji Mohammed Saleem, Eric Merkley, Oleg Zhilin. 2020. ``Understanding vaccine hesitancy in Canada: attitudes, beliefs, and the information ecosystem'', Media Ecosystem Observatory. \href{https://mediaecosystemobservatory.com/Vaccine-hesistancy}{[Link]}.
+
+\item John McAndrews, \textbf{Aengus Bridgman}, Peter Loewen, Daniel Rubenson, Laura Stephenson, Allison Harell. 2020. ``Evaluation of the 2019 Federal Leaders' Debates'', Canadian Leaders' Debates Commission. \href{https://www.debates-debats.ca/en/report/evaluation-2019-federal-leaders-debates}{[Link]}.
+
+\item Taylor Owen, Peter Loewen, Derek Ruths, \textbf{Aengus Bridgman}, Robert Gorwa, Stephanie MacLellan, Eric Merkley, Oleg Zhilin. 2020. ``Digital Democracy Project: Lessons in Resilience'', Public Policy Forum / Digital Democracy Project. \href{https://ppforum.ca/articles/lessons-in-resilience-canadas-digital-media-ecosystem-and-the-2019-election/}{[Link]}.
+
+\end{enumerate}
+
+%% INVITED TALKS
+\section{Invited Talks}
+
+\begin{enumerate}[leftmargin=2em]
+\item ``AI \& the Press: Threats \& Opportunities'', World Press Freedom Canada (2025).
+
+\item ``AI, The Digital Ecosystem, and the Future of Democracy'', University of Ottawa, Ottawa, ON (2025).
+
+\item ``Battle for the Truth: How to Protect Canada from Dis- and Misinformation'', Panel Discussion (2025).
+
+\item ``Disinformation Challenging Democracy'', Institute on Governance (2023).
+
+\item ``Can vaccination efforts be derailed by fear and fallacy?'', McGill Alumni Webcast, Montreal, QC (2021).
+
+\item ``Misinformation and attitude formation among the Canadian Public'', COPSS-NISS COVID-19 Data Science Webinar Series (2021).
+
+\item ``Disinformation in 2020: Actors, Threats, and Solutions'', Tel Aviv University / Institute for National Security Studies, Tel Aviv, Israel (2020).
+
+\item ``Digital public engagement and political participation'', University of Manitoba, Winnipeg, MB (2020).
+
+\item ``Misinformation, COVID-19, and social media: Research design from start to finish'', Dawson College, Montreal, QC (2020).
+
+\item ``Data Science, Elections, Politics, and Media'', CSCDS Data Science Community Expo, Montreal, QC (2020).
+
+\item ``So you think you can track an election'', Misinfocon (2019).
+
+\item ``Evaluating legislative influence in bicameral systems: Canadian Senate reform and lobbyist behaviour'', Canada Research Chair in Electoral Democracy, University of Montreal, Montreal, QC (2019).
+
+\item ``Losing elections for standing for your values? The electoral consequences of a court ruling on the niqab ban in Canada'', Canada Research Chair in Electoral Democracy, University of Montreal, Montreal, QC (2018).
+
+\end{enumerate}
+
+%% PARLIAMENTARY TESTIMONY
+\section{Parliamentary and Committee Testimony}
+
+\begin{enumerate}[leftmargin=2em]
+\item Expert Witness: Effects of Influencers and Social Media Content on Children and Adolescents, House of Commons Standing Committee on Canadian Heritage (CHPC) (December 2025). \href{https://www.ourcommons.ca/DocumentViewer/en/45-1/CHPC/meeting-18/notice}{[Notice]}.
+
+\item Expert Witness: Impacts of Russia's Disinformation on Canada, Senate Standing Committee on National Security, Defence and Veterans Affairs (SECD) (October 2025). \href{https://sencanada.ca/en/committees/SECD/noticeofmeeting/674203/45-1}{[Notice]}.
+
+\item Expert Witness, Public Inquiry on Foreign Interference (December 2023).
+
+\item Expert Witness, House of Commons Standing Committee on Access to Information, Privacy and Ethics (December 2023).
+
+\end{enumerate}
+
+%% CONFERENCE PRESENTATIONS
+\section{Conference Presentations}
+
+\begin{enumerate}[leftmargin=2em]
+\item ``Monitoring and Studying Disinformation during Elections: An Observatory Approach'', American Political Science Association Annual Meeting, Vancouver, BC (2025).
+
+\item ``Information Ecosystems and Democratic Health'', American Political Science Association Annual Meeting, Philadelphia, PA (2024).
+
+\item ``The Canadian Information Ecosystem'', Canadian Political Science Association Annual Conference, Montreal, QC (2024).
+
+\item ``Alberta Election Information Ecosystem'', Canadian Political Science Association Annual Conference, Toronto, ON (2023).
+
+\item ``Misinformation and Public Health During COVID-19'', International Communication Association Annual Conference, Toronto, ON (2023).
+
+\item ``Cross-National Information Transfer During COVID-19'', American Political Science Association Annual Meeting, Montreal, QC (2022).
+
+\item ``Globalisation, crisis, and voting behaviour: The electoral impact of the European Globalisation Adjustment Fund'', European Political Science Association Annual Conference, Europe (2022).
+
+\item ``Social Distrust in Quebec'', Midwest Political Science Association Annual Conference, Chicago, IL (2022).
+
+\item ``Globalisation, crisis, and voting behaviour: The electoral impact of the European Globalisation Adjustment Fund'', American Political Science Association Annual Meeting (2021).
+
+\item ``Who composes the conversation? An evaluation of the distinctiveness of digital activists'', Canadian Political Science Association Annual Conference, Virtual (2021).
+
+\item ``r/WallStreetBets, GameStop, and mobilization of expressive political participation'', Canadian Political Science Association Annual Conference, Virtual (2021).
+
+\item ``Reach, perceived accuracy, and engagement with real and fake stories during the 2021 Canadian federal election'', Canadian Political Science Association Annual Conference, Virtual (2021).
+
+\item ``Deservingness of Government Aid During COVID-19'', American Political Science Association Annual Meeting, Virtual (2020).
+
+\item ``Globalisation, crisis, and voting behaviour: The electoral impact of the European Globalisation Adjustment Fund'', European Consortium for Political Research General Conference (2020).
+
+\item ``The Canadian Senate as Non-Partisan Chamber'', Canadian Political Science Association Annual Conference, Virtual (2020).
+
+\item ``Unveiling: Court Rulings and Electoral Consequences'', American Political Science Association Annual Meeting, Washington, DC (2019).
+
+\item ``Hyperdiversity and dual motivations of political participation: Evidence from the Canadian case on the impact of neighbourhood change'', Canadian Political Science Association Annual Conference, Vancouver, BC (2019).
+
+\item ``Globalisation, crisis, and voting behaviour: The electoral impact of the European Globalisation Adjustment Fund'', Southern Political Science Association Annual Conference, Austin, TX (2019).
+
+\item ``Canadian Senate change: appointed, independent, and ripe for lobbying'', Northeastern Political Science Association Annual Conference, Montreal, QC (2018).
+
+\item ``A Distinct Society? A compositional exploration of social capital in Quebec'', Canadian Political Science Association Annual Conference, Regina, SK (2018).
+
+\end{enumerate}
+
+%% SERVICE
+\section{Service}
+
+\begin{itemize}[leftmargin=2em]
+\item Member, Comité de travail - Démocratie \& IA (Quebec Government) (2025)
+\item Referee for \textit{British Journal of Political Science}, \textit{Political Behaviour}, \textit{French Politics}, \textit{Scientific Reports}, \textit{Journal of Experimental Political Science}, \textit{Canadian Journal of Political Science}, \textit{Journal of Digital War}, \textit{Journal of Ethnic and Migration Studies}
+\item Referee for Council of Canadian Academies \textit{Vulnerable Connections: Expert Panel on Public Safety in the Digital Age}
+\item Co-organizer, McGill Comparative Politics Reading Group (2021)
+\item President, McGill Graduate Association of Political Science Students (2017--19)
+\end{itemize}
+
+%% TEACHING
+\section{Teaching}
+
+\subsection{As Instructor}
+\begin{itemize}[leftmargin=2em]
+\item Introduction to Public Policy Making: Issues in Digital Policy, McGill University (Winter 2025)
+\item Mis and Disinformation: A Global Policy Challenge, McGill University (Winter 2025)
+\item Political Participation in Comparative Perspective, McGill University (Fall 2022)
+\item Collecte des données en ligne avec API, UQAM (Winter 2022)
+\item Introduction to Replicable Research Using Version Control, McGill University (Summer 2019)
+\item Introduction to Replicable Research Using Version Control, McGill University (Summer 2018)
+\item Introduction to LaTeX and Zotero, McGill University (Winter 2018)
+\end{itemize}
+
+\subsection{As Teaching Assistant}
+\begin{itemize}[leftmargin=2em]
+\item Techniques of Empirical Research (Graduate Course), McGill University (2018)
+\item Techniques of Empirical Research (Graduate Course), McGill University (2017)
+\item R Bootcamp, McGill University (2017)
+\item Population Data Visualization Workshop, McGill University (2017)
+\item Politics of the Developed World, McGill University
+\item Local Government, McGill University
+\item Qualitative Research Methods, McGill University
+\item Budgetary Policy and Public Finance, University of Ottawa
+\item Introduction to Politics, University of Ottawa
+\item Introduction to Canadian Politics, University of Ottawa
+\item Introduction to Political Thought, University of Ottawa
+\item Introduction to Modern Thought, University of Ottawa
+\item Political Legal Theory, University of Ottawa
+\end{itemize}
+
+%% GRANTS
+\section{Grant Awards}
+
+\begin{itemize}[leftmargin=2em]
+\item Canadian Heritage Digital Citizen Initiative (\$5,500,000) -- awarded to the Media Ecosystem Observatory for delivery of the Canadian Digital Media Research Network
+\item Elections British Columbia (\$100,000) -- awarded to the Media Ecosystem Observatory for delivery of the British Columbia Elections Study
+\item Canadian Heritage Digital Citizen Initiative (\$100,000) -- for the Avatar Project
+\item Élections Québec (\$45,000) -- awarded to the Media Ecosystem Observatory for delivery of the Projet sur la désinformation électorale au Québec
+\item Canadian Heritage Digital Citizen Initiative (\$50,000) -- for the Disinformed Podcast
+\item Global Affairs Canada (\$100,000) -- awarded to the Media Ecosystem Observatory for delivery of the Canadian Election Misinformation Project
+\end{itemize}
+
+%% AWARDS
+\section{Research Awards}
+
+\begin{itemize}[leftmargin=2em]
+\item SSHRC Postdoctoral Fellowship (2023, declined)
+\item Political Methodology Award, ICPSR (Summer 2019)
+\item Joseph-Armand Bombardier Graduate Scholarship (2018--21)
+\item Consortium on Qualitative Research Methods Scholarship (Summer 2018)
+\item Graduate Mobility Award (2018, 2019, 2021)
+\item Graduate Excellence Fellowship (2016--18)
+\item Centre for the Study of Democratic Citizenship Fellowship (2016--2020)
+\item Mallory Fellowship (2016)
+\item Faculty of Arts Masters Scholarship (2010--11)
+\item Murray S. Donnelly Award (2008--09)
+\end{itemize}
+
+%% MEDIA
+\section{Media Appearances}
+
+I have been interviewed over 200 times by news media on specific research projects as well as on misinformation, social media, and political participation in Canada more generally. Selected appearances include CBC News/The National, Radio-Canada Téléjournal, The New York Times, Washington Post, Vox, Global News, CTV News, Toronto Star, Montreal Gazette, La Presse, Le Devoir, and NPR. A complete list is available at \href{https://abridgman.ca/media/}{abridgman.ca/media}.
+
+%% TECHNICAL SKILLS
+\section{Technical Skills}
+
+Python, R, SQL, \LaTeX, Git, Selenium, Qualtrics, JavaScript, Microsoft Office suite
+
+%% LANGUAGES
+\section{Languages}
+
+English (native), French (advanced)
+
+\end{document}

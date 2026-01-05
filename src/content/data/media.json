@@ -1,0 +1,417 @@
+{
+  "appearances": [
+    {
+      "id": "hill-times-2021-conservative",
+      "title": "Conservative Party slowly learning real cost of promoting culturally divisive policies",
+      "outlet": "The Hill Times",
+      "mediaType": "op-ed",
+      "date": "2021-06-30",
+      "year": 2021,
+      "links": {
+        "article": "https://www.hilltimes.com/2021/06/30/conservative-party-slowly-learning-real-cost-of-promoting-culturally-divisive-policies/303970"
+      },
+      "topics": ["canadian-politics", "conservative-party"]
+    },
+    {
+      "id": "yahoo-news-2021-vaccination",
+      "title": "Despite its slow start, Canada is now lapping U.S. on COVID vaccination. Is right-wing media to blame?",
+      "outlet": "Yahoo News",
+      "mediaType": "print",
+      "date": "2021-07-16",
+      "year": 2021,
+      "links": {
+        "article": "https://ca.news.yahoo.com/despite-a-slower-start-canada-is-now-lapping-us-on-covid-vaccination-are-right-wing-media-to-blame-090044237.html"
+      },
+      "topics": ["covid-19", "misinformation", "vaccination"],
+      "featured": true
+    },
+    {
+      "id": "global-news-2021-misinfo",
+      "title": "Misinformation spread during the pandemic",
+      "outlet": "Global News",
+      "mediaType": "tv",
+      "date": "2021-05-30",
+      "year": 2021,
+      "links": {
+        "video": {
+          "url": "https://globalnews.ca/video/7917886/misinformation-spread-during-the-pandemic/",
+          "platform": "other"
+        }
+      },
+      "topics": ["covid-19", "misinformation"]
+    },
+    {
+      "id": "radio-canada-2021-telejournal",
+      "title": "Bulletin de nouvelles du Mardi 6 Avril 2021",
+      "outlet": "Radio-Canada Téléjournal",
+      "mediaType": "tv",
+      "date": "2021-04-06",
+      "year": 2021,
+      "language": "fr",
+      "links": {
+        "video": {
+          "url": "https://ici.radio-canada.ca/tele/le-telejournal-ottawa-gatineau/site/episodes/524194/telejournal-ottawa-gatineau-mathieu-nadon-nouvelles",
+          "platform": "other"
+        }
+      },
+      "topics": ["covid-19"]
+    },
+    {
+      "id": "hill-times-2021-govt-misinfo",
+      "title": "Government efforts to fight COVID-19 misinformation get mixed reviews as 'infodemic' persists",
+      "outlet": "The Hill Times",
+      "mediaType": "print",
+      "date": "2021-03-24",
+      "year": 2021,
+      "links": {
+        "article": "https://www.hilltimes.com/2021/03/24/government-efforts-to-fight-covid-19-misinformation-appreciated-but-theres-still-more-to-be-done-mps-experts/290190"
+      },
+      "topics": ["covid-19", "misinformation", "policy"]
+    },
+    {
+      "id": "canadian-press-2021-doctor",
+      "title": "N.L. doctor not alone in spreading COVID-19 misinformation, says national association",
+      "outlet": "Canadian Press",
+      "mediaType": "print",
+      "date": "2021-03-11",
+      "year": 2021,
+      "links": {
+        "article": "https://www.piquenewsmagazine.com/coronavirus-covid-19-national-news/nl-doctor-not-alone-in-spreading-covid-19-misinformation-says-national-association-3537081"
+      },
+      "topics": ["covid-19", "misinformation"]
+    },
+    {
+      "id": "ctv-2021-conspiracies",
+      "title": "Social media, conspiracies, and misinformation",
+      "outlet": "CTV News",
+      "mediaType": "tv",
+      "date": "2021-01-20",
+      "year": 2021,
+      "links": {
+        "video": {
+          "url": "https://ottawa.ctvnews.ca/video?clipId=2122255&binId=1.1487308&playlistPageNum=1",
+          "platform": "other"
+        }
+      },
+      "topics": ["social-media", "conspiracy-theories", "misinformation"]
+    },
+    {
+      "id": "cbc-national-2020-vaccine-misinfo",
+      "title": "How social media platforms and personalities are countering false information about COVID-19 vaccines",
+      "outlet": "CBC News / The National",
+      "mediaType": "tv",
+      "date": "2020-12-18",
+      "year": 2020,
+      "links": {
+        "article": "https://www.cbc.ca/news/health/social-media-covid-vaccine-misinformation-1.5842663",
+        "video": {
+          "url": "https://www.youtube.com/watch?v=UfCvuKHLPws",
+          "platform": "youtube",
+          "embedId": "UfCvuKHLPws"
+        }
+      },
+      "topics": ["covid-19", "misinformation", "social-media", "vaccines"],
+      "featured": true
+    },
+    {
+      "id": "global-news-2020-csis",
+      "title": "CSIS accuses Russia, China and Iran of spreading COVID-19 disinformation",
+      "outlet": "Global News",
+      "mediaType": "print",
+      "date": "2020-12-03",
+      "year": 2020,
+      "links": {
+        "article": "https://globalnews.ca/news/7494689/csis-accuses-russia-china-iran-coronavirus-covid-19-disinformation/"
+      },
+      "topics": ["covid-19", "disinformation", "foreign-interference"]
+    },
+    {
+      "id": "cjad-2020-antimask",
+      "title": "Are anti-mask groups really a movement or just a small number of people getting way too much attention?",
+      "outlet": "CJAD 800",
+      "mediaType": "radio",
+      "date": "2020-12-01",
+      "year": 2020,
+      "links": {
+        "audio": {
+          "url": "https://www.iheartradio.ca/cjad/audio/are-anti-mask-groups-really-a-movement-or-just-a-small-number-of-people-getting-way-too-much-attention-1.14068306?mode=Article",
+          "platform": "other"
+        }
+      },
+      "topics": ["covid-19", "anti-mask"]
+    },
+    {
+      "id": "gazette-2020-antimask",
+      "title": "Anti-mask fringe movement getting more media coverage than warranted: expert",
+      "outlet": "Montreal Gazette",
+      "mediaType": "print",
+      "date": "2020-11-30",
+      "year": 2020,
+      "links": {
+        "article": "https://montrealgazette.com/news/local-news/anti-maskers-get-more-coverage-than-size-of-movement-warrants-expert"
+      },
+      "topics": ["covid-19", "anti-mask", "media"]
+    },
+    {
+      "id": "cbc-national-2020-vaccine-hesitancy",
+      "title": "Addressing vaccine hesitancy is a looming hurdle in race to end pandemic",
+      "outlet": "CBC News / The National",
+      "mediaType": "tv",
+      "date": "2020-11-25",
+      "year": 2020,
+      "links": {
+        "article": "https://www.cbc.ca/news/canada/covid-19-vaccine-safety-1.5813484",
+        "video": {
+          "url": "https://www.youtube.com/watch?v=moVqOWjNkmY",
+          "platform": "youtube",
+          "embedId": "moVqOWjNkmY"
+        }
+      },
+      "topics": ["covid-19", "vaccines", "vaccine-hesitancy"],
+      "featured": true
+    },
+    {
+      "id": "star-2020-great-reset",
+      "title": "A Conservative MP warns that Justin Trudeau wants a 'Great Reset.' Conspiracy theorists are worried, too",
+      "outlet": "Toronto Star",
+      "mediaType": "print",
+      "date": "2020-11-20",
+      "year": 2020,
+      "links": {
+        "article": "https://www.thestar.com/politics/federal/2020/11/19/a-conservative-mp-warns-that-justin-trudeau-wants-a-great-reset-conspiracy-theorists-are-worried-too.html"
+      },
+      "topics": ["conspiracy-theories", "canadian-politics"]
+    },
+    {
+      "id": "cbc-2020-rally",
+      "title": "Global rally against COVID-19 safety measures comes to Parliament Hill",
+      "outlet": "CBC News",
+      "mediaType": "tv",
+      "date": "2020-08-29",
+      "year": 2020,
+      "links": {
+        "article": "https://www.cbc.ca/news/politics/covid-19-rally-ottawa-1.5705216"
+      },
+      "topics": ["covid-19", "protests"]
+    },
+    {
+      "id": "pod6ix-2020-covid",
+      "title": "Covid Conspiracies & Misinformation with Aengus Bridgman",
+      "outlet": "Pod 6ix",
+      "mediaType": "podcast",
+      "date": "2020-08-20",
+      "year": 2020,
+      "links": {
+        "article": "https://pod6ix.com/covid-conspiracies-misinfo-with-aengus-bridgman-lockdown-toronto-ep-12/",
+        "audio": {
+          "url": "https://pod6ix.com/covid-conspiracies-misinfo-with-aengus-bridgman-lockdown-toronto-ep-12/",
+          "platform": "other"
+        }
+      },
+      "topics": ["covid-19", "conspiracy-theories", "misinformation"]
+    },
+    {
+      "id": "canadian-press-2020-conspiracy",
+      "title": "COVID-19 conspiracy theories are creating a 'public health crisis' in Canada: experts",
+      "outlet": "Canadian Press / National Post",
+      "mediaType": "print",
+      "date": "2020-08-03",
+      "year": 2020,
+      "links": {
+        "article": "https://nationalpost.com/news/canada/covid-19-conspiracies-creating-a-public-health-crisis-in-canada-experts-sa"
+      },
+      "topics": ["covid-19", "conspiracy-theories", "public-health"]
+    },
+    {
+      "id": "lapresse-2020-recherches",
+      "title": "J'ai fait mes recherches",
+      "outlet": "La Presse",
+      "mediaType": "print",
+      "date": "2020-07-30",
+      "year": 2020,
+      "language": "fr",
+      "links": {
+        "article": "https://www.lapresse.ca/actualites/2020-07-30/j-ai-fait-mes-recherches.php"
+      },
+      "topics": ["misinformation", "research"]
+    },
+    {
+      "id": "global-news-2020-social-media",
+      "title": "Coronavirus: Social media users more likely to believe false information, McGill study suggests",
+      "outlet": "Global News Montreal",
+      "mediaType": "tv",
+      "date": "2020-07-29",
+      "year": 2020,
+      "links": {
+        "article": "https://globalnews.ca/news/7229581/coronavirus-social-media-disinformation-mcgill/"
+      },
+      "topics": ["covid-19", "social-media", "misinformation"],
+      "featured": true
+    },
+    {
+      "id": "ledevoir-2020-alberta",
+      "title": "La Suède, version albertaine",
+      "outlet": "Le Devoir",
+      "mediaType": "print",
+      "date": "2020-05-29",
+      "year": 2020,
+      "language": "fr",
+      "links": {
+        "article": "https://www.ledevoir.com/politique/canada/579798/la-suede-version-albertaine"
+      },
+      "topics": ["covid-19", "alberta"]
+    },
+    {
+      "id": "ricochet-2020-polarization",
+      "title": "La Covid-19 aurait un effet sur la polarisation politique",
+      "outlet": "Ricochet Media",
+      "mediaType": "print",
+      "date": "2020-05-08",
+      "year": 2020,
+      "language": "fr",
+      "links": {
+        "article": "https://ricochet.media/fr/3088/la-covid-19-aurait-un-effet-sur-la-polarisation-politique"
+      },
+      "topics": ["covid-19", "polarization"]
+    },
+    {
+      "id": "vox-2020-canada-success",
+      "title": "Canada succeeded on coronavirus where America failed. Why?",
+      "outlet": "Vox",
+      "mediaType": "news",
+      "date": "2020-05-04",
+      "year": 2020,
+      "links": {
+        "article": "https://www.vox.com/2020/5/4/21242750/coronavirus-covid-19-united-states-canada-trump-trudeau"
+      },
+      "topics": ["covid-19", "canada-us-comparison"]
+    },
+    {
+      "id": "nyt-2020-new-normal",
+      "title": "Enduring Our Unendurable New Normal",
+      "outlet": "The New York Times",
+      "mediaType": "news",
+      "date": "2020-04-16",
+      "year": 2020,
+      "links": {
+        "article": "https://messaging-custom-newsletters.nytimes.com/template/oakv2?uri=nyt://newsletter/f05a021b-53c5-40d3-859e-2c06b6f9523d"
+      },
+      "topics": ["covid-19"],
+      "featured": true
+    },
+    {
+      "id": "vox-2020-partisanship",
+      "title": "The coronavirus fight demands unity. But Republicans just want to own the libs.",
+      "outlet": "Vox",
+      "mediaType": "news",
+      "date": "2020-04-16",
+      "year": 2020,
+      "links": {
+        "article": "https://www.vox.com/policy-and-politics/2020/4/16/21223600/hyper-partisanship-republicans-coronavirus-trump-hopkins"
+      },
+      "topics": ["covid-19", "partisanship", "us-politics"]
+    },
+    {
+      "id": "cbc-2020-unity",
+      "title": "COVID-19 is helping to unite Canadians like nothing else in years - and we'll need unity for what's to come",
+      "outlet": "CBC News",
+      "mediaType": "news",
+      "date": "2020-04-09",
+      "year": 2020,
+      "links": {
+        "article": "https://www.cbc.ca/news/canada/opinion-partisanship-covid-19-government-response-1.5525186"
+      },
+      "topics": ["covid-19", "canadian-politics", "unity"]
+    },
+    {
+      "id": "gazette-2021-infodemic",
+      "title": "Pandemic? Try infodemic: McGill study says COVID-19 misinformation is a virus",
+      "outlet": "Montreal Gazette",
+      "mediaType": "news",
+      "date": "2021-04-08",
+      "year": 2021,
+      "links": {
+        "article": "https://montrealgazette.com/news/local-news/pandemic-try-infodemic-mcgill-study-says-covid-19-misinformation-is-a-virus"
+      },
+      "topics": ["covid-19", "misinformation", "research"]
+    },
+    {
+      "id": "wapo-2019-maga",
+      "title": "The online MAGA movement tried to take down Canada's Justin Trudeau. It fell short.",
+      "outlet": "Washington Post",
+      "mediaType": "news",
+      "date": "2019-10-22",
+      "year": 2019,
+      "links": {
+        "article": "https://www.washingtonpost.com/politics/the-online-maga-movement-tried-to-take-down-canadas-justin-trudeau-it-fell-short/2019/10/22/0e01e282-f1ef-11e9-89eb-ec56cd414732_story.html"
+      },
+      "topics": ["elections", "disinformation", "foreign-interference"]
+    },
+    {
+      "id": "cbc-2019-blackface",
+      "title": "Trudeau 'blackface' discussion surged online and then waned after 3 days, report finds",
+      "outlet": "CBC News",
+      "mediaType": "news",
+      "date": "2019-10-03",
+      "year": 2019,
+      "links": {
+        "article": "https://www.cbc.ca/news/technology/trudeau-blackface-discussion-online-1.5306563"
+      },
+      "topics": ["elections", "social-media"]
+    },
+    {
+      "id": "cbc-radio-2019-ddp",
+      "title": "Digital Democracy Project: The online campaign of the federal election",
+      "outlet": "CBC Radio",
+      "mediaType": "radio",
+      "date": "2019-10-20",
+      "year": 2019,
+      "links": {
+        "audio": {
+          "url": "https://betalisten.cbc.ca/listen/live-radio/1-78-all-in-a-weekend/clip/15742134-digital-democracy-project-the-online-campaign-of-the-federal-election",
+          "platform": "other"
+        }
+      },
+      "topics": ["elections", "digital-democracy"]
+    },
+    {
+      "id": "cbc-radio-2019-social",
+      "title": "Social Media and the Federal Election",
+      "outlet": "CBC Radio",
+      "mediaType": "radio",
+      "date": "2019-10-05",
+      "year": 2019,
+      "links": {
+        "audio": {
+          "url": "https://www.cbc.ca/listen/live-radio/1-78-all-in-a-weekend/clip/15739794-social-media-and-the-federal-election",
+          "platform": "other"
+        }
+      },
+      "topics": ["elections", "social-media"]
+    },
+    {
+      "id": "cbc-2019-singh",
+      "title": "The rise of Jagmeet Singh on social media",
+      "outlet": "CBC Toronto News",
+      "mediaType": "tv",
+      "date": "2019-10-17",
+      "year": 2019,
+      "links": {
+        "article": "https://www.cbc.ca/player/news/canada/toronto"
+      },
+      "topics": ["elections", "social-media", "ndp"]
+    },
+    {
+      "id": "mcgill-tribune-2020-data-science",
+      "title": "Making room for data science in the humanities",
+      "outlet": "McGill Tribune",
+      "mediaType": "print",
+      "date": "2020-01-28",
+      "year": 2020,
+      "links": {
+        "article": "https://www.mcgilltribune.com/private/making-room-for-data-science-in-the-humanities-280120/"
+      },
+      "topics": ["data-science", "academia"]
+    }
+  ]
+}

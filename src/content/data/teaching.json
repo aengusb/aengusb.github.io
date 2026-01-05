@@ -1,0 +1,189 @@
+{
+  "courses": [
+    {
+      "id": "ppol-intro-2025",
+      "code": "PPOL",
+      "title": "Introduction to Public Policy Making: Issues in Digital Policy",
+      "term": "winter",
+      "year": 2025,
+      "role": "instructor",
+      "institution": "McGill University",
+      "department": "Max Bell School of Public Policy"
+    },
+    {
+      "id": "ppol-636-2025",
+      "code": "PPOL 636",
+      "title": "Mis and Disinformation: A Global Policy Challenge",
+      "term": "winter",
+      "year": 2025,
+      "role": "instructor",
+      "institution": "McGill University",
+      "department": "Max Bell School of Public Policy"
+    },
+    {
+      "id": "poli-361-2022",
+      "code": "POLI 361",
+      "title": "Political Participation in Comparative Perspective",
+      "term": "fall",
+      "year": 2022,
+      "role": "instructor",
+      "institution": "McGill University",
+      "department": "Department of Political Science"
+    },
+    {
+      "id": "uqam-api-2022",
+      "code": "",
+      "title": "Collecte des données en ligne avec API",
+      "term": "winter",
+      "year": 2022,
+      "role": "instructor",
+      "institution": "UQAM"
+    },
+    {
+      "id": "replicable-research-2019",
+      "code": "",
+      "title": "Introduction to Replicable Research Using Version Control",
+      "term": "summer",
+      "year": 2019,
+      "role": "instructor",
+      "institution": "McGill University",
+      "courseUrl": "https://aengusb.github.io/github_bootcamp/#"
+    },
+    {
+      "id": "replicable-research-2018",
+      "code": "",
+      "title": "Introduction to Replicable Research Using Version Control",
+      "term": "summer",
+      "year": 2018,
+      "role": "instructor",
+      "institution": "McGill University"
+    },
+    {
+      "id": "latex-zotero-2018",
+      "code": "",
+      "title": "Introduction to LaTeX and Zotero",
+      "term": "winter",
+      "year": 2018,
+      "role": "instructor",
+      "institution": "McGill University",
+      "department": "CSDC Winter School"
+    },
+    {
+      "id": "empirical-research-2018",
+      "code": "",
+      "title": "Techniques of Empirical Research (Graduate Course)",
+      "term": "fall",
+      "year": 2018,
+      "role": "teaching-assistant",
+      "institution": "McGill University"
+    },
+    {
+      "id": "empirical-research-2017",
+      "code": "",
+      "title": "Techniques of Empirical Research (Graduate Course)",
+      "term": "fall",
+      "year": 2017,
+      "role": "teaching-assistant",
+      "institution": "McGill University"
+    },
+    {
+      "id": "r-bootcamp-2017",
+      "code": "",
+      "title": "R Bootcamp",
+      "term": "summer",
+      "year": 2017,
+      "role": "teaching-assistant",
+      "institution": "McGill University"
+    },
+    {
+      "id": "data-viz-2017",
+      "code": "",
+      "title": "Population Data Visualization Workshop",
+      "term": "fall",
+      "year": 2017,
+      "role": "teaching-assistant",
+      "institution": "McGill University"
+    },
+    {
+      "id": "developed-world",
+      "code": "",
+      "title": "Politics of the Developed World",
+      "term": "",
+      "year": 0,
+      "role": "teaching-assistant",
+      "institution": "McGill University"
+    },
+    {
+      "id": "local-govt",
+      "code": "",
+      "title": "Local Government",
+      "term": "",
+      "year": 0,
+      "role": "teaching-assistant",
+      "institution": "McGill University"
+    },
+    {
+      "id": "qual-methods",
+      "code": "",
+      "title": "Qualitative Research Methods",
+      "term": "",
+      "year": 0,
+      "role": "teaching-assistant",
+      "institution": "McGill University"
+    },
+    {
+      "id": "budgetary-policy",
+      "code": "",
+      "title": "Budgetary Policy and Public Finance",
+      "term": "",
+      "year": 0,
+      "role": "teaching-assistant",
+      "institution": "University of Ottawa"
+    },
+    {
+      "id": "intro-politics",
+      "code": "",
+      "title": "Introduction to Politics",
+      "term": "",
+      "year": 0,
+      "role": "teaching-assistant",
+      "institution": "University of Ottawa"
+    },
+    {
+      "id": "intro-cdn-politics",
+      "code": "",
+      "title": "Introduction to Canadian Politics",
+      "term": "",
+      "year": 0,
+      "role": "teaching-assistant",
+      "institution": "University of Ottawa"
+    },
+    {
+      "id": "intro-pol-thought",
+      "code": "",
+      "title": "Introduction to Political Thought",
+      "term": "",
+      "year": 0,
+      "role": "teaching-assistant",
+      "institution": "University of Ottawa"
+    },
+    {
+      "id": "intro-modern-thought",
+      "code": "",
+      "title": "Introduction to Modern Thought",
+      "term": "",
+      "year": 0,
+      "role": "teaching-assistant",
+      "institution": "University of Ottawa"
+    },
+    {
+      "id": "pol-legal-theory",
+      "code": "",
+      "title": "Political Legal Theory",
+      "term": "",
+      "year": 0,
+      "role": "teaching-assistant",
+      "institution": "University of Ottawa"
+    }
+  ]
+}

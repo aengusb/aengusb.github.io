@@ -1,0 +1,323 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: vitae.tex
+geometry: margin=1in
+
+title: "Curriculum vitae"
+author: Aengus Bridgman
+
+# jobtitle: "PhD Candidate, McGill University"
+fontawesome: yes
+email: aengus.bridgman@mcgill.ca
+web: abridgman.ca
+# github: aengusb
+#twitter: AengusBridgman
+osf: h5dcx
+google_scholar: rxQTZG0AAAAJ
+publons: 3643597
+orcid: 0000-0003-1130-1258
+updated: yes
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: black
+urlcolor: blue
+---
+
+# Academic Position
+
+Assistant Professor (Research), McGill University (2023 - ) 
+
+# Education
+
+PhD Candidate, Political Science at McGill, 2025
+
+- Thesis: *Those who compose the conversation: Three essays on online political activists*
+- Committee: Dietlind Stolle (Supervisor), Aaron Erlich, Taylor Owen
+- Research Affiliations: [Center for the Study of Democratic Citizenship](https://csdc-cecd.ca/), [Network Dynamics Lab](http://networkdynamics.org/), [Media Ecosystem Observatory](https://mediaecosystemobservatory.com/), and [The Centre for Media, Technology and Democracy](https://www.mediatechdemocracy.com/)
+
+Master of Arts, Political Science at University of Ottawa, 2013
+
+Bachelor of Arts (Honours), Political Science at University of Manitoba, 2010
+
+# Research Interests
+
+Methods: Computational social science, causal inference, survey design and analysis, field and natural experiments, survey experiments, text-as-data, machine learning, network analysis
+
+Comparative Politics: Political behaviour, information ecosystems, political communication, digital activism, misinformation, social media, Canadian politics, American politics
+
+# Relevant work experience
+
+- Director, Media Ecosystem Observatory (2023 - )
+- Research Scientist, Centre for Social Media and Politics (2022 - 2023)
+- Senior Policy Analyst, Privy Council Office (2022-2023)
+- Digital Lead, Media Ecosystem Observatory (2019 - 2022) 
+- Consultant, Deloitte (2014 - 2016)
+- Researcher, Centre on Public Management and Policy (2012 - 2013)
+
+# Refereed Articles
+
+\begin{etaremune}
+
+\item Jack Lucas, Michael McGregor, and \textbf{Aengus Bridgman}. 2023. \enquote{Spatial voting in non-partisan cities: A case study}, \textit{Electoral Studies}. \url{https://doi.org/10.1016/j.electstud.2023.102599}.
+
+\item \textbf{Aengus Bridgman}, Rosalie Nadeau, and Dietlind Stolle. 2022. \enquote{A distinct society: Understanding social distrust in Quebec}, \textit{Canadian Journal of Political Science/Revue canadienne de science politique}. \url{https://doi.org/10.1017/S0008423921000780}.
+  
+\item \textbf{Aengus Bridgman}, Eric Merkley, Peter John Loewen, Taylor Owen, and Derek Ruths. 2022. \enquote{All in this together? Preegistered report on evaluations of deservingness of government aid during the COVID-19 pandemic}, \textit{Journal of Experimental Political Science}. \url{https://doi.org/10.1017/XPS.2021.10} \href{https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LPHMB7}{[Replication materials]}
+
+\item \textbf{Aengus Bridgman}, Eric Merkley, Oleg Zhilin, Peter John Loewen, Taylor Owen, and Derek Ruths. 2021. \enquote{Infodemic pathways: Evaluating the role that traditional and social media play in cross-national information transfer}, \textit{Frontiers in Political Science}, \url{https://doi.org/10.3389/fpos.2021.648646}. \href{https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Y0RP9J}{[Replication materials]}  \href{https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Y0RP9J}{[Errata]}
+
+\item \textbf{Aengus Bridgman}. 2020. \enquote{A nonpartisan legislative chamber: The influence of the Canadian Senate}, \textit{Party Politics}, \url{https://doi.org/10.1177/1354068820911345}. \href{https://doi.org/10.7910/DVN/NGTGED}{[Replication materials]}
+
+\item \textbf{Aengus Bridgman}, Costin Ciobanu, Aaron Erlich, Danielle Bohonos, and Christopher Ross. 2020. \enquote{Unveiling: The Electoral Consequences of an Exogenous Mid-Campaign Court Ruling}, \textit{Journal of Politics}, \url{https://doi.org/10.1086/711177}. \href{https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Q20FB7}{[Replication materials]}
+
+\item \textbf{Aengus Bridgman}, Eric Merkeley, Peter John Loewen, Taylor Owen, Derek Ruths, Lisa Teichmann, and Oleg Zhilin. 2020. \enquote{The causes and consequences of COVID-19 misperceptions: Understanding the role of news and social media}, \textit{The HKS Misinformation Review}, \url{https://doi.org/10.37016/mr-2020-028}. \href{https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5QS2XP}{[Replication materials]}
+
+\item Eric Merkeley, \textbf{Aengus Bridgman}, Peter John Loewen, Taylor Owen, Derek Ruths, Lisa Tecihmann, and Oleg Zhilin. 2020. \enquote{A Rare Moment of Cross-Partisan Consensus: Elite and Public Response to the COVID-19 Pandemic in Canada}, \textit{Canadian Journal of Political Science/Revue canadienne de science politique}, \url{https://doi.org/10.1017/S0008423920000311}
+
+\end{etaremune}
+
+# Book Chapters
+
+- **Aengus Bridgman**, and Dietlind Stolle. 2022 "Mobilization and Political Participation", Maria Grasso and Marco Giugni. *Oxford Handbook of Political Participation*.
+
+# Non-refereed Publications
+
+- Mathieu Lavigne, Maxime Blanchard, Anne Imouza, **Aengus Bridgman**, Chloé Staller, Kaligirwa Namahoro, Ella Noel, Catherine Perron, Phaedra de Saint-Rome, and Taylor Owen. 2023. "Analyse du rôle de la mésinformation lors de l'élection provinciale québécoise de 2022", Media Ecosystem Observatory. [[Report](10.31219/osf.io/wam45)]
+- **Aengus Bridgman**, Mathieu Lavigne, Melissa Baker, Thomas Bergeron, Danielle Bohonos, Anthony Burton, Katherine McCoy, Mackenzie Hart, Mathieu Lavault, Rupin Liddar, Pangying Peng, Chris Ross, Jaclyn Victor, Taylor Owen, Peter Loewen. 2022. "Mis- and Disinformation during the 2021 Canadian Federal Election". Media Ecosystem Observatory. [[Report](10.31219/osf.io/ubfmx)]
+- Lisa Teichmann, Sean Nossek, **Aengus Bridgman**, Peter John Loewen, Taylor Owen, and Derek Ruths. 2020. "Public Health Communication and Engagement on Social Media during the COVID-19 Pandemic", *Journal of Medical Internet Research*. [[Preprint](https://osf.io/7hypj/)]
+- Taylor Owen, Peter Loewen, Derek Ruths, **Aengus Bridgman**, Haji Mohammed Saleem, Eric Merkley, and Oleg Zhilin. 2020. "Understanding vaccine hesitancy in Canada: attitudes, beliefs, and the information ecosystem" and available at: https://mediaecosystemobservatory.com/Vaccine-hesistancy.
+- John McAndrews, **Aengus Bridgman**, Peter Loewen, Daniel Rubenson, Laura Stephenson, and Allison Harell. 2020. "Evaluation of the 2019 Federal Leaders’ Debates", commissioned by the Canadian Leaders’ Debates Commission" and available at: https://www.debates-debats.ca/en/report/evaluation-2019-federal-leaders-debates.
+- Taylor Owen, Peter Loewen, Derek Ruths, **Aengus Bridgman**, Robert Gorwa, Stephanie MacLellan, Eric Merkley, and Oleg Zhilin. 2019-2020. [Digital Democracy Project](https://ppforum.ca/project/ddp/) seven research memos and one [final report](https://ppforum.ca/articles/lessons-in-resilience-canadas-digital-media-ecosystem-and-the-2019-election/). *The Partisan Playground*, *Political Advertising on Facebook*, *Fact-Checking, Blackface and the Media*, *Talking past each other on immigration*, *Polarization and its Discontents*, *The Climate Change Conundrum*, *Media, Knowledge and Misinformation*, and *Lessons in Resilience: Canada's Digital Media Ecosystem and the 2019 Election*.
+
+# Working Papers
+
+* **Aengus Bridgman**, Alexei Abrahams, Saewon Park, Sara Parker, and Zeynep Pehlivan. *Diffuse platforms, common actors: A multi-platform method of mapping the (Canadian) information ecosystem*
+* **Bridgman, Aengus**, *Who composes the conversation? An evaluation of the distinctiveness of digital activists*. Presented at Canadian Political Science Association Annual Conference 2021.
+* **Bridgman, Aengus**, *r/WallStreetBets, GameStop, and mobilization of expressive political participation*. Presented at Canadian Political Science Association Annual Conference 2021.
+* **Aengus Bridgman** and Lavigne, Mathieu. *Reach, perceived accuracy, and engagement with real and fake stories during the 2021 Canadian federal election*. Presented at Canadian Political Science Association Annual Conference 2021.
+* Lavigne, Mathieu and **Aengus Bridgman**, *Geographies of misinformation: Evaluating subnational differences in resilience to online misinformation*. Presented at Canadian Political Science Association Annual Conference 2021.
+* Ciobanu, Costin, **Aengus Bridgman**, *Globalisation, crisis, and voting behaviour: The electoral impact of the European Globalisation Adjustment Fund*. Presented at Southern Political Science Association 2019, European Consortium For Political Research 2020, and American Political Science Association 2021, and EPSA 2022.
+* **Bridgman, Aengus**, *Hyperdiversity and dual motivations of political participation: Evidence from the Canadian case on the impact of neighbourhood change*. Presented at Canadian Political Science Association Annual Conference 2019
+
+# Invited Talks
+
+* "AI & the Press: Threats & Opportunities, World Press Freedom Canada" (2025)
+* "AI, The Digital Ecosystem, and the Future of Democracy", University of Ottawa (2025)
+* "Battle for the Truth: How to Protect Canada from Dis- and Misinformation" (2025)
+* "Disinformation Challenging Democracy", Institute on Governance (2023)
+* "Can vaccination efforts be derailed by fear and fallacy?", McGill Alumni webcast (2021)
+* "Misinformation and attitude formation among the Canadian Public", COPSS-NISS COVID-19 Data Science webinar series (2021)
+* "Disinformation in 2020: Actors, Threats, and Solutions", Tel Aviv University (2020)
+* "Digital public engagement and political participation", University of Manitoba (2020)
+* "Misinformation, COVID-19, and social media: Research design from start to finish", Dawson College (2020)
+* "Data Science, Elections, Politics, and Media", CSCDS Data Science Community Expo (2020)
+* "So you think you can track an election", Misinfocon (2019)
+* "Evaluating legislative influence in bicameral systems: Canadian Senate reform and lobbyist behaviour", Canada Research Chair in Electoral Democracy at University of Montreal (2019)
+* "Losing elections for standing for your values? The electoral consequences of a court ruling on the niqab ban in Canada", Canada Research Chair in Electoral Democracy at University of Montreal (2018)
+
+# Teaching
+
+* Instructor, Introduction to Public Policy Making: Issues in Digital Policy, McGill University (2025)
+* Instructor, Mis and Disinformation: A Global Policy Challenge, McGill University (2025)
+* Instructor, Political Participation in Comparative Perspective, McGill University (2022)
+* Instructor, Collecte des données en ligne avec API, UQAM (2022)
+* Instructor, Bootcamp, Introduction to replicable research using version control (2018 and 2019)
+* Instructor, CSDC Winter School, Introduction to LaTex and Zotero (2018)
+* Teaching Assistant, Techniques of Empirical Research (Graduate Course) (2017 and 2018)
+* Teaching Assistant for undergraduate courses at University of Ottawa and McGill University: Introduction to Politics, Introduction to Canadian Politics, Introduction to Political Thought, Introduction to Modern Thought, Political Legal Theory, Qualitative Research Methods, Budgetary Policy and Public Finance, Local Government, and Politics of the Developed World.
+* Teaching Assistant, Population Data Visualization workshop (2017)
+* Teaching Assistant, R Bootcamp (2017)
+
+# Service
+
+* Referee for *British Journal of Political Science*, *Political Behaviour*, *French Politics*, *Scientific Reports*, *Journal of Experimental Political Science*, *Canadian Journal of Political Science*, *Journal of Digital War*, *Journal of Ethnic and Migration Studies*
+* Witness, House of Commons Standing Committee on Access to Information, Privacy and Ethics (2024)
+* Witness, Public Inquiry on Foreign Interference (2024)
+* Referee for Council of Canadian Academies *Vulnerable Connections: Expert Panel on Public Safety in the Digital Age*
+* Co-organizer, McGill Comparative Politics Reading Group (2021)
+* Participant, Election Canada foresight workshop: The Future of Electoral Administration in Canada (2018)
+* Participant, IRPP Roundtable - Renewal of the Canadian Senate: Where to From Here (2018)
+* Organizing Committee, Building an inclusive discipline: Learning, Practising and Teaching Political Science (2018)
+* President, McGill Graduate Association of Political Science Students (2017-19)
+
+# Grant Awards
+
+* Canadian Heritage Digital Citizen Initiative ($5,500,000) - awarded to the Media Ecosystem Observatory for the delivery of the Canadian Digital Media Research Network
+* Elections British Columbia ($100,000) - awarded to the Media Ecosystem Observatory for delivery of the British Columbia Elections Study
+* Canadian Heritage Digital Citizen Initiative ($100,000) - for the Avatar Project
+* Élections Québec ($45,000) - awarded to the Media Ecosystem Observatory for delivery of the Projet sur la désinformation électorale au Québec
+* Canadian Heritage Digital Citizen Initiative ($50,000) - for the Disinformed Podcast
+* Global Affairs Canada ($100,000) - awarded to the Media Ecosystem Observatory for delivery of the Canadian Election Misinformation Project
+
+# Research Awards
+
+* SSHRC Postdoctoral Fellowship (2023, declined)
+* Political Methodology Award ICPSR (Summer 2019)
+* Joseph-Armand Bombardier Graduate Scholarship (May 2018-21)
+* Consortium on Qualitative Research Methods scholarship (Summer 2018)
+* The Graduate Mobility Award (2018, 2019, 2021)
+* Graduate Excellence Fellowship (Sep 2016-18)
+* Centre for the Study of Democratic Citizenship Fellowship (Sep 2016-2020)
+* Mallory Fellowship (Sep 2016)
+* Faculty of Arts Masters Scholarship (Sep 2010-11)
+* Murray S. Donnelly Award (Sep 2008-09)
+
+# Technical Skills
+
+Python, R, SQL, \LaTeX, Git, Selenium, Qualtrics, JavaScript, Microsoft Office suite
+
+# Language
+
+English: native, French: advanced.
+
+# Additional Training
+
+* Causal Inference for the Social Sciences, ICPSR (Summer 2019)
+* Network Analysis: Advanced Topics Inferential Network Analysis, ICPSR (Summer 2019)
+* Stan for the people, Charles Margossian (Winter 2019)
+* Experimental and Causal Inference Designs, Dr. Michael Bechtel (Winter 2019)
+* Methods for Computational Social Science: Modeling Textual Data (Summer 2018)
+* Collaborative local government, CEU Summer University (Summer 2018)
+* The development and influence of political identities, Dr. Leonie Huddy (Spring 2018)
+* NLTK Toolkit in Python, Dr. Christopher Cochrane (Spring 2018)
+* The Institute for Qualitative and Multi-Method Research, CQRM (Summer 2018)
+* Methods Winter School, CSDC (Winter 2017, 2018, 2019)
+
+# Media appearances
+
+I have been interviewed over 200 times by news media on specific research projects as well as on misinformation, social media, and political participation in Canada more generally. Some of this work has been picked by international media. I am regularly contacted by French- and English-language media to comment on emerging events related to misinformation, social media, and political participation. I occasionally write opinion pieces directly relevant to my areas of expertise. A more detailed list of media appearance is available on my [website](https://abridgman.ca/media/), but French-language appearances include Radio-Canada (web and Téléjournal), TVA, La Presse, NVL Noovo, Le Devoir, La Droit, L'actualité, and Le Journal de Montréal
+
+<!--
+
+# Work experience
+
+Director, Media Ecosystem Observatory (2019 - ) 
+
+- Designed and delivered project focused on identifying and responding to misinformation and disinformation, including foreign interference, during the 2021 Canadian Federal Election Project;
+- Presented results and findings publicly through approximately 50 interviews French- and English-language interviews on Radio, Television, and for print/digital publications (including CBC, Radio-Canada, NPR, and Agence France Presse);
+- Reported and presented results to Government officials, including provision of recommendations on how to effectively monitor and respond to threats in the Canadian information ecosystem.
+- Was central to the design and implementation the largest-ever Canadian information ecosystem monitoring project;
+- Collected data for and supported 18 research teams across Canada for the Digital Ecosystem Research Challenge which aimed to protect Canada against threats posed by increased integration of digital tools into democratic processes;
+- Supported the development of policy recommendations for the Canadian Commission on Democratic Expression;
+- Published extensively on social media trends and importance during the COVID-19 pandemic, with a particular focus on the consequences of misinformation.
+
+Research Scientist, Centre for Social Media and Politics (2022 - )
+
+-
+-
+-
+
+Senior Policy Analyst, Privy Council Office (2022-2023)
+
+-
+-
+-
+
+Consultant, Deloitte (2014 - 2016)
+
+- Part of the Public Sector practice a range of clients in Ontario, Manitoba, Saskatchewan, and the Northwest Territories. Experience across municipal government, higher education, healthcare, and crown corporations.
+
+Researcher, Centre on Public Management and Policy (2012 - 2013)
+
+Below find a list of commentary, research interviews, media coverage, and additional public-facing activities. Over the past two years, 
+
+# Commentary
+
+*  Canadian Press: [N.L. doctor not alone in spreading COVID-19 misinformation, says national association](https://www.piquenewsmagazine.com/coronavirus-covid-19-national-news/nl-doctor-not-alone-in-spreading-covid-19-misinformation-says-national-association-3537081) (March 11, 2021)
+* CTV: [Social media, conspiracies, and misinformation](https://ottawa.ctvnews.ca/video?clipId=2122255&binId=1.1487308&playlistPageNum=1) (January 20, 2021)
+* CBC News: How social media platforms and personalities are countering false information about COVID-19 vaccines: [article](https://www.cbc.ca/news/health/social-media-covid-vaccine-misinformation-1.5842663) and [CBC The National television segment](https://www.youtube.com/watch?v=UfCvuKHLPws) (December 18, 2020)
+* Global News: [CSIS accuses Russia, China and Iran of spreading COVID-19 disinformation](https://globalnews.ca/news/7494689/csis-accuses-russia-china-iran-coronavirus-covid-19-disinformation/) (December 3, 2020)
+* CJAD 800: [Are anti-mask groups really a movement or just a small number of people getting way too much attention?](https://www.iheartradio.ca/cjad/audio/are-anti-mask-groups-really-a-movement-or-just-a-small-number-of-people-getting-way-too-much-attention-1.14068306?mode=Article) (December 1, 2020)
+* Montreal Gazette: [Anti-mask fringe movement getting more media coverage than warranted: expert](https://montrealgazette.com/news/local-news/anti-maskers-get-more-coverage-than-size-of-movement-warrants-expert) (November 30, 2020)
+* CBC News: Addressing vaccine hesitancy is a looming hurdle in race to end pandemic [article](https://www.cbc.ca/news/canada/covid-19-vaccine-safety-1.5813484) and [The National television segment](https://www.youtube.com/watch?v=moVqOWjNkmY) (November 25, 2020)
+* Toronto Star: [A Conservative MP warns that Justin Trudeau wants a ‘Great Reset.’ Conspiracy theorists are worried, too](https://www.thestar.com/politics/federal/2020/11/19/a-conservative-mp-warns-that-justin-trudeau-wants-a-great-reset-conspiracy-theorists-are-worried-too.html?rf) (November 20, 2020)
+* CBC News, CBC national television and radio: [Global rally against COVID-19 safety measures comes to Parliament Hill](https://www.cbc.ca/news/politics/covid-19-rally-ottawa-1.5705216) (August 29, 2020)
+* Pod 6ix: [Covid Conspiracies & Misinformation with Aengus Bridgman](https://pod6ix.com/covid-conspiracies-misinfo-with-aengus-bridgman-lockdown-toronto-ep-12/) (August 20, 2020)
+* La Presse: [J’ai fait mes recherches](https://www.lapresse.ca/actualites/2020-07-30/j-ai-fait-mes-recherches.php) (July 30, 2020)
+* Le Devoir: [La Suède, version albertaine](https://www.ledevoir.com/politique/canada/579798/la-suede-version-albertaine) (May 29, 2020)
+* Ricochet Media: [La Covid-19 aurait un effet sur la polarisation politique](https://ricochet.media/fr/3088/la-covid-19-aurait-un-effet-sur-la-polarisation-politique) (May 8, 2020)
+* CBC: [COVID-19 is helping to unite Canadians like nothing else in years - and we'll need unity for what's to come](https://www.cbc.ca/news/canada/opinion-partisanship-covid-19-government-response-1.5525186) (April 9, 2020)
+* CBC Toronto News: [The rise of Jagmeet Singh on social media](https://www.cbc.ca/player/news/canada/toronto) (October 17, 2019)
+* CBC Radio: [Digital Democracy Project: The online campaign of the federal election](https://betalisten.cbc.ca/listen/live-radio/1-78-all-in-a-weekend/clip/15742134-digital-democracy-project-the-online-campaign-of-the-federal-election) (October 20, 2019)
+* CBC Radio: [Social Media and the Federal Election](https://www.cbc.ca/listen/live-radio/1-78-all-in-a-weekend/clip/15739794-social-media-and-the-federal-election) (October 5, 2019)
+
+# Research interviews
+
+* Canadian Press: e.g. [COVID-19 conspiracy theories are creating a 'public health crisis' in Canada: experts](https://nationalpost.com/news/canada/covid-19-conspiracies-creating-a-public-health-crisis-in-canada-experts-sa) (August 3, 2020)
+* Global News Montreal, CTV News Montreal, Radio-Canada, NVL Noovo, the Roy Green Show, CJAD 800, 770 CHQR, on Social media, COVID-19 and misperceptions in Canada, e.g. [Coronavirus: Social media users more likely to believe false information, McGill study suggests](https://globalnews.ca/news/7229581/coronavirus-social-media-disinformation-mcgill/) (July 29 - August 19, 2020)
+* Journal de Montréal: [COVID-19: corrélation entre les fausses informations des médias sociaux et le non-respect des règles sanitaires](https://www.journaldemontreal.com/2020/07/29/covid-19--correlation-entre-les-fausses-informations-des-medias-sociaux-et-le-non-respect-des-regles-sanitaires) (July 30, 2020)
+* Montreal Gazette: [Twitter, Facebook are the main sources of COVID-19 misinformation, a McGill study finds](https://montrealgazette.com/news/local-news/twitter-facebook-are-the-main-sources-of-covid-19-misinformation-a-mcgill-study-finds/wcm/229a5fe0-a31f-48f7-a23f-ea89f95fc5cb/) (July 29, 2020)
+* CBC: [Fears of election meddling on social media were overblown, say researchers](https://www.cbc.ca/news/canada/social-media-bots-trolls-canadian-election-2019-1.5343210) (Nov 3, 2019)
+* Washington Post: [The online MAGA movement tried to take down Canada’s Justin Trudeau. It fell short.](https://www.washingtonpost.com/politics/the-online-maga-movement-tried-to-take-down-canadas-justin-trudeau-it-fell-short/2019/10/22/0e01e282-f1ef-11e9-89eb-ec56cd414732_story.html) (Oct 22, 2019)
+* CBC Online: [Trudeau 'blackface' discussion surged online and then waned after 3 days, report finds](https://www.cbc.ca/news/technology/trudeau-blackface-discussion-online-1.5306563) (Oct 3, 2019)
+* National Observer: [Public interest in Trudeau brownface scandal faded after a few days, report finds](https://www.nationalobserver.com/2019/10/03/news/public-interest-trudeau-brownface-scandal-faded-after-few-days-report-finds) (Oct 3, 2019)
+* Toronto Star: [News that's safe to use: Researchers aim to track information during campaign](https://www.cbc.ca/news/technology/digital-democracy-project-disinformation-canada-election-1.5239296) (August 9, 2019)
+* Post Millenial: [News that's safe to use: Researchers aim to track information during campaign](https://www.thepostmillennial.com/mainstream-media-main-sources-misinformation-report/) (Sep 2019)
+
+# Research covered
+
+* Study on social media and COVID-19 misinformation: Science Press, Radio-Canada, La Presse, Montreal Gazette, Journal de Montreal, Forbes, New York Post, U.S. News & World Report, MSN, CBC News, CBC News, CBC News, Yahoo News, Canadian Press (cross-posted: Le Devoir, HuffPost Canada, HuffPost Quebec, Toronto Star, CP24, CBC News, National Post, Calgary Herald, Toronto CityNews, Yahoo News Canada, Montreal Gazette, Prince George Matters, MSN, Le Soleil, Global News, Ottawa Citizen, L'actualité, La voix de l'est, Debate (ES), MSN (PO), etc.
+* Study on Canadian response to COVID-19: CBC, CTV Montreal, BusinessWorld Online
+* Vox: [Canada succeeded on coronavirus where America failed. Why?](https://www.vox.com/2020/5/4/21242750/coronavirus-covid-19-united-states-canada-trump-trudeau) (May 4, 2020)
+* Vox: [The coronavirus fight demands unity. But Republicans just want to own the libs.](https://www.vox.com/policy-and-politics/2020/4/16/21223600/hyper-partisanship-republicans-coronavirus-trump-hopkins) (April 16, 2020)
+* New York Times: [Enduring Our Unendurable New Normal](https://messaging-custom-newsletters.nytimes.com/template/oakv2?uri=nyt://newsletter/f05a021b-53c5-40d3-859e-2c06b6f9523d&productCode=INT&te=1&nl=the-interpreter&emc=edit_int_20200417) (April 16, 2020)
+
+# Additional activities
+
+* One of the lead authors on the Digital Democracy Project report: [Lessons in Resilience: Canada’s Digital Media Ecosystem and the 2019 Election](https://ppforum.ca/articles/lessons-in-resilience-canadas-digital-media-ecosystem-and-the-2019-election/) which provided a public-facing analysis of the information environment during the Canadian election alongside policy recommendations.
+* One of the lead authors on a [report]([Digital Democracy Project](https://ppforum.ca/project/ddp/)) writen for the Canadian Leaders’ Debates Commission. Sharing of findings with media, government officials, the academic community in a 1-day conference in Ottawa. 
+* Significant support for the [Digital Ecosystem Research challenge](https://www.digitalecosystem.ca/report) which focused on understanding the 2019 Canadian Federal election. My work was shared with media, government officials, the academic community, and civil society groups at a 2-day conference in Ottawa.
+* Participated in a roundtable panel hosted by the Institute for National Security Studies (Tel Aviv) entitled *Disinformation in 2020 - Threats and Solutions*
+* McGill Tribune: [Making room for data science in the humanities](https://www.mcgilltribune.com/private/making-room-for-data-science-in-the-humanities-280120/?fbclid=IwAR3jcKYgnA-UAwItDpg9hO5fVpvsYzewckVnwKvUOYV0C-p4RIr1TCPRy2g) (January 28, 2020)
+* I maintain an active social media presence using [Twitter](https://twitter.com/AengusBridgman). I share findings and semi-regularly engage in conversation on topics within my area of expertise.
+
+
+<!-- 
+## Research Interests
+
+Canadian and Comparative Politics: public opinion and voting behaviour, politics in developed democracies, political participation, electoral politics, broadcast and social media
+
+Methods: Survey Design and Analysis, Mixed-methods designs, Field and natural experiments, text-as-data, Machine Learning, Natural Language Processing  
+
+## Relevant Professional Experience
+
+* Consultant, OpenNorth (2017)
+* Consultant, Deloitte (2014-6)
+* Consultant, Centre on Public Management and Policy (2011-12)
+
+## Memberships
+
+* Canadian Political Science Association (CPSA)
+* Northeastern Political Science Association (NPSA)
+
+
+Canadian Political Science Association Annual Conference (2020)
+
+* *Earnest, Negative, and Polarized Online Spaces: Evaluating Self-Selection Explanations for the Toxicity of Social Media Debate* 
+* *Geographies of misinformation: Evaluating subnational differences in resilience to online misinformation*
+* *Political mobilization of a recreational digital community: r/WallStreetBets, Game Stop, and expressive participation*
+
+Canadian Political Science Association Annual Conference (2019)
+
+* *Hyperdiversity and dual motivations of political participation: Evidence from the Canadian case on the impact of neighbourhood change* 
+* *Losing elections for standing for your values? The electoral consequences of a court ruling on the niqab ban in Canada*
+
+Southern Political Science Association (2019)
+
+* *Globalisation, crisis, and voting behaviour: The electoral impact of the European Globalisation Adjustment Fund*
+* *Losing elections for standing for your values? The electoral consequences of a court ruling on the niqab ban in Canada*
+
+Northeastern Political Science Association (2018)
+
+* *Globalisation, crisis, and voting behaviour: The electoral impact of the European Globalisation Adjustment Fund*
+* *Canadian Senate change: appointed, independent, and ripe for lobbying*
+
+Canadian Political Science Association Annual Conference (2018)
+
+* *A Distinct Society? A compositional exploration of social capital in Quebec*
+
+--> 
