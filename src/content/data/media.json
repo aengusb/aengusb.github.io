@@ -1,6 +1,329 @@
 {
   "appearances": [
     {
+      "id": "cbc-2025-youtube-content-farm",
+      "title": "This Canadian 'content farm' topped the politics charts on YouTube — before it was taken down",
+      "outlet": "CBC News",
+      "mediaType": "news",
+      "date": "2025-05-23",
+      "year": 2025,
+      "links": {
+        "article": "https://www.cbc.ca/news/canada/canada-politics-youtube-channel-taken-down-1.7542250"
+      },
+      "topics": ["disinformation", "youtube", "elections"],
+      "featured": true
+    },
+    {
+      "id": "pressprogress-2025-russian-money",
+      "title": "Canadian Conservative YouTubers Claim They Were Offered Russian Money to Fund Their Videos",
+      "outlet": "PressProgress",
+      "mediaType": "news",
+      "date": "2025-05-22",
+      "year": 2025,
+      "links": {
+        "article": "https://pressprogress.ca/canadian-conservative-youtubers-claim-they-were-offered-russian-money-to-fund-their-videos-their-strange-story-raises-serious-questions/"
+      },
+      "topics": ["russia", "disinformation", "foreign-interference"]
+    },
+    {
+      "id": "radio-canada-2025-real-talk",
+      "title": "Real Talk Politiks: YouTube et les élections fédérales",
+      "outlet": "Radio-Canada",
+      "mediaType": "news",
+      "date": "2025-05-01",
+      "year": 2025,
+      "language": "fr",
+      "links": {
+        "article": "https://ici.radio-canada.ca/nouvelle/2167003/real-talk-politiks-youtube-elections-federales"
+      },
+      "topics": ["youtube", "elections", "disinformation"]
+    },
+    {
+      "id": "marketplace-2025-meta-blackout",
+      "title": "Meta's news blackout in Canada causes problems during election",
+      "outlet": "Marketplace (NPR)",
+      "mediaType": "radio",
+      "date": "2025-04-30",
+      "year": 2025,
+      "links": {
+        "article": "https://www.marketplace.org/episode/2025/04/30/metas-news-blackout-in-canada-causes-problems-during-election"
+      },
+      "topics": ["meta", "news-ban", "elections"]
+    },
+    {
+      "id": "cbc-house-2025-misinformation",
+      "title": "What voters can do to fight back against social media misinformation",
+      "outlet": "CBC The House",
+      "mediaType": "radio",
+      "date": "2025-04-26",
+      "year": 2025,
+      "links": {
+        "audio": {
+          "url": "https://www.cbc.ca/listen/live-radio/1-64-the-house/clip/16135605-what-voters-fight-back-social-media-misinformation",
+          "platform": "other"
+        }
+      },
+      "topics": ["misinformation", "elections", "social-media"]
+    },
+    {
+      "id": "globe-2025-disinformation",
+      "title": "What we know about misinformation uncovered in the federal election campaign",
+      "outlet": "The Globe and Mail",
+      "mediaType": "news",
+      "date": "2025-04-25",
+      "year": 2025,
+      "links": {
+        "article": "https://www.theglobeandmail.com/canada/article-what-we-know-about-disinformation-campaigns-uncovered-in-the-federal/"
+      },
+      "topics": ["disinformation", "elections", "china"],
+      "featured": true
+    },
+    {
+      "id": "star-2025-pencil-conspiracy",
+      "title": "Pencil or pen at the ballot box? How an election conspiracy theory reveals Canada's problem",
+      "outlet": "Toronto Star",
+      "mediaType": "news",
+      "date": "2025-04-20",
+      "year": 2025,
+      "links": {
+        "article": "https://www.thestar.com/politics/federal-elections/pencil-or-pen-at-the-ballot-box-how-an-election-conspiracy-theory-reveals-canadas-problem/article_13a8833a-db6a-4947-806d-974f864974bf.html"
+      },
+      "topics": ["conspiracy-theories", "elections", "misinformation"]
+    },
+    {
+      "id": "radio-canada-2025-desinformation-campagne",
+      "title": "La désinformation a-t-elle sévi pendant la campagne électorale?",
+      "outlet": "Radio-Canada Première Heure",
+      "mediaType": "radio",
+      "date": "2025-04-15",
+      "year": 2025,
+      "language": "fr",
+      "links": {
+        "audio": {
+          "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/premiere-heure/segments/rattrapage/2055859/desinformation-a-t-elle-sevi-pendant-campagne-electorale",
+          "platform": "other"
+        }
+      },
+      "topics": ["disinformation", "elections"]
+    },
+    {
+      "id": "hilltimes-2025-foreign-interference",
+      "title": "Foreign interference risks must be addressed before voters go to polls, warns democracy watchdog",
+      "outlet": "The Hill Times",
+      "mediaType": "news",
+      "date": "2025-03-17",
+      "year": 2025,
+      "links": {
+        "article": "https://www.hilltimes.com/story/2025/03/17/foreign-interference-risks-must-be-addressed-with-legislation-before-election-warns-democracy-watchdog/453960/"
+      },
+      "topics": ["foreign-interference", "elections", "democracy"]
+    },
+    {
+      "id": "tyee-2025-conservatives-x",
+      "title": "Canadian Conservatives Are Winners of Musk's X Takeover",
+      "outlet": "The Tyee",
+      "mediaType": "news",
+      "date": "2025-03-17",
+      "year": 2025,
+      "links": {
+        "article": "https://thetyee.ca/News/2025/03/17/Canadian-Conservatives-Winners-Musk-X-Takeover/"
+      },
+      "topics": ["social-media", "conservatives", "x-twitter"]
+    },
+    {
+      "id": "star-2025-conservative-engagement",
+      "title": "Conservative MPs beat Liberals, NDP on online engagement, study finds",
+      "outlet": "Toronto Star",
+      "mediaType": "news",
+      "date": "2025-03-11",
+      "year": 2025,
+      "links": {
+        "article": "https://www.thestar.com/news/canada/conservative-mps-beat-liberals-ndp-on-online-engagement-study-finds/article_84da09b0-0e0d-55b1-af50-bee688e8d535.html"
+      },
+      "topics": ["social-media", "engagement", "parliament"]
+    },
+    {
+      "id": "lapresse-2025-engagement",
+      "title": "Les députés conservateurs obtiennent plus d'engagement en ligne",
+      "outlet": "La Presse",
+      "mediaType": "news",
+      "date": "2025-03-11",
+      "year": 2025,
+      "language": "fr",
+      "links": {
+        "article": "https://www.lapresse.ca/actualites/politique/2025-03-11/selon-une-etude/les-deputes-conservateurs-obtiennent-plus-d-engagement-en-ligne.php"
+      },
+      "topics": ["social-media", "engagement", "parliament"]
+    },
+    {
+      "id": "radio-canada-2025-trump-ai",
+      "title": "Donald Trump et l'intelligence artificielle",
+      "outlet": "Radio-Canada",
+      "mediaType": "news",
+      "date": "2025-02-20",
+      "year": 2025,
+      "language": "fr",
+      "links": {
+        "article": "https://ici.radio-canada.ca/nouvelle/2143868/donald-trump-intelligence-artificielle-riviera-gaza"
+      },
+      "topics": ["AI", "trump", "disinformation"]
+    },
+    {
+      "id": "afp-2025-factcheck",
+      "title": "AFP Fact Check",
+      "outlet": "Agence France-Presse",
+      "mediaType": "news",
+      "date": "2025-02-15",
+      "year": 2025,
+      "links": {
+        "article": "https://factcheck.afp.com/doc.afp.com.36YN99R"
+      },
+      "topics": ["fact-checking", "misinformation"]
+    },
+    {
+      "id": "cbc-2025-foreign-interference",
+      "title": "Foreign interference report is just the start of a conversation about Canadian democracy",
+      "outlet": "CBC News",
+      "mediaType": "news",
+      "date": "2025-02-15",
+      "year": 2025,
+      "links": {
+        "article": "https://www.cbc.ca/news/politics/foreign-interference-journalism-per-vote-subsidy-analysis-1.7459858"
+      },
+      "topics": ["foreign-interference", "democracy", "journalism"]
+    },
+    {
+      "id": "tyee-2025-online-warriors",
+      "title": "Online Warriors Push Violent 'Invasion' of Canada",
+      "outlet": "The Tyee",
+      "mediaType": "news",
+      "date": "2025-02-12",
+      "year": 2025,
+      "links": {
+        "article": "https://www.thetyee.ca/News/2025/02/12/Online-Warriors-Violent-Invasion-Canada/"
+      },
+      "topics": ["extremism", "social-media", "threats"]
+    },
+    {
+      "id": "cbc-2025-musk-angus",
+      "title": "NDP MP Angus calls for investigation into Elon Musk over potential election interference",
+      "outlet": "CBC News",
+      "mediaType": "news",
+      "date": "2025-01-25",
+      "year": 2025,
+      "links": {
+        "article": "https://www.cbc.ca/news/politics/musk-angus-trudeau-poilievre-1.7439975"
+      },
+      "topics": ["elon-musk", "election-interference", "x-twitter"],
+      "featured": true
+    },
+    {
+      "id": "cbc-maritime-2025-meta",
+      "title": "Phone-in on Meta axing fact-checking in US",
+      "outlet": "CBC Maritime Noon",
+      "mediaType": "radio",
+      "date": "2025-01-15",
+      "year": 2025,
+      "links": {
+        "audio": {
+          "url": "https://www.cbc.ca/listen/live-radio/1-38-maritime-noon/clip/16124206-on-phone-in-meta-axed-fact-checking-us-changing",
+          "platform": "other"
+        }
+      },
+      "topics": ["meta", "fact-checking", "social-media"]
+    },
+    {
+      "id": "cbc-radio-2025-meta-factcheck",
+      "title": "Meta changes its tune on fact-checking",
+      "outlet": "CBC Radio Columnists",
+      "mediaType": "radio",
+      "date": "2025-01-10",
+      "year": 2025,
+      "links": {
+        "audio": {
+          "url": "https://www.cbc.ca/listen/live-radio/1-90-columnists-from-cbc-radio/clip/16121712-meta-changes-its-tune-fact-checking",
+          "platform": "other"
+        }
+      },
+      "topics": ["meta", "fact-checking", "social-media"]
+    },
+    {
+      "id": "ft-2025",
+      "title": "Financial Times Interview",
+      "outlet": "Financial Times",
+      "mediaType": "news",
+      "date": "2025-03-01",
+      "year": 2025,
+      "links": {
+        "article": "https://www.ft.com/content/743c1dec-0c5c-4c39-a940-830ce156c235"
+      },
+      "topics": ["disinformation", "canada"]
+    },
+    {
+      "id": "star-2025-bot-campaign",
+      "title": "Study finds no evidence Tories were behind bot campaign that posted about Poilievre",
+      "outlet": "Toronto Star",
+      "mediaType": "news",
+      "date": "2025-05-01",
+      "year": 2025,
+      "links": {
+        "article": "https://www.thestar.com/politics/study-finds-no-evidence-tories-were-behind-bot-campaign-that-posted-about-poilievre/article_59b2d75e-e9d3-5007-af37-919e52df1b38.html"
+      },
+      "topics": ["bots", "elections", "research"]
+    },
+    {
+      "id": "star-2025-spam-videos",
+      "title": "Spam videos use actors to spread false Canadian political news",
+      "outlet": "Toronto Star",
+      "mediaType": "news",
+      "date": "2025-04-28",
+      "year": 2025,
+      "links": {
+        "article": "https://www.thestar.com/politics/fact-file-spam-videos-use-actors-to-spread-false-canadian-political-news/article_17a14265-be1c-5e02-a396-a8da8a33d738.html"
+      },
+      "topics": ["disinformation", "elections", "fake-news"]
+    },
+    {
+      "id": "star-2024-far-right-influencers",
+      "title": "How far-right influencers are weaponizing Canada as a warning to Americans",
+      "outlet": "Toronto Star",
+      "mediaType": "news",
+      "date": "2024-11-15",
+      "year": 2024,
+      "links": {
+        "article": "https://www.thestar.com/politics/federal/how-far-right-influencers-are-weaponizing-canada-as-a-warning-to-americans-and-why-its/article_5e0fe0bc-a1fd-11ef-9f1c-376cdc7ddb9f.html"
+      },
+      "topics": ["far-right", "influencers", "canada-us"]
+    },
+    {
+      "id": "star-2024-democracy",
+      "title": "These Canadians don't care much about politics. Here's why a growing number feel democracy isn't working",
+      "outlet": "Toronto Star",
+      "mediaType": "news",
+      "date": "2024-08-15",
+      "year": 2024,
+      "links": {
+        "article": "https://www.thestar.com/politics/federal/these-canadians-dont-care-much-about-politics-heres-why-a-growing-number-feel-democracy-isnt/article_1b158060-5bf7-11ef-b317-9b9517ae6550.html"
+      },
+      "topics": ["democracy", "political-engagement", "public-opinion"]
+    },
+    {
+      "id": "youtube-2024-interview",
+      "title": "Video Interview",
+      "outlet": "YouTube",
+      "mediaType": "tv",
+      "date": "2024-10-01",
+      "year": 2024,
+      "links": {
+        "video": {
+          "url": "https://www.youtube.com/watch?v=ptXPKWOhlok",
+          "platform": "youtube",
+          "embedId": "ptXPKWOhlok"
+        }
+      },
+      "topics": ["interview"]
+    },
+    {
       "id": "hill-times-2021-conservative",
       "title": "Conservative Party slowly learning real cost of promoting culturally divisive policies",
       "outlet": "The Hill Times",

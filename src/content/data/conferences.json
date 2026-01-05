@@ -1,6 +1,36 @@
 {
   "conferences": [
     {
+      "id": "cpac-digital-sovereignty-2025",
+      "title": "Securing Canada's Digital Sovereignty",
+      "eventName": "CPAC Public Record",
+      "eventType": "invited",
+      "date": "2025-03-01",
+      "year": 2025,
+      "location": {
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada"
+      },
+      "tags": ["digital-sovereignty", "policy", "canada"],
+      "url": "https://www.cpac.ca/public-record/episode/securing-canadas-digital-sovereignty-remarks-by-aengus-bridgman?id=43b17351-3b5a-428b-911c-1fde6347fd88"
+    },
+    {
+      "id": "cpac-ai-press-2025",
+      "title": "AI & the Press: Misinformation, Disinformation and Artificial Intelligence",
+      "eventName": "World Press Freedom Canada / CPAC",
+      "eventType": "invited",
+      "date": "2025-05-03",
+      "year": 2025,
+      "location": {
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada"
+      },
+      "tags": ["AI", "press", "misinformation", "disinformation"],
+      "url": "https://www.cpac.ca/public-record/episode/ai--the-press-misinformation-disinformation-and-artificial-intelligence?id=dc8f1a08-5715-428e-b206-584f47094ded"
+    },
+    {
       "id": "chpc-2025",
       "title": "Expert Witness: Effects of Influencers and Social Media Content on Children and Adolescents",
       "eventName": "House of Commons Standing Committee on Canadian Heritage (CHPC)",
