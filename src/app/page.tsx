@@ -1,17 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import { getSiteConfig, getStats, getFeaturedPublications, getFeaturedMedia } from '@/lib/content';
-
-function StatCard({ label, value, href }: { label: string; value: number; href: string }) {
-  return (
-    <Link href={href} className="card card-hover text-center no-underline group">
-      <div className="text-4xl font-bold text-accent-primary mb-2 group-hover:scale-110 transition-transform">
-        {value}
-      </div>
-      <div className="text-sm text-text-secondary uppercase tracking-wider">{label}</div>
-    </Link>
-  );
-}
+import { getSiteConfig, getFeaturedPublications, getFeaturedMedia, getResearchAreas } from '@/lib/content';
 
 function AffiliationBadge({ name, url, role }: { name: string; url: string; role?: string }) {
   return (
@@ -29,9 +18,9 @@ function AffiliationBadge({ name, url, role }: { name: string; url: string; role
 
 export default function Home() {
   const site = getSiteConfig();
-  const stats = getStats();
   const featuredPubs = getFeaturedPublications();
   const featuredMedia = getFeaturedMedia();
+  const researchAreas = getResearchAreas();
 
   return (
     <div className="container-main py-12">
@@ -82,8 +71,8 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Stats Section */}
-      <section className="mb-16">
+      {/* Stats Section - Hidden for now */}
+      {/* <section className="mb-16">
         <h2 className="section-title">Stats</h2>
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
           <StatCard label="Publications" value={stats.publications} href="/research" />
@@ -91,7 +80,7 @@ export default function Home() {
           <StatCard label="Media" value={stats.mediaAppearances} href="/media" />
           <StatCard label="Conferences" value={stats.conferences} href="/conferences" />
         </div>
-      </section>
+      </section> */}
 
       {/* Affiliations Section */}
       <section className="mb-16">
@@ -122,7 +111,7 @@ export default function Home() {
                     </span>
                     <h3 className="text-lg font-medium mb-2">{pub.title}</h3>
                     <p className="text-sm text-text-secondary mb-2">
-                      {pub.authors.map((a, i) => (
+                      {pub.authors.slice(0, 3).map((a, i) => (
                         <span key={i}>
                           {i > 0 && ', '}
                           <span className={a.isMe ? 'font-semibold text-text-primary' : ''}>
@@ -130,6 +119,7 @@ export default function Home() {
                           </span>
                         </span>
                       ))}
+                      {pub.authors.length > 3 && <span>, et al.</span>}
                     </p>
                     <p className="text-sm text-text-tertiary italic">{pub.venue}, {pub.year}</p>
                   </div>
@@ -187,10 +177,14 @@ export default function Home() {
       <section>
         <h2 className="section-title">Research Areas</h2>
         <div className="flex flex-wrap gap-2">
-          {['Digital Politics', 'Misinformation', 'Computational Social Science', 'Canadian Politics', 'Political Behaviour', 'Social Media', 'Public Opinion', 'Machine Learning'].map((topic) => (
-            <span key={topic} className="px-3 py-1.5 bg-bg-secondary border border-border rounded-full text-sm text-text-secondary">
-              {topic}
-            </span>
+          {researchAreas.map((area) => (
+            <Link
+              key={area.id}
+              href={`/research?topic=${area.id}`}
+              className="px-3 py-1.5 bg-bg-secondary border border-border rounded-full text-sm text-text-secondary hover:border-accent-primary/50 hover:text-accent-primary transition-colors no-underline"
+            >
+              {area.label}
+            </Link>
           ))}
         </div>
       </section>

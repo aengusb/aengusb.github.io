@@ -16,7 +16,7 @@
   --accent-primary-rgb: 13, 148, 136;
   --accent-secondary: #4f46e5;
   --accent-secondary-rgb: 79, 70, 229;
-  --accent-tertiary: #d97706;
+  --accent-tertiary: #b45309;
   --border-color: rgba(0, 0, 0, 0.1);
   --background: #fafafa;
   --foreground: #1a1a2e;
@@ -34,7 +34,7 @@
   --accent-primary-rgb: 0, 212, 170;
   --accent-secondary: #6366f1;
   --accent-secondary-rgb: 99, 102, 241;
-  --accent-tertiary: #f59e0b;
+  --accent-tertiary: #d97706;
   --border-color: rgba(255, 255, 255, 0.08);
   --background: #0a0a0f;
   --foreground: #e8e8ed;
@@ -53,7 +53,7 @@
     --accent-primary-rgb: 0, 212, 170;
     --accent-secondary: #6366f1;
     --accent-secondary-rgb: 99, 102, 241;
-    --accent-tertiary: #f59e0b;
+    --accent-tertiary: #d97706;
     --border-color: rgba(255, 255, 255, 0.08);
     --background: #0a0a0f;
     --foreground: #e8e8ed;

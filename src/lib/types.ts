@@ -1,5 +1,5 @@
 // Publication types
-export type PublicationCategory = 'refereed' | 'report' | 'working-paper';
+export type PublicationCategory = 'refereed' | 'conference' | 'report' | 'dissertation' | 'working-paper';
 
 export interface Author {
   name: string;
@@ -13,7 +13,7 @@ export interface Publication {
   year: number;
   category: PublicationCategory;
   venue: string;
-  venueType?: 'journal' | 'book' | 'book-chapter' | 'report' | 'preprint';
+  venueType?: 'journal' | 'book' | 'book-chapter' | 'conference' | 'report' | 'dissertation' | 'preprint';
   volume?: string;
   issue?: string;
   pages?: string;
@@ -23,6 +23,7 @@ export interface Publication {
   replicationUrl?: string;
   abstract?: string;
   keywords?: string[];
+  tags?: string[];
   featured?: boolean;
 }
 
@@ -58,7 +59,7 @@ export interface MediaAppearance {
 }
 
 // Conference types
-export type ConferenceType = 'paper' | 'panel' | 'keynote' | 'invited' | 'workshop' | 'discussant';
+export type ConferenceType = 'paper' | 'panel' | 'keynote' | 'invited' | 'workshop' | 'discussant' | 'testimony' | 'service';
 
 export interface Conference {
   id: string;
@@ -68,7 +69,7 @@ export interface Conference {
   date: string;
   year: number;
   location: {
-    city: string;
+    city?: string;
     state?: string;
     country: string;
     venue?: string;
@@ -79,6 +80,7 @@ export interface Conference {
   paperUrl?: string;
   videoUrl?: string;
   eventUrl?: string;
+  url?: string;
   description?: string;
   tags?: string[];
 }
@@ -98,6 +100,13 @@ export interface Course {
   syllabusUrl?: string;
   courseUrl?: string;
   description?: string;
+}
+
+// Research Area (for filtering)
+export interface ResearchArea {
+  id: string;
+  label: string;
+  aliases: string[];
 }
 
 // Site config
@@ -128,6 +137,7 @@ export interface SiteConfig {
     url: string;
     role?: string;
   }>;
+  researchAreas?: ResearchArea[];
   analytics?: {
     googleAnalyticsId?: string;
   };

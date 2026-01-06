@@ -13,9 +13,6 @@ export default function CVPage() {
         <h1 className="text-4xl font-bold mb-4">
           <span className="text-accent-primary">&gt;</span> Curriculum Vitae
         </h1>
-        <p className="text-text-secondary max-w-2xl">
-          Download my full CV or view a summary of my academic career below.
-        </p>
       </header>
 
       <section className="mb-12">
@@ -55,7 +52,14 @@ export default function CVPage() {
 
           <div className="card">
             <h3 className="font-semibold mb-3 text-accent-primary">Education</h3>
-            <p className="text-text-primary font-medium">Ph.D. Political Science</p>
+            <a
+              href="https://www.proquest.com/openview/48077c1e449a76d14e1b33f5cd7f8b24/1?pq-origsite=gscholar&cbl=18750&diss=y"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-text-primary font-medium hover:text-accent-primary transition-colors"
+            >
+              Ph.D. Political Science, 2024
+            </a>
             <p className="text-sm text-text-secondary">McGill University</p>
           </div>
 

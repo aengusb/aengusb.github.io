@@ -89,18 +89,6 @@
       "tags": ["AI", "democracy", "policy", "quebec"]
     },
     {
-      "id": "wpfc-2025",
-      "title": "AI & the Press: Threats & Opportunities",
-      "eventName": "World Press Freedom Canada",
-      "eventType": "invited",
-      "date": "2025-01-01",
-      "year": 2025,
-      "location": {
-        "country": "Canada"
-      },
-      "tags": ["AI", "press", "media"]
-    },
-    {
       "id": "uottawa-2025",
       "title": "AI, The Digital Ecosystem, and the Future of Democracy",
       "eventName": "University of Ottawa",
@@ -127,24 +115,24 @@
       "tags": ["misinformation", "disinformation", "canada"]
     },
     {
-      "id": "pifi-2024",
+      "id": "pifi-2023",
       "title": "Expert Witness",
       "eventName": "Public Inquiry on Foreign Interference",
       "eventType": "testimony",
-      "date": "2024-01-01",
-      "year": 2024,
+      "date": "2023-12-01",
+      "year": 2023,
       "location": {
         "country": "Canada"
       },
       "tags": ["foreign-interference", "testimony", "government"]
     },
     {
-      "id": "ethi-2024",
+      "id": "ethi-2023",
       "title": "Expert Witness",
       "eventName": "House of Commons Standing Committee on Access to Information, Privacy and Ethics",
       "eventType": "testimony",
-      "date": "2024-01-01",
-      "year": 2024,
+      "date": "2023-12-01",
+      "year": 2023,
       "location": {
         "city": "Ottawa",
         "state": "ON",

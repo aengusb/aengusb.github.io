@@ -1,10 +1,20 @@
 {
   "courses": [
     {
-      "id": "ppol-intro-2025",
-      "code": "PPOL",
-      "title": "Introduction to Public Policy Making: Issues in Digital Policy",
+      "id": "ppol-635-winter-2026",
+      "code": "PPOL 635",
+      "title": "Mis and Disinformation: A Global Policy Challenge",
       "term": "winter",
+      "year": 2026,
+      "role": "instructor",
+      "institution": "McGill University",
+      "department": "Max Bell School of Public Policy"
+    },
+    {
+      "id": "ppol-199-fall-2025",
+      "code": "PPOL 199",
+      "title": "Introduction to Public Policy Making: Issues in Digital Policy",
+      "term": "fall",
       "year": 2025,
       "role": "instructor",
       "institution": "McGill University",
@@ -105,83 +115,83 @@
       "institution": "McGill University"
     },
     {
-      "id": "developed-world",
+      "id": "developed-world-2017",
       "code": "",
       "title": "Politics of the Developed World",
       "term": "",
-      "year": 0,
+      "year": 2017,
       "role": "teaching-assistant",
       "institution": "McGill University"
     },
     {
-      "id": "local-govt",
+      "id": "local-govt-2016",
       "code": "",
       "title": "Local Government",
       "term": "",
-      "year": 0,
+      "year": 2016,
       "role": "teaching-assistant",
       "institution": "McGill University"
     },
     {
-      "id": "qual-methods",
+      "id": "qual-methods-2017",
       "code": "",
       "title": "Qualitative Research Methods",
       "term": "",
-      "year": 0,
+      "year": 2017,
       "role": "teaching-assistant",
       "institution": "McGill University"
     },
     {
-      "id": "budgetary-policy",
+      "id": "budgetary-policy-2012",
       "code": "",
       "title": "Budgetary Policy and Public Finance",
       "term": "",
-      "year": 0,
+      "year": 2012,
       "role": "teaching-assistant",
       "institution": "University of Ottawa"
     },
     {
-      "id": "intro-politics",
+      "id": "intro-politics-2012",
       "code": "",
       "title": "Introduction to Politics",
       "term": "",
-      "year": 0,
+      "year": 2012,
       "role": "teaching-assistant",
       "institution": "University of Ottawa"
     },
     {
-      "id": "intro-cdn-politics",
+      "id": "intro-cdn-politics-2011",
       "code": "",
       "title": "Introduction to Canadian Politics",
       "term": "",
-      "year": 0,
+      "year": 2011,
       "role": "teaching-assistant",
       "institution": "University of Ottawa"
     },
     {
-      "id": "intro-pol-thought",
+      "id": "intro-pol-thought-2011",
       "code": "",
       "title": "Introduction to Political Thought",
       "term": "",
-      "year": 0,
+      "year": 2011,
       "role": "teaching-assistant",
       "institution": "University of Ottawa"
     },
     {
-      "id": "intro-modern-thought",
+      "id": "intro-modern-thought-2011",
       "code": "",
       "title": "Introduction to Modern Thought",
       "term": "",
-      "year": 0,
+      "year": 2011,
       "role": "teaching-assistant",
       "institution": "University of Ottawa"
     },
     {
-      "id": "pol-legal-theory",
+      "id": "pol-legal-theory-2011",
       "code": "",
       "title": "Political Legal Theory",
       "term": "",
-      "year": 0,
+      "year": 2011,
       "role": "teaching-assistant",
       "institution": "University of Ottawa"
     }

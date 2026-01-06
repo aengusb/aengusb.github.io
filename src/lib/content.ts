@@ -1,4 +1,4 @@
-import { Publication, MediaAppearance, Conference, Course, SiteConfig } from './types';
+import { Publication, MediaAppearance, Conference, Course, SiteConfig, ResearchArea } from './types';
 
 import siteData from '@/content/data/site.json';
 import publicationsData from '@/content/data/publications.json';
@@ -100,4 +100,41 @@ export function getStats() {
     mediaAppearances: getAllMedia().length,
     conferences: getAllConferences().length,
   };
+}
+
+// Research Areas
+export function getResearchAreas(): ResearchArea[] {
+  return (siteData as SiteConfig).researchAreas || [];
+}
+
+// Helper to match tags to research areas
+export function matchTagToResearchArea(tag: string): string | null {
+  const areas = getResearchAreas();
+  const normalizedTag = tag.toLowerCase();
+
+  for (const area of areas) {
+    if (area.id === normalizedTag) return area.id;
+    if (area.aliases.some(alias => alias.toLowerCase() === normalizedTag)) {
+      return area.id;
+    }
+  }
+  return null;
+}
+
+// Get all unique tags from media and conferences, mapped to research areas
+export function getContentByResearchArea(areaId: string): { media: MediaAppearance[]; conferences: Conference[] } {
+  const area = getResearchAreas().find(a => a.id === areaId);
+  if (!area) return { media: [], conferences: [] };
+
+  const allTags = [area.id, ...area.aliases].map(t => t.toLowerCase());
+
+  const media = getAllMedia().filter(m =>
+    m.topics?.some(topic => allTags.includes(topic.toLowerCase()))
+  );
+
+  const conferences = getAllConferences().filter(c =>
+    c.tags?.some(tag => allTags.includes(tag.toLowerCase()))
+  );
+
+  return { media, conferences };
 }

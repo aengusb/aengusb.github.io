@@ -1,6 +1,63 @@
 {
   "appearances": [
     {
+      "id": "lapresse-2025-influenceurs",
+      "title": "Les influenceurs ont été les plus actifs en ligne, selon un rapport",
+      "outlet": "La Presse",
+      "mediaType": "news",
+      "date": "2025-10-09",
+      "year": 2025,
+      "language": "fr",
+      "links": {
+        "article": "https://www.lapresse.ca/actualites/politique/2025-10-09/elections-federales-du-printemps-dernier/les-influenceurs-ont-ete-les-plus-actifs-en-ligne-selon-un-rapport.php"
+      },
+      "topics": ["influencers", "elections", "social-media"],
+      "featured": true
+    },
+    {
+      "id": "radio-canada-2025-faux-medias-ia",
+      "title": "De faux « médias locaux » générés par IA",
+      "outlet": "Radio-Canada Les Décrypteurs",
+      "mediaType": "tv",
+      "date": "2025-06-01",
+      "year": 2025,
+      "language": "fr",
+      "links": {
+        "video": {
+          "url": "https://ici.radio-canada.ca/decrypteurs/site/episodes/1126563/faux-medias-ia",
+          "platform": "other"
+        }
+      },
+      "topics": ["AI", "disinformation", "fake-news"],
+      "featured": true
+    },
+    {
+      "id": "radio-canada-2025-montreal-minute",
+      "title": "De faux médias locaux générés par IA apparaissent sur Facebook",
+      "outlet": "Radio-Canada",
+      "mediaType": "news",
+      "date": "2025-05-30",
+      "year": 2025,
+      "language": "fr",
+      "links": {
+        "article": "https://ici.radio-canada.ca/nouvelle/2205698/montreal-minute-journal-sherbrooke-ia-facebook"
+      },
+      "topics": ["AI", "disinformation", "facebook", "fake-news"]
+    },
+    {
+      "id": "guardian-2025-fake-content",
+      "title": "Fake political content spikes in Canada ahead of federal election",
+      "outlet": "The Guardian",
+      "mediaType": "news",
+      "date": "2025-04-18",
+      "year": 2025,
+      "links": {
+        "article": "https://www.theguardian.com/world/2025/apr/18/canada-fake-political-content-social-media"
+      },
+      "topics": ["disinformation", "elections", "social-media", "deepfakes"],
+      "featured": true
+    },
+    {
       "id": "cbc-2025-youtube-content-farm",
       "title": "This Canadian 'content farm' topped the politics charts on YouTube — before it was taken down",
       "outlet": "CBC News",
@@ -10,8 +67,7 @@
       "links": {
         "article": "https://www.cbc.ca/news/canada/canada-politics-youtube-channel-taken-down-1.7542250"
       },
-      "topics": ["disinformation", "youtube", "elections"],
-      "featured": true
+      "topics": ["disinformation", "youtube", "elections"]
     },
     {
       "id": "pressprogress-2025-russian-money",
@@ -63,7 +119,8 @@
           "platform": "other"
         }
       },
-      "topics": ["misinformation", "elections", "social-media"]
+      "topics": ["misinformation", "elections", "social-media"],
+      "featured": true
     },
     {
       "id": "globe-2025-disinformation",
@@ -75,8 +132,7 @@
       "links": {
         "article": "https://www.theglobeandmail.com/canada/article-what-we-know-about-disinformation-campaigns-uncovered-in-the-federal/"
       },
-      "topics": ["disinformation", "elections", "china"],
-      "featured": true
+      "topics": ["disinformation", "elections", "china"]
     },
     {
       "id": "star-2025-pencil-conspiracy",
@@ -214,8 +270,7 @@
       "links": {
         "article": "https://www.cbc.ca/news/politics/musk-angus-trudeau-poilievre-1.7439975"
       },
-      "topics": ["elon-musk", "election-interference", "x-twitter"],
-      "featured": true
+      "topics": ["elon-musk", "election-interference", "x-twitter"]
     },
     {
       "id": "cbc-maritime-2025-meta",
@@ -284,6 +339,18 @@
       "topics": ["disinformation", "elections", "fake-news"]
     },
     {
+      "id": "cp-2025-ai-dystopian",
+      "title": "'It feels dystopian:' AI-generated content about election flooded online news void",
+      "outlet": "Canadian Press",
+      "mediaType": "news",
+      "date": "2025-04-25",
+      "year": 2025,
+      "links": {
+        "article": "https://www.theglobeandmail.com/politics/federal-election/article-it-feels-dystopian-ai-generated-content-about-federal-election-flooded/"
+      },
+      "topics": ["AI", "disinformation", "elections", "meta-news-ban"]
+    },
+    {
       "id": "star-2024-far-right-influencers",
       "title": "How far-right influencers are weaponizing Canada as a warning to Americans",
       "outlet": "Toronto Star",
@@ -308,12 +375,12 @@
       "topics": ["democracy", "political-engagement", "public-opinion"]
     },
     {
-      "id": "youtube-2024-interview",
-      "title": "Video Interview",
-      "outlet": "YouTube",
+      "id": "cbc-manitoba-2025-election-misinfo",
+      "title": "Combating election misinformation: What Canadians need to know",
+      "outlet": "CBC News Manitoba",
       "mediaType": "tv",
-      "date": "2024-10-01",
-      "year": 2024,
+      "date": "2025-03-25",
+      "year": 2025,
       "links": {
         "video": {
           "url": "https://www.youtube.com/watch?v=ptXPKWOhlok",
@@ -321,7 +388,181 @@
           "embedId": "ptXPKWOhlok"
         }
       },
-      "topics": ["interview"]
+      "topics": ["misinformation", "elections"]
+    },
+    {
+      "id": "tyee-2024-russia-influence",
+      "title": "Inside the Russian Political Influence Campaign in Canada",
+      "outlet": "The Tyee",
+      "mediaType": "news",
+      "date": "2024-12-12",
+      "year": 2024,
+      "links": {
+        "article": "https://thetyee.ca/News/2024/12/12/Russian-Political-Influence-Campaign-Canada/"
+      },
+      "topics": ["russia", "disinformation", "foreign-interference", "tenet-media"]
+    },
+    {
+      "id": "cbc-2024-electofacts",
+      "title": "Elections Canada launches online disinformation tool to prepare voters for next federal election",
+      "outlet": "CBC News",
+      "mediaType": "news",
+      "date": "2024-01-12",
+      "year": 2024,
+      "links": {
+        "article": "https://www.cbc.ca/news/politics/elections-canada-electofacts-disinformaton-1.7081902"
+      },
+      "topics": ["elections", "disinformation", "elections-canada"]
+    },
+    {
+      "id": "edmonton-journal-2023-wildfires",
+      "title": "Transparency, consistency key as Alberta officials battle misinformation along with wildfires",
+      "outlet": "Edmonton Journal",
+      "mediaType": "news",
+      "date": "2023-05-22",
+      "year": 2023,
+      "links": {
+        "article": "https://edmontonjournal.com/news/local-news/transparency-consistency-key-as-alberta-officials-battle-misinformation-along-with-wildfires"
+      },
+      "topics": ["wildfires", "misinformation", "alberta", "climate"]
+    },
+    {
+      "id": "tyee-2024-bc-election",
+      "title": "The BC Election Social Media War",
+      "outlet": "The Tyee",
+      "mediaType": "news",
+      "date": "2024-10-23",
+      "year": 2024,
+      "links": {
+        "article": "https://thetyee.ca/News/2024/10/23/BC-Election-Social-Media-War/"
+      },
+      "topics": ["elections", "social-media", "polarization", "bc-politics"]
+    },
+    {
+      "id": "cbc-2024-foreign-interference-ai",
+      "title": "Deepfakes, influencers will change dynamic of next election, experts say",
+      "outlet": "CBC News",
+      "mediaType": "news",
+      "date": "2024-09-25",
+      "year": 2024,
+      "links": {
+        "article": "https://www.cbc.ca/news/politics/foreign-interference-artificial-intelligence-1.7334325"
+      },
+      "topics": ["AI", "deepfakes", "foreign-interference", "elections"]
+    },
+    {
+      "id": "cpac-2024-foreign-interference-inquiry",
+      "title": "Public Inquiry into Foreign Interference testimony",
+      "outlet": "CPAC",
+      "mediaType": "tv",
+      "date": "2024-09-25",
+      "year": 2024,
+      "links": {
+        "video": {
+          "url": "https://www.cpac.ca/inquiries-on-cpac/episode/public-inquiry-into-foreign-interference--september-25-2024?id=6fc81bb4-a0f9-4c16-a23e-c63015fdd873",
+          "platform": "other"
+        }
+      },
+      "topics": ["foreign-interference", "testimony", "elections"]
+    },
+    {
+      "id": "cbc-2024-meta-news-ban",
+      "title": "One year after news ban, Canadian journalism is suffering — but Meta isn't budging",
+      "outlet": "CBC News",
+      "mediaType": "news",
+      "date": "2024-08-01",
+      "year": 2024,
+      "links": {
+        "article": "https://www.cbc.ca/news/politics/one-year-after-news-ban-canadian-journalism-is-suffering-but-meta-isn-t-budging-1.7281101"
+      },
+      "topics": ["meta", "news-ban", "journalism", "democracy"]
+    },
+    {
+      "id": "tyee-2024-meta-democracy",
+      "title": "Zuckerberg's Harsh Blow to Canadian Democracy",
+      "outlet": "The Tyee",
+      "mediaType": "news",
+      "date": "2024-08-05",
+      "year": 2024,
+      "links": {
+        "article": "https://thetyee.ca/News/2024/08/05/Zuckerberg-Harsh-Blow-Canadian-Democracy/"
+      },
+      "topics": ["meta", "news-ban", "democracy", "misinformation"]
+    },
+    {
+      "id": "cbc-2022-depp-heard",
+      "title": "The online sensationalization of the Depp-Heard trial is dangerous, say advocates",
+      "outlet": "CBC News",
+      "mediaType": "news",
+      "date": "2022-05-28",
+      "year": 2022,
+      "links": {
+        "article": "https://www.cbc.ca/news/entertainment/depp-heard-memeification-1.6469420"
+      },
+      "topics": ["social-media", "misinformation", "bots"]
+    },
+    {
+      "id": "cbc-current-2022-conspiracy",
+      "title": "How to tackle growing belief in conspiracy theories",
+      "outlet": "CBC The Current",
+      "mediaType": "radio",
+      "date": "2022-06-15",
+      "year": 2022,
+      "links": {
+        "audio": {
+          "url": "https://www.cbc.ca/listen/live-radio/1-63-the-current/clip/15919167-how-tackle-growing-belief-conspiracy-theories",
+          "platform": "other"
+        }
+      },
+      "topics": ["conspiracy-theories", "misinformation", "public-opinion"]
+    },
+    {
+      "id": "grid-2022-convoy",
+      "title": "Canadian trucker protest — AKA the 'Freedom Convoy' — disrupts life in Ottawa",
+      "outlet": "Grid News",
+      "mediaType": "news",
+      "date": "2022-02-14",
+      "year": 2022,
+      "links": {
+        "article": "https://www.grid.news/story/misinformation/2022/02/14/canadian-trucker-convoy-disrupts-life-in-ottawa/"
+      },
+      "topics": ["convoy", "misinformation", "protests", "covid-19"]
+    },
+    {
+      "id": "globe-2021-insurrectionists",
+      "title": "'They are insurrectionists': Inside the online groups spreading misinformation and hate during the federal election campaign",
+      "outlet": "The Globe and Mail",
+      "mediaType": "news",
+      "date": "2021-09-18",
+      "year": 2021,
+      "links": {
+        "article": "https://www.theglobeandmail.com/politics/article-they-are-insurrectionists-inside-the-online-groups-spreading/"
+      },
+      "topics": ["elections", "misinformation", "hate", "extremism"]
+    },
+    {
+      "id": "cbc-2021-twitter-freeland",
+      "title": "Twitter's slap-down of Liberal video reveals growing role of social media giants in election",
+      "outlet": "CBC News",
+      "mediaType": "news",
+      "date": "2021-08-31",
+      "year": 2021,
+      "links": {
+        "article": "https://www.cbc.ca/news/politics/social-media-canadian-election-1.6158467"
+      },
+      "topics": ["elections", "social-media", "misinformation", "twitter"]
+    },
+    {
+      "id": "cbc-2021-facebook-election",
+      "title": "Canadians will see less politics on Facebook during election",
+      "outlet": "CBC News",
+      "mediaType": "news",
+      "date": "2021-08-18",
+      "year": 2021,
+      "links": {
+        "article": "https://www.cbc.ca/news/politics/facebook-election-politics-misinformation-1.6144408"
+      },
+      "topics": ["elections", "facebook", "social-media", "misinformation"]
     },
     {
       "id": "hill-times-2021-conservative",
@@ -345,8 +586,7 @@
       "links": {
         "article": "https://ca.news.yahoo.com/despite-a-slower-start-canada-is-now-lapping-us-on-covid-vaccination-are-right-wing-media-to-blame-090044237.html"
       },
-      "topics": ["covid-19", "misinformation", "vaccination"],
-      "featured": true
+      "topics": ["covid-19", "misinformation", "vaccination"]
     },
     {
       "id": "global-news-2021-misinfo",
@@ -433,8 +673,7 @@
           "embedId": "UfCvuKHLPws"
         }
       },
-      "topics": ["covid-19", "misinformation", "social-media", "vaccines"],
-      "featured": true
+      "topics": ["covid-19", "misinformation", "social-media", "vaccines"]
     },
     {
       "id": "global-news-2020-csis",
@@ -490,8 +729,7 @@
           "embedId": "moVqOWjNkmY"
         }
       },
-      "topics": ["covid-19", "vaccines", "vaccine-hesitancy"],
-      "featured": true
+      "topics": ["covid-19", "vaccines", "vaccine-hesitancy"]
     },
     {
       "id": "star-2020-great-reset",
@@ -568,8 +806,7 @@
       "links": {
         "article": "https://globalnews.ca/news/7229581/coronavirus-social-media-disinformation-mcgill/"
       },
-      "topics": ["covid-19", "social-media", "misinformation"],
-      "featured": true
+      "topics": ["covid-19", "social-media", "misinformation"]
     },
     {
       "id": "ledevoir-2020-alberta",
@@ -619,8 +856,7 @@
       "links": {
         "article": "https://messaging-custom-newsletters.nytimes.com/template/oakv2?uri=nyt://newsletter/f05a021b-53c5-40d3-859e-2c06b6f9523d"
       },
-      "topics": ["covid-19"],
-      "featured": true
+      "topics": ["covid-19"]
     },
     {
       "id": "vox-2020-partisanship",

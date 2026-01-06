@@ -7,7 +7,7 @@ import { ThemeToggle } from '../ui/ThemeToggle';
 const navItems = [
   { label: 'Research', href: '/research' },
   { label: 'Media', href: '/media' },
-  { label: 'Conferences', href: '/conferences' },
+  { label: 'Talks', href: '/conferences' },
   { label: 'Teaching', href: '/teaching' },
   { label: 'CV', href: '/cv' },
 ];

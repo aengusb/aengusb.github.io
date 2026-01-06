@@ -53,7 +53,7 @@ function formatDate(dateStr) {
   const date = new Date(dateStr);
   const months = ['January', 'February', 'March', 'April', 'May', 'June',
                   'July', 'August', 'September', 'October', 'November', 'December'];
-  return `${months[date.getMonth()]} ${date.getFullYear()}`;
+  return `${months[date.getUTCMonth()]} ${date.getUTCFullYear()}`;
 }
 
 // Helper: Format location
@@ -99,10 +99,13 @@ function generateCV() {
 
 % Section formatting
 \\titleformat{\\section}{\\Large\\bfseries\\color{accent}}{}{0em}{}[\\titlerule]
-\\titlespacing{\\section}{0pt}{12pt}{6pt}
+\\titlespacing{\\section}{0pt}{12pt}{8pt}
 
 \\titleformat{\\subsection}{\\large\\bfseries}{}{0em}{}
-\\titlespacing{\\subsection}{0pt}{8pt}{4pt}
+\\titlespacing{\\subsection}{0pt}{8pt}{6pt}
+
+% No paragraph indent
+\\setlength{\\parindent}{0pt}
 
 % Header/Footer
 \\pagestyle{fancy}
@@ -173,7 +176,7 @@ function generateCV() {
 %% REFEREED PUBLICATIONS
 \\section{Refereed Publications}
 
-\\begin{enumerate}[leftmargin=2em]
+\\begin{enumerate}[leftmargin=2em, itemsep=2pt]
 `;
 
   for (const pub of refereed) {
@@ -191,7 +194,7 @@ function generateCV() {
     }
 
     entry += '.';
-    tex += entry + '\n\n';
+    tex += entry + '\n';
   }
 
   tex += `\\end{enumerate}
@@ -204,13 +207,13 @@ function generateCV() {
     tex += `%% BOOK CHAPTERS
 \\section{Book Chapters}
 
-\\begin{enumerate}[leftmargin=2em]
+\\begin{enumerate}[leftmargin=2em, itemsep=2pt]
 `;
     for (const pub of bookChapters) {
       const authors = formatAuthors(pub.authors);
       const title = escapeLatex(pub.title);
       const venue = escapeLatex(pub.venue);
-      tex += '\\item ' + authors + '. ' + pub.year + '. ``' + title + "''," + ' in \\textit{' + venue + '}.\n\n';
+      tex += '\\item ' + authors + '. ' + pub.year + '. ``' + title + "''," + ' in \\textit{' + venue + '}.\n';
     }
     tex += `\\end{enumerate}
 
@@ -225,7 +228,7 @@ function generateCV() {
   tex += `%% REPORTS AND NON-REFEREED PUBLICATIONS
 \\section{Reports and Non-Refereed Publications}
 
-\\begin{enumerate}[leftmargin=2em]
+\\begin{enumerate}[leftmargin=2em, itemsep=2pt]
 `;
 
   for (const pub of reports) {
@@ -240,7 +243,7 @@ function generateCV() {
     }
 
     entry += '.';
-    tex += entry + '\n\n';
+    tex += entry + '\n';
   }
 
   tex += `\\end{enumerate}
@@ -255,7 +258,7 @@ function generateCV() {
   tex += `%% INVITED TALKS
 \\section{Invited Talks}
 
-\\begin{enumerate}[leftmargin=2em]
+\\begin{enumerate}[leftmargin=2em, itemsep=2pt]
 `;
 
   for (const conf of invitedTalks) {
@@ -267,7 +270,7 @@ function generateCV() {
     if (loc) entry += `, ${loc}`;
     entry += ` (${conf.year}).`;
 
-    tex += entry + '\n\n';
+    tex += entry + '\n';
   }
 
   tex += `\\end{enumerate}
@@ -283,7 +286,7 @@ function generateCV() {
     tex += `%% PARLIAMENTARY TESTIMONY
 \\section{Parliamentary and Committee Testimony}
 
-\\begin{enumerate}[leftmargin=2em]
+\\begin{enumerate}[leftmargin=2em, itemsep=2pt]
 `;
 
     for (const conf of testimony) {
@@ -297,7 +300,7 @@ function generateCV() {
       }
       entry += '.';
 
-      tex += entry + '\n\n';
+      tex += entry + '\n';
     }
 
     tex += `\\end{enumerate}
@@ -313,7 +316,7 @@ function generateCV() {
   tex += `%% CONFERENCE PRESENTATIONS
 \\section{Conference Presentations}
 
-\\begin{enumerate}[leftmargin=2em]
+\\begin{enumerate}[leftmargin=2em, itemsep=2pt]
 `;
 
   for (const conf of papers) {
@@ -325,7 +328,7 @@ function generateCV() {
     if (loc) entry += `, ${loc}`;
     entry += ` (${conf.year}).`;
 
-    tex += entry + '\n\n';
+    tex += entry + '\n';
   }
 
   tex += `\\end{enumerate}
@@ -341,7 +344,7 @@ function generateCV() {
     tex += `%% SERVICE
 \\section{Service}
 
-\\begin{itemize}[leftmargin=2em]
+\\begin{itemize}[leftmargin=2em, itemsep=2pt]
 `;
 
     for (const s of service) {
@@ -375,7 +378,7 @@ function generateCV() {
 \\section{Teaching}
 
 \\subsection{As Instructor}
-\\begin{itemize}[leftmargin=2em]
+\\begin{itemize}[leftmargin=2em, itemsep=2pt]
 `;
 
   for (const course of instructorCourses) {
@@ -388,7 +391,7 @@ function generateCV() {
   tex += `\\end{itemize}
 
 \\subsection{As Teaching Assistant}
-\\begin{itemize}[leftmargin=2em]
+\\begin{itemize}[leftmargin=2em, itemsep=2pt]
 `;
 
   for (const course of taCourses) {
@@ -406,7 +409,7 @@ function generateCV() {
   tex += `%% GRANTS
 \\section{Grant Awards}
 
-\\begin{itemize}[leftmargin=2em]
+\\begin{itemize}[leftmargin=2em, itemsep=2pt]
 \\item Canadian Heritage Digital Citizen Initiative (\\$5,500,000) -- awarded to the Media Ecosystem Observatory for delivery of the Canadian Digital Media Research Network
 \\item Elections British Columbia (\\$100,000) -- awarded to the Media Ecosystem Observatory for delivery of the British Columbia Elections Study
 \\item Canadian Heritage Digital Citizen Initiative (\\$100,000) -- for the Avatar Project
@@ -421,7 +424,7 @@ function generateCV() {
   tex += `%% AWARDS
 \\section{Research Awards}
 
-\\begin{itemize}[leftmargin=2em]
+\\begin{itemize}[leftmargin=2em, itemsep=2pt]
 \\item SSHRC Postdoctoral Fellowship (2023, declined)
 \\item Political Methodology Award, ICPSR (Summer 2019)
 \\item Joseph-Armand Bombardier Graduate Scholarship (2018--21)

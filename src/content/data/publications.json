@@ -1,6 +1,135 @@
 {
   "publications": [
     {
+      "id": "bridgman-2024-dissertation",
+      "title": "Studies in Digital Politics: Activism, Mobilization, and Misinformation",
+      "authors": [
+        { "name": "Aengus Bridgman", "isMe": true }
+      ],
+      "year": 2024,
+      "category": "dissertation",
+      "venue": "McGill University",
+      "venueType": "dissertation",
+      "url": "https://www.proquest.com/openview/48077c1e449a76d14e1b33f5cd7f8b24/1?pq-origsite=gscholar&cbl=18750&diss=y",
+      "tags": ["misinformation", "social-media", "democracy"]
+    },
+    {
+      "id": "pehlivan-park-2025-meo-infrastructure",
+      "title": "Building a Media Ecosystem Observatory from Scratch: Infrastructure, Methodology, and Insights",
+      "authors": [
+        { "name": "Zeynep Pehlivan", "isMe": false },
+        { "name": "Saewon Park", "isMe": false },
+        { "name": "Alexei Sisulu Abrahams", "isMe": false },
+        { "name": "Mika Desblancs-Patel", "isMe": false },
+        { "name": "Benjamin David Steel", "isMe": false },
+        { "name": "Aengus Bridgman", "isMe": true }
+      ],
+      "year": 2025,
+      "category": "conference",
+      "venue": "Proceedings of the International AAAI Conference on Web and Social Media (ICWSM)",
+      "venueType": "conference",
+      "doi": "10.48550/arXiv.2506.10942",
+      "url": "https://arxiv.org/abs/2506.10942",
+      "tags": ["social-media", "canadian-politics"]
+    },
+    {
+      "id": "park-pehlivan-2025-canpolnews",
+      "title": "Can-PolNews: A Multi-Platform Dataset of Political Discourse in Canada",
+      "authors": [
+        { "name": "Saewon Park", "isMe": false },
+        { "name": "Zeynep Pehlivan", "isMe": false },
+        { "name": "Alexei Sisulu Abrahams", "isMe": false },
+        { "name": "Mika Desblancs-Patel", "isMe": false },
+        { "name": "Benjamin David Steel", "isMe": false },
+        { "name": "Aengus Bridgman", "isMe": true }
+      ],
+      "year": 2025,
+      "category": "conference",
+      "venue": "Proceedings of the International AAAI Conference on Web and Social Media (ICWSM)",
+      "venueType": "conference",
+      "url": "https://ojs.aaai.org/index.php/ICWSM/article/view/35956",
+      "replicationUrl": "https://figshare.com/s/9dd053304c6fc3ae4879",
+      "tags": ["social-media", "canadian-politics"]
+    },
+    {
+      "id": "bridgman-2025-federal-election",
+      "title": "The Canadian Information Ecosystem during the 2025 Federal Election",
+      "authors": [
+        { "name": "Aengus Bridgman", "isMe": true },
+        { "name": "Jennie Phillips", "isMe": false },
+        { "name": "Alexei Abrahams", "isMe": false },
+        { "name": "Isabelle Corriveau", "isMe": false },
+        { "name": "Alexandra Stanghellini", "isMe": false },
+        { "name": "Ashley Vu", "isMe": false },
+        { "name": "Auxane Bussac", "isMe": false },
+        { "name": "Ben Steel", "isMe": false },
+        { "name": "Chris Ross", "isMe": false },
+        { "name": "David Hobson", "isMe": false },
+        { "name": "Dinara Karimova", "isMe": false },
+        { "name": "Diya Jiang", "isMe": false },
+        { "name": "Emma Frattasio", "isMe": false },
+        { "name": "Esli Chan", "isMe": false },
+        { "name": "Fakhreddine Riahi", "isMe": false },
+        { "name": "Daniel Nikoula", "isMe": false },
+        { "name": "Hana Allal", "isMe": false },
+        { "name": "Junyan Zhu", "isMe": false },
+        { "name": "Kathia Légaré", "isMe": false },
+        { "name": "Kiran Gill", "isMe": false },
+        { "name": "Liam Murphy", "isMe": false },
+        { "name": "Luke Pindera", "isMe": false },
+        { "name": "Mahnan Omar", "isMe": false },
+        { "name": "Mathieu Lavigne", "isMe": false },
+        { "name": "Mika Desblancs-Patel", "isMe": false },
+        { "name": "Nader Hedfi", "isMe": false },
+        { "name": "Nishtha Gupta", "isMe": false },
+        { "name": "Olivia Melanson", "isMe": false },
+        { "name": "Saewon Park", "isMe": false },
+        { "name": "Sara Parker", "isMe": false },
+        { "name": "Sarah Tran", "isMe": false },
+        { "name": "Spencer Izen", "isMe": false },
+        { "name": "Victoria Forte", "isMe": false },
+        { "name": "Zeynep Pehlivan", "isMe": false },
+        { "name": "Taylor Owen", "isMe": false }
+      ],
+      "year": 2025,
+      "category": "report",
+      "venue": "Media Ecosystem Observatory / Canadian Digital Media Research Network",
+      "venueType": "report",
+      "url": "https://www.cdmrn.ca/publications/the-canadianinformation-ecosystem-during-the-2025-federal-election",
+      "featured": true,
+      "tags": ["elections", "misinformation", "canadian-politics", "social-media"]
+    },
+    {
+      "id": "abrahams-bridgman-2025-bc-final",
+      "title": "British Columbia Election Information Ecosystem Project: Final Report",
+      "authors": [
+        { "name": "Alexei Abrahams", "isMe": false },
+        { "name": "Thomas Bergeron", "isMe": false },
+        { "name": "Danielle Bohonos", "isMe": false },
+        { "name": "Aengus Bridgman", "isMe": true },
+        { "name": "Esli Chan", "isMe": false },
+        { "name": "Mika Desblancs-Patel", "isMe": false },
+        { "name": "Spencer Izen", "isMe": false },
+        { "name": "Grace Lim", "isMe": false },
+        { "name": "Sherry Madah", "isMe": false },
+        { "name": "Mahnan Omar", "isMe": false },
+        { "name": "Zeynep Pehlivan", "isMe": false },
+        { "name": "Jennie Phillips", "isMe": false },
+        { "name": "Saewon Park", "isMe": false },
+        { "name": "Chris Ross", "isMe": false },
+        { "name": "Ben Steel", "isMe": false },
+        { "name": "Chris Tenove", "isMe": false },
+        { "name": "Ashley Vu", "isMe": false },
+        { "name": "Junyan Zhu", "isMe": false }
+      ],
+      "year": 2025,
+      "category": "report",
+      "venue": "Media Ecosystem Observatory",
+      "venueType": "report",
+      "url": "https://meo.ca/s/MEO_BCEMP-FullRept-2025_f05.pdf",
+      "tags": ["elections", "misinformation", "canadian-politics"]
+    },
+    {
       "id": "lucas-mcgregor-bridgman-2023",
       "title": "Spatial voting in non-partisan cities: A case study",
       "authors": [
@@ -12,7 +141,8 @@
       "category": "refereed",
       "venue": "Electoral Studies",
       "venueType": "journal",
-      "doi": "10.1016/j.electstud.2023.102599"
+      "doi": "10.1016/j.electstud.2023.102599",
+      "tags": ["elections", "canadian-politics"]
     },
     {
       "id": "bridgman-nadeau-stolle-2022",
@@ -26,7 +156,8 @@
       "category": "refereed",
       "venue": "Canadian Journal of Political Science/Revue canadienne de science politique",
       "venueType": "journal",
-      "doi": "10.1017/S0008423921000780"
+      "doi": "10.1017/S0008423921000780",
+      "tags": ["canadian-politics", "democracy"]
     },
     {
       "id": "bridgman-stolle-2022-handbook",
@@ -39,7 +170,8 @@
       "category": "refereed",
       "venue": "Oxford Handbook of Political Participation",
       "venueType": "book-chapter",
-      "url": "https://academic.oup.com/edited-volume/44007/chapter-abstract/371816097"
+      "url": "https://academic.oup.com/edited-volume/44007/chapter-abstract/371816097",
+      "tags": ["democracy"]
     },
     {
       "id": "bridgman-merkley-loewen-2021-deservingness",
@@ -56,7 +188,8 @@
       "venue": "The Journal of Experimental Political Science",
       "venueType": "journal",
       "doi": "10.1017/XPS.2021.10",
-      "replicationUrl": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LPHMB7"
+      "replicationUrl": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LPHMB7",
+      "tags": ["covid-19"]
     },
     {
       "id": "bridgman-merkley-zhilin-2021-infodemic",
@@ -74,7 +207,8 @@
       "venue": "Frontiers in Political Science",
       "venueType": "journal",
       "url": "https://www.frontiersin.org/articles/10.3389/fpos.2021.648646",
-      "replicationUrl": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Y0RP9J"
+      "replicationUrl": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Y0RP9J",
+      "tags": ["covid-19", "misinformation", "social-media"]
     },
     {
       "id": "bridgman-ciobanu-erlich-2020-unveiling",
@@ -92,7 +226,8 @@
       "venueType": "journal",
       "doi": "10.1086/711177",
       "replicationUrl": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Q20FB7",
-      "pdfUrl": "/files/bridgman_unveiling_2021.pdf"
+      "pdfUrl": "/files/bridgman_unveiling_2021.pdf",
+      "tags": ["elections", "canadian-politics"]
     },
     {
       "id": "bridgman-merkley-loewen-2020-covid",
@@ -111,7 +246,8 @@
       "venueType": "journal",
       "doi": "10.37016/mr-2020-028",
       "replicationUrl": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5QS2XP",
-      "featured": true
+      "featured": true,
+      "tags": ["covid-19", "misinformation", "social-media"]
     },
     {
       "id": "bridgman-2020-senate",
@@ -124,7 +260,8 @@
       "venue": "Party Politics",
       "venueType": "journal",
       "doi": "10.1177/1354068820911345",
-      "replicationUrl": "https://doi.org/10.7910/DVN/NGTGED"
+      "replicationUrl": "https://doi.org/10.7910/DVN/NGTGED",
+      "tags": ["canadian-politics", "democracy"]
     },
     {
       "id": "merkley-bridgman-2020-consensus",
@@ -142,7 +279,8 @@
       "category": "refereed",
       "venue": "Canadian Journal of Political Science/Revue canadienne de science politique",
       "venueType": "journal",
-      "doi": "10.1017/S0008423920000311"
+      "doi": "10.1017/S0008423920000311",
+      "tags": ["covid-19", "canadian-politics"]
     },
     {
       "id": "bridgman-abrahams-2024-tenet",
@@ -162,7 +300,8 @@
       "venue": "Canadian Digital Media Research Network",
       "venueType": "report",
       "url": "https://static1.squarespace.com/static/65427f5b140649321cd829e9/t/675860f3c8ffb13de64d8916/1733845241887/MEO-CDMRN-Tenet-Media-Russia-Incident-Report_2024_final.pdf",
-      "featured": true
+      "featured": true,
+      "tags": ["foreign-interference", "misinformation", "social-media"]
     },
     {
       "id": "bridgman-hobson-2024-kirkland",
@@ -188,7 +327,8 @@
       "category": "report",
       "venue": "Canadian Digital Media Research Network",
       "venueType": "report",
-      "url": "https://static1.squarespace.com/static/65427f5b140649321cd829e9/t/66cf664bd218c123615bde47/1724868172938/MEO-InRpt_Kirkland-2024_004.pdf"
+      "url": "https://static1.squarespace.com/static/65427f5b140649321cd829e9/t/66cf664bd218c123615bde47/1724868172938/MEO-InRpt_Kirkland-2024_004.pdf",
+      "tags": ["social-media", "misinformation", "canadian-politics"]
     },
     {
       "id": "bridgman-abrahams-2024-bc",
@@ -212,7 +352,8 @@
       "category": "report",
       "venue": "Media Ecosystem Observatory",
       "venueType": "report",
-      "url": "https://static1.squarespace.com/static/6450265301129e5dbabfe8a2/t/66f6ac5ac031861caedcbc4b/1727442012759/MEO_BCEMP-BaseRept-2024_006jp.pdf"
+      "url": "https://static1.squarespace.com/static/6450265301129e5dbabfe8a2/t/66f6ac5ac031861caedcbc4b/1727442012759/MEO_BCEMP-BaseRept-2024_006jp.pdf",
+      "tags": ["elections", "misinformation", "canadian-politics"]
     },
     {
       "id": "russill-bridgman-2024-wildfire",
@@ -231,7 +372,8 @@
       "category": "report",
       "venue": "Re.Climate",
       "venueType": "report",
-      "url": "https://reclimate.ca/wp-content/uploads/2024/06/Re.Climate-Report-Wildfire-Misinformation-2024.pdf"
+      "url": "https://reclimate.ca/wp-content/uploads/2024/06/Re.Climate-Report-Wildfire-Misinformation-2024.pdf",
+      "tags": ["misinformation", "canadian-politics"]
     },
     {
       "id": "parker-ross-2024-meta",
@@ -246,7 +388,8 @@
       "category": "report",
       "venue": "Media Ecosystem Observatory",
       "venueType": "report",
-      "url": "https://static1.squarespace.com/static/6450265301129e5dbabfe8a2/t/66c36dba3066f124adb4000c/1724083643261/Meta+News+Ban+Report-08-19.pdf"
+      "url": "https://static1.squarespace.com/static/6450265301129e5dbabfe8a2/t/66c36dba3066f124adb4000c/1724083643261/Meta+News+Ban+Report-08-19.pdf",
+      "tags": ["social-media", "canadian-politics", "democracy"]
     },
     {
       "id": "bridgman-lee-whiting-2023-alberta",
@@ -266,7 +409,8 @@
       "category": "report",
       "venue": "Media Ecosystem Observatory",
       "venueType": "report",
-      "url": "https://figshare.com/articles/book/Indistinct_Information_Habitats_Information_and_Attitudes_in_the_2023_Alberta_Election/24625314"
+      "url": "https://figshare.com/articles/book/Indistinct_Information_Habitats_Information_and_Attitudes_in_the_2023_Alberta_Election/24625314",
+      "tags": ["elections", "misinformation", "canadian-politics"]
     },
     {
       "id": "parker-park-2024-news-deserts",
@@ -285,7 +429,8 @@
       "category": "report",
       "venue": "Media Ecosystem Observatory",
       "venueType": "report",
-      "url": "https://static1.squarespace.com/static/6450265301129e5dbabfe8a2/t/6622c8a408f39611294ebdb2/1713555621401/Whenjournalism+is+turned+off_Preliminary+Report.pdf"
+      "url": "https://static1.squarespace.com/static/6450265301129e5dbabfe8a2/t/6622c8a408f39611294ebdb2/1713555621401/Whenjournalism+is+turned+off_Preliminary+Report.pdf",
+      "tags": ["democracy", "canadian-politics"]
     },
     {
       "id": "bridgman-abrahams-2023-ecosystem",
@@ -309,7 +454,8 @@
       "category": "report",
       "venue": "Media Ecosystem Observatory",
       "venueType": "report",
-      "url": "https://figshare.com/articles/book/State_of_the_Canadian_Media_Ecosystem_Report_November_2023/24574036?file=43326219"
+      "url": "https://figshare.com/articles/book/State_of_the_Canadian_Media_Ecosystem_Report_November_2023/24574036?file=43326219",
+      "tags": ["social-media", "canadian-politics"]
     },
     {
       "id": "lavigne-blanchard-2023-quebec",
@@ -330,7 +476,8 @@
       "category": "report",
       "venue": "Media Ecosystem Observatory",
       "venueType": "report",
-      "url": "https://doi.org/10.31219/osf.io/wam45"
+      "url": "https://doi.org/10.31219/osf.io/wam45",
+      "tags": ["elections", "misinformation", "canadian-politics"]
     },
     {
       "id": "bridgman-lavigne-2022-federal",
@@ -356,7 +503,8 @@
       "category": "report",
       "venue": "Media Ecosystem Observatory",
       "venueType": "report",
-      "url": "https://doi.org/10.31219/osf.io/ubfmx"
+      "url": "https://doi.org/10.31219/osf.io/ubfmx",
+      "tags": ["elections", "misinformation", "canadian-politics"]
     },
     {
       "id": "teichmann-nossek-2020-public-health",
@@ -373,7 +521,8 @@
       "category": "report",
       "venue": "Journal of Medical Internet Research (Preprint)",
       "venueType": "preprint",
-      "url": "https://osf.io/7hypj/"
+      "url": "https://osf.io/7hypj/",
+      "tags": ["covid-19", "social-media"]
     },
     {
       "id": "owen-loewen-2020-vaccine",
@@ -391,7 +540,8 @@
       "category": "report",
       "venue": "Media Ecosystem Observatory",
       "venueType": "report",
-      "url": "https://mediaecosystemobservatory.com/Vaccine-hesistancy"
+      "url": "https://mediaecosystemobservatory.com/Vaccine-hesistancy",
+      "tags": ["covid-19", "misinformation"]
     },
     {
       "id": "mcandrews-bridgman-2020-debates",
@@ -408,7 +558,8 @@
       "category": "report",
       "venue": "Canadian Leaders' Debates Commission",
       "venueType": "report",
-      "url": "https://www.debates-debats.ca/en/report/evaluation-2019-federal-leaders-debates"
+      "url": "https://www.debates-debats.ca/en/report/evaluation-2019-federal-leaders-debates",
+      "tags": ["elections", "canadian-politics", "democracy"]
     },
     {
       "id": "owen-loewen-2019-ddp",
@@ -427,7 +578,8 @@
       "category": "report",
       "venue": "Public Policy Forum / Digital Democracy Project",
       "venueType": "report",
-      "url": "https://ppforum.ca/articles/lessons-in-resilience-canadas-digital-media-ecosystem-and-the-2019-election/"
+      "url": "https://ppforum.ca/articles/lessons-in-resilience-canadas-digital-media-ecosystem-and-the-2019-election/",
+      "tags": ["elections", "misinformation", "social-media", "canadian-politics"]
     }
   ]
 }
