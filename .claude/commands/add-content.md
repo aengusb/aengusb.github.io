@@ -53,4 +53,11 @@ Add the following content to Aengus Bridgman's academic website: $ARGUMENTS
    npm run build   # Rebuild site
    ```
 
-9. **Summarize** what was added, which file was modified, and tags assigned.
+9. **Commit and push** the changes:
+   ```bash
+   git add -A
+   git commit -m "Add [brief description of content]"
+   git push
+   ```
+
+10. **Summarize** what was added, which file was modified, and tags assigned.
