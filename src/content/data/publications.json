@@ -96,6 +96,7 @@
       "venue": "Media Ecosystem Observatory / Canadian Digital Media Research Network",
       "venueType": "report",
       "url": "https://www.cdmrn.ca/publications/the-canadianinformation-ecosystem-during-the-2025-federal-election",
+      "pdfUrl": "/files/MEO_FedElection-2025.pdf",
       "featured": true,
       "tags": ["elections", "misinformation", "canadian-politics", "social-media"]
     },
