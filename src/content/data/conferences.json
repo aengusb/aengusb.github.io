@@ -1,6 +1,21 @@
 {
   "conferences": [
     {
+      "id": "mtd-ai-fraud-2025",
+      "title": "What we know about AI Fraud in the Canadian Information Ecosystem",
+      "eventName": "Securing Canada's Digital Sovereignty: AI and the Growing Economy of Fraud",
+      "eventType": "invited",
+      "date": "2025-12-04",
+      "year": 2025,
+      "location": {
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "Canada"
+      },
+      "tags": ["ai", "misinformation", "elections", "canadian-politics"],
+      "url": "https://www.mediatechdemocracy.com/events/ai-and-the-growing-economy-of-fraud"
+    },
+    {
       "id": "cpac-digital-sovereignty-2025",
       "title": "Securing Canada's Digital Sovereignty",
       "eventName": "CPAC Public Record",
