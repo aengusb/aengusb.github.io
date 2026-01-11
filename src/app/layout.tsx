@@ -67,6 +67,11 @@ export default function RootLayout({
             `,
           }}
         />
+        <script
+          data-goatcounter="https://abridgman.goatcounter.com/count"
+          async
+          src="//gc.zgo.at/count.js"
+        />
       </head>
       <body className="min-h-screen flex flex-col">
         <Header />
