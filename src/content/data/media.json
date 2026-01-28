@@ -1,6 +1,18 @@
 {
   "appearances": [
     {
+      "id": "star-2026-us-corporations",
+      "title": "Canadians won't let the U.S. government boss them around. But U.S. mega-corporations? Sure, why not",
+      "outlet": "Toronto Star",
+      "mediaType": "op-ed",
+      "date": "2026-01-09",
+      "year": 2026,
+      "links": {
+        "article": "https://www.thestar.com/opinion/star-columnists/canadians-wont-let-the-u-s-government-boss-them-around-but-u-s-mega-corporations/article_98dbadf5-6bbd-452d-9c58-1d6a0f3178a5.html"
+      },
+      "topics": ["tech-platforms", "canada-us", "corporations"]
+    },
+    {
       "id": "lapresse-2025-influenceurs",
       "title": "Les influenceurs ont été les plus actifs en ligne, selon un rapport",
       "outlet": "La Presse",
