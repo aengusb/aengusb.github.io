@@ -1,6 +1,22 @@
 {
   "appearances": [
     {
+      "id": "cbc-national-2026-american-threat",
+      "title": "The next American threat you might not see coming",
+      "outlet": "CBC News / The National",
+      "mediaType": "tv",
+      "date": "2026-01-29",
+      "year": 2026,
+      "links": {
+        "video": {
+          "url": "https://www.cbc.ca/player/play/video/9.7066027",
+          "platform": "other"
+        }
+      },
+      "topics": ["alberta", "separatism", "quebec", "canada-us", "foreign-interference", "disinformation"],
+      "featured": true
+    },
+    {
       "id": "cbc-front-burner-2026-alberta-separatism",
       "title": "Is MAGA weaponizing Alberta separatism?",
       "outlet": "CBC Front Burner",
