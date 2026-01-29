@@ -1,6 +1,21 @@
 {
   "appearances": [
     {
+      "id": "cbc-front-burner-2026-alberta-separatism",
+      "title": "Is MAGA weaponizing Alberta separatism?",
+      "outlet": "CBC Front Burner",
+      "mediaType": "podcast",
+      "date": "2026-01-28",
+      "year": 2026,
+      "links": {
+        "audio": {
+          "url": "https://podcasts.apple.com/ca/podcast/front-burner/id1439621628?i=1000746987482",
+          "platform": "other"
+        }
+      },
+      "topics": ["alberta", "separatism", "maga", "canada-us", "national-security"]
+    },
+    {
       "id": "star-2026-us-corporations",
       "title": "Canadians won't let the U.S. government boss them around. But U.S. mega-corporations? Sure, why not",
       "outlet": "Toronto Star",
