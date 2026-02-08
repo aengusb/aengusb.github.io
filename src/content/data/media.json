@@ -1,6 +1,22 @@
 {
   "appearances": [
     {
+      "id": "radio-canada-2026-faits-dabord-melania",
+      "title": "La fin du PEQ, et un documentaire de propagande sur Melania Trump",
+      "outlet": "Radio-Canada Les faits d'abord",
+      "mediaType": "radio",
+      "date": "2026-01-31",
+      "year": 2026,
+      "language": "fr",
+      "links": {
+        "audio": {
+          "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/les-faits-dabord/episodes/1088717/la-fin-du-peq-et-un-documentaire-de-propagande-sur-melania-trump",
+          "platform": "other"
+        }
+      },
+      "topics": ["fact-checking", "misinformation", "propaganda"]
+    },
+    {
       "id": "cbc-national-2026-american-threat",
       "title": "The next American threat you might not see coming",
       "outlet": "CBC News / The National",
@@ -30,6 +46,23 @@
         }
       },
       "topics": ["alberta", "separatism", "maga", "canada-us", "national-security"]
+    },
+    {
+      "id": "tvo-2026-big-if-true-astroturfing",
+      "title": "Astroturfing: Paid to Protest?",
+      "outlet": "TVO Big If True",
+      "mediaType": "tv",
+      "date": "2026-01-25",
+      "year": 2026,
+      "links": {
+        "video": {
+          "url": "https://www.tvo.org/big-if-true",
+          "platform": "other"
+        },
+        "transcript": "https://www.tvo.org/transcript/5011094"
+      },
+      "topics": ["astroturfing", "protests", "disinformation"],
+      "featured": true
     },
     {
       "id": "star-2026-us-corporations",
