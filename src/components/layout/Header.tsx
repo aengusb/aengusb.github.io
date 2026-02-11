@@ -1,5 +1,6 @@
 'use client';
 
+import { useState } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { ThemeToggle } from '../ui/ThemeToggle';
@@ -14,6 +15,7 @@ const navItems = [
 
 export function Header() {
   const pathname = usePathname();
+  const [mobileOpen, setMobileOpen] = useState(false);
 
   return (
     <header className="sticky top-0 z-50 bg-bg-primary/80 backdrop-blur-md border-b border-border">
@@ -48,15 +50,47 @@ export function Header() {
               <ThemeToggle />
 
               {/* Mobile menu button */}
-              <button className="md:hidden w-8 h-8 flex items-center justify-center rounded hover:bg-bg-tertiary transition-colors">
+              <button
+                className="md:hidden w-8 h-8 flex items-center justify-center rounded hover:bg-bg-tertiary transition-colors"
+                onClick={() => setMobileOpen(!mobileOpen)}
+                aria-expanded={mobileOpen}
+                aria-label="Toggle menu"
+              >
                 <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
+                  {mobileOpen ? (
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                  ) : (
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
+                  )}
                 </svg>
               </button>
             </div>
           </div>
         </nav>
       </div>
+
+      {/* Mobile menu */}
+      {mobileOpen && (
+        <div className="md:hidden border-t border-border bg-bg-primary/95 backdrop-blur-md">
+          <ul className="container-main py-4 flex flex-col gap-1">
+            {navItems.map((item) => (
+              <li key={item.href}>
+                <Link
+                  href={item.href}
+                  onClick={() => setMobileOpen(false)}
+                  className={`nav-link block px-3 py-2 rounded no-underline ${
+                    pathname === item.href || pathname.startsWith(item.href + '/')
+                      ? 'nav-link-active'
+                      : ''
+                  }`}
+                >
+                  {item.label}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
     </header>
   );
 }
