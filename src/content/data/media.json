@@ -239,6 +239,18 @@
       "topics": ["disinformation", "elections"]
     },
     {
+      "id": "law-bytes-2025-election-misinformation",
+      "title": "The 2025 Federal Election, Social Media Platforms, and Misinformation",
+      "outlet": "Law Bytes (Michael Geist)",
+      "mediaType": "podcast",
+      "date": "2025-03-31",
+      "year": 2025,
+      "links": {
+        "article": "https://www.mcgill.ca/channels/channels/news/aengus-bridgman-2025-federal-election-social-media-platforms-and-misinformation-law-bytes-364683"
+      },
+      "topics": ["elections", "social-media", "misinformation", "platforms"]
+    },
+    {
       "id": "hilltimes-2025-foreign-interference",
       "title": "Foreign interference risks must be addressed before voters go to polls, warns democracy watchdog",
       "outlet": "The Hill Times",
