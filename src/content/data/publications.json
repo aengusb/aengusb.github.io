@@ -11,6 +11,7 @@
       "venue": "McGill University",
       "venueType": "dissertation",
       "url": "https://www.proquest.com/openview/48077c1e449a76d14e1b33f5cd7f8b24/1?pq-origsite=gscholar&cbl=18750&diss=y",
+      "pdfUrl": "/files/papers/bridgman_2024_dissertation.pdf",
       "tags": ["misinformation", "social-media", "democracy"]
     },
     {
@@ -50,6 +51,7 @@
       "venueType": "conference",
       "url": "https://ojs.aaai.org/index.php/ICWSM/article/view/35956",
       "replicationUrl": "https://figshare.com/s/9dd053304c6fc3ae4879",
+      "pdfUrl": "/files/papers/park_2025_canpolnews.pdf",
       "tags": ["social-media", "canadian-politics"]
     },
     {
@@ -145,6 +147,7 @@
       "venue": "Electoral Studies",
       "venueType": "journal",
       "doi": "10.1016/j.electstud.2023.102599",
+      "pdfUrl": "/files/papers/lucas_2023_spatial-voting.pdf",
       "tags": ["elections", "canadian-politics"]
     },
     {
@@ -578,6 +581,7 @@
       "venue": "Canadian Leaders' Debates Commission",
       "venueType": "report",
       "url": "https://www.debates-debats.ca/en/report/evaluation-2019-federal-leaders-debates",
+      "pdfUrl": "/files/papers/mcandrews_2020_debates.pdf",
       "tags": ["elections", "canadian-politics", "democracy"]
     },
     {
@@ -598,6 +602,7 @@
       "venue": "Public Policy Forum / Digital Democracy Project",
       "venueType": "report",
       "url": "https://ppforum.ca/articles/lessons-in-resilience-canadas-digital-media-ecosystem-and-the-2019-election/",
+      "pdfUrl": "/files/papers/owen_2020_ddp.pdf",
       "tags": ["elections", "misinformation", "social-media", "canadian-politics"]
     }
   ]
