@@ -2,7 +2,6 @@
 
 import Presentation from '@/components/presentations/Presentation';
 import {
-  TitleSlide,
   ContentSlide,
   TwoColumnSlide,
   SectionSlide,
