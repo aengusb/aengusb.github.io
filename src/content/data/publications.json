@@ -178,6 +178,7 @@
       "venue": "Oxford Handbook of Political Participation",
       "venueType": "book-chapter",
       "url": "https://academic.oup.com/edited-volume/44007/chapter-abstract/371816097",
+      "pdfUrl": "/files/papers/bridgman_2022_mobilization.pdf",
       "tags": ["democracy"]
     },
     {
@@ -196,6 +197,7 @@
       "venueType": "journal",
       "doi": "10.1017/XPS.2021.10",
       "replicationUrl": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LPHMB7",
+      "pdfUrl": "/files/papers/bridgman_2021_deservingness.pdf",
       "tags": ["covid-19"]
     },
     {
