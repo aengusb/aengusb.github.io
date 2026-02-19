@@ -1,0 +1,46 @@
+/* ============================================================
+   PERSONAL THEME — aligned with abridgman.ca website
+   Dark:  teal #00d4aa, indigo #6366f1, amber #d97706
+   Light: teal #0d9488, indigo #4f46e5, amber #b45309
+   ============================================================ */
+
+.presentation-wrapper {
+  --bg-primary: #0a0a0f;
+  --bg-secondary: #12121a;
+  --bg-tertiary: #1a1a24;
+  --text-primary: #e8e8ed;
+  --text-secondary: #9898a8;
+  --text-tertiary: #5c5c6c;
+  --border-color: rgba(255, 255, 255, 0.08);
+
+  --accent-primary: #00d4aa;
+  --accent-primary-rgb: 0, 212, 170;
+  --accent-secondary: #6366f1;
+  --accent-secondary-rgb: 99, 102, 241;
+  --accent-tertiary: #d97706;
+  --accent-tertiary-rgb: 217, 119, 6;
+
+  --grid-opacity: 0.025;
+  --grid-color: 0, 212, 170;
+}
+
+.presentation-wrapper.pres-light,
+.presentation-wrapper .print-mode {
+  --bg-primary: #fafafa;
+  --bg-secondary: #ffffff;
+  --bg-tertiary: #f5f5f5;
+  --text-primary: #1a1a2e;
+  --text-secondary: #5c5c6c;
+  --text-tertiary: #9898a8;
+  --border-color: rgba(0, 0, 0, 0.1);
+
+  --accent-primary: #0d9488;
+  --accent-primary-rgb: 13, 148, 136;
+  --accent-secondary: #4f46e5;
+  --accent-secondary-rgb: 79, 70, 229;
+  --accent-tertiary: #b45309;
+  --accent-tertiary-rgb: 180, 83, 9;
+
+  --grid-opacity: 0.03;
+  --grid-color: 0, 0, 0;
+}

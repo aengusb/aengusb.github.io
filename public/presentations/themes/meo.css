@@ -1,0 +1,57 @@
+/* ============================================================
+   MEO THEME — Media Ecosystem Observatory
+   Official brand from MEO Style Guide 2.0:
+     PMS 7742c  #467742  (dark green)
+     PMS 4096c  #78494D  (brown/mauve)
+     PMS 4142c  #3D4E80  (dark blue)
+     PMS 151c   #FF8200  (orange)
+     PMS Black3 #2D2926  (near-black)
+     PMS 7737c  #6BA539  (green)
+     PMS 617c   #C0B661  (olive/gold)
+     PMS 631c   #3EB1C8  (cyan)
+     PMS 100c   #F6EB61  (yellow)
+     Cool Grey1 #D9D9D6  (light grey)
+     PMS 7487c  #8EDD65  (light green)
+   Font: Poppins / Literata
+   ============================================================ */
+
+.presentation-wrapper {
+  --bg-primary: #121210;
+  --bg-secondary: #1c1c19;
+  --bg-tertiary: #2D2926;
+  --text-primary: #f0f0ee;
+  --text-secondary: #a8a8a4;
+  --text-tertiary: #6e6e6a;
+  --border-color: rgba(255, 255, 255, 0.06);
+
+  --accent-primary: #6BA539;
+  --accent-primary-rgb: 107, 165, 57;
+  --accent-secondary: #3EB1C8;
+  --accent-secondary-rgb: 62, 177, 200;
+  --accent-tertiary: #FF8200;
+  --accent-tertiary-rgb: 255, 130, 0;
+
+  --grid-opacity: 0.025;
+  --grid-color: 107, 165, 57;
+}
+
+.presentation-wrapper.pres-light,
+.presentation-wrapper .print-mode {
+  --bg-primary: #F5F5F3;
+  --bg-secondary: #FFFFFF;
+  --bg-tertiary: #D9D9D6;
+  --text-primary: #2D2926;
+  --text-secondary: #585451;
+  --text-tertiary: #807F7D;
+  --border-color: rgba(45, 41, 38, 0.1);
+
+  --accent-primary: #467742;
+  --accent-primary-rgb: 70, 119, 66;
+  --accent-secondary: #3D4E80;
+  --accent-secondary-rgb: 61, 78, 128;
+  --accent-tertiary: #FF8200;
+  --accent-tertiary-rgb: 255, 130, 0;
+
+  --grid-opacity: 0.03;
+  --grid-color: 45, 41, 38;
+}

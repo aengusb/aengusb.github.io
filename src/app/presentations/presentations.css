@@ -1,0 +1,301 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap');
+
+/* ============================================================
+   PRESENTATION DESIGN SYSTEM — Terminal-inspired theme
+
+   All variables scoped to .presentation-wrapper to avoid
+   conflicts with the main site's CSS variables.
+
+   Accent colors are overridable via theme CSS files:
+     /presentations/themes/personal.css  — warm earth tones (default)
+     /presentations/themes/meo.css       — MEO green / cyan / orange
+     /presentations/themes/mtd.css       — McGill red / gold / grey
+   ============================================================ */
+
+/* ---------- Dark mode (default on-screen) ---------- */
+/* Defaults match personal theme (aligned with abridgman.ca) */
+.presentation-wrapper {
+  --bg-primary: #0a0a0f;
+  --bg-secondary: #12121a;
+  --bg-tertiary: #1a1a24;
+  --text-primary: #e8e8ed;
+  --text-secondary: #9898a8;
+  --text-tertiary: #5c5c6c;
+  --border-color: rgba(255, 255, 255, 0.08);
+
+  /* Accent colors — themes override these */
+  --accent-primary: #00d4aa;
+  --accent-primary-rgb: 0, 212, 170;
+  --accent-secondary: #6366f1;
+  --accent-secondary-rgb: 99, 102, 241;
+  --accent-tertiary: #d97706;
+  --accent-tertiary-rgb: 217, 119, 6;
+
+  /* Grid overlay opacity */
+  --grid-opacity: 0.025;
+  --grid-color: 0, 212, 170;
+
+  /* Base styles */
+  font-family: 'JetBrains Mono', 'SF Mono', 'Monaco', 'Consolas', monospace;
+  font-feature-settings: "liga" 1, "calt" 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: var(--bg-primary);
+  color: var(--text-primary);
+}
+
+/* ---------- Light mode ---------- */
+.presentation-wrapper.pres-light {
+  --bg-primary: #fafafa;
+  --bg-secondary: #ffffff;
+  --bg-tertiary: #f5f5f5;
+  --text-primary: #1a1a2e;
+  --text-secondary: #5c5c6c;
+  --text-tertiary: #9898a8;
+  --border-color: rgba(0, 0, 0, 0.1);
+
+  --accent-primary: #0d9488;
+  --accent-primary-rgb: 13, 148, 136;
+  --accent-secondary: #4f46e5;
+  --accent-secondary-rgb: 79, 70, 229;
+  --accent-tertiary: #b45309;
+  --accent-tertiary-rgb: 180, 83, 9;
+
+  --grid-opacity: 0.03;
+  --grid-color: 0, 0, 0;
+}
+
+.presentation-wrapper ::selection {
+  background-color: rgba(var(--accent-primary-rgb), 0.2);
+}
+
+/* ============================================================
+   GRID BACKGROUND
+   ============================================================ */
+
+.presentation-wrapper .grid-bg {
+  background-image:
+    linear-gradient(rgba(var(--grid-color), var(--grid-opacity)) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(var(--grid-color), var(--grid-opacity)) 1px, transparent 1px);
+  background-size: 50px 50px;
+}
+
+/* ============================================================
+   GRADIENT TEXT
+   ============================================================ */
+
+.presentation-wrapper .gradient-text {
+  background: linear-gradient(135deg, var(--accent-primary), var(--accent-secondary));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* ============================================================
+   ACCENT HEADER LINE
+   ============================================================ */
+
+.presentation-wrapper .accent-line {
+  height: 2px;
+  background: linear-gradient(90deg, var(--accent-primary), var(--accent-secondary));
+}
+
+/* ============================================================
+   PROGRESS BAR
+   ============================================================ */
+
+.presentation-wrapper .progress-bar {
+  background: linear-gradient(90deg, var(--accent-primary), var(--accent-secondary));
+}
+
+/* ============================================================
+   TERMINAL BULLETS
+   ============================================================ */
+
+.presentation-wrapper .terminal-bullets li {
+  position: relative;
+  padding-left: 2rem;
+  margin-bottom: 1rem;
+}
+
+.presentation-wrapper .terminal-bullets li::before {
+  content: '>';
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: var(--accent-primary);
+  font-weight: 700;
+  font-family: 'JetBrains Mono', monospace;
+}
+
+/* ============================================================
+   SECTION PREFIX  // label
+   ============================================================ */
+
+.presentation-wrapper .section-prefix {
+  color: var(--accent-primary);
+  opacity: 0.6;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+}
+
+.presentation-wrapper .section-prefix::before {
+  content: '// ';
+}
+
+/* ============================================================
+   GLOW EFFECTS
+   ============================================================ */
+
+.presentation-wrapper .glow {
+  box-shadow: 0 0 20px rgba(var(--accent-primary-rgb), 0.1);
+}
+
+.presentation-wrapper .glow-hover:hover {
+  box-shadow: 0 0 30px rgba(var(--accent-primary-rgb), 0.15);
+}
+
+/* ============================================================
+   CARD STYLE
+   ============================================================ */
+
+.presentation-wrapper .slide-card {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 0.5rem;
+  transition: all 200ms;
+}
+
+.presentation-wrapper .slide-card:hover {
+  border-color: rgba(var(--accent-primary-rgb), 0.3);
+}
+
+/* ============================================================
+   CODE BLOCKS
+   ============================================================ */
+
+.presentation-wrapper pre {
+  background: var(--bg-tertiary);
+  border: 1px solid var(--border-color);
+  border-radius: 0.5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.875rem;
+}
+
+.presentation-wrapper code {
+  font-family: 'JetBrains Mono', monospace;
+}
+
+/* ============================================================
+   ANIMATIONS
+   ============================================================ */
+
+@keyframes pres-fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes pres-slideUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes pres-countUp {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes pres-slideInRight {
+  from { opacity: 0; transform: translateX(20px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+
+.presentation-wrapper .animate-fade-in { animation: pres-fadeIn 0.5s ease-out both; }
+.presentation-wrapper .animate-slide-up { animation: pres-slideUp 0.5s ease-out both; }
+.presentation-wrapper .animate-count-up { animation: pres-countUp 1s ease-out both; }
+.presentation-wrapper .animate-slide-in { animation: pres-slideInRight 0.3s ease-out both; }
+
+/* Staggered delays for lists */
+.presentation-wrapper .stagger-1 { animation-delay: 0.1s; }
+.presentation-wrapper .stagger-2 { animation-delay: 0.2s; }
+.presentation-wrapper .stagger-3 { animation-delay: 0.3s; }
+.presentation-wrapper .stagger-4 { animation-delay: 0.4s; }
+.presentation-wrapper .stagger-5 { animation-delay: 0.5s; }
+
+/* ============================================================
+   SLIDE TRANSITIONS
+   ============================================================ */
+
+.presentation-wrapper .slide-enter {
+  opacity: 0;
+  transform: translateX(20px);
+}
+
+.presentation-wrapper .slide-enter-active {
+  opacity: 1;
+  transform: translateX(0);
+  transition: opacity 300ms ease-out, transform 300ms ease-out;
+}
+
+/* ============================================================
+   PRINT / PDF EXPORT MODE
+   Triggered by ?print=true — renders all slides stacked
+   Forces light mode for readability
+   ============================================================ */
+
+.presentation-wrapper .print-mode {
+  --bg-primary: #f9f4ef;
+  --bg-secondary: #fffffe;
+  --bg-tertiary: #eaddcf;
+  --text-primary: #020826;
+  --text-secondary: #716040;
+  --text-tertiary: #8c7851;
+  --border-color: rgba(2, 8, 38, 0.1);
+  --accent-primary: #8c7851;
+  --accent-primary-rgb: 140, 120, 81;
+  --accent-secondary: #f25042;
+  --accent-secondary-rgb: 242, 80, 66;
+  --accent-tertiary: #020826;
+  --accent-tertiary-rgb: 2, 8, 38;
+  --grid-opacity: 0.03;
+  --grid-color: 2, 8, 38;
+}
+
+.presentation-wrapper .print-mode .nav-controls,
+.presentation-wrapper .print-mode .progress-bar-container,
+.presentation-wrapper .print-mode .keyboard-hints {
+  display: none !important;
+}
+
+.presentation-wrapper .print-mode .slide-wrapper {
+  position: relative !important;
+  opacity: 1 !important;
+  transform: none !important;
+  pointer-events: auto !important;
+  width: 1920px;
+  height: 1080px;
+  flex-shrink: 0;
+  page-break-after: always;
+}
+
+@media print {
+  .presentation-wrapper .nav-controls,
+  .presentation-wrapper .progress-bar-container,
+  .presentation-wrapper .keyboard-hints {
+    display: none !important;
+  }
+
+  .presentation-wrapper .slide-wrapper {
+    position: relative !important;
+    opacity: 1 !important;
+    transform: none !important;
+    page-break-after: always;
+  }
+
+  .presentation-wrapper * {
+    animation: none !important;
+    transition: none !important;
+  }
+}

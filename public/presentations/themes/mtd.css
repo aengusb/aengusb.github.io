@@ -1,0 +1,52 @@
+/* ============================================================
+   MTD THEME — Centre for Media, Technology and Democracy
+   Official brand from MTD Style Guide:
+     Lime green:   #0AEB4D
+     Blue:         #4D65B6 (rare accent)
+     Dark Salmon:  #E1717A (rare accent)
+     Black:        #000000
+     White:        #FFFFFF
+     Very Dark grey: #272726
+     Very Light grey: #F5F5F4
+   ============================================================ */
+
+.presentation-wrapper {
+  --bg-primary: #0f0f0e;
+  --bg-secondary: #1a1a19;
+  --bg-tertiary: #272726;
+  --text-primary: #F5F5F4;
+  --text-secondary: #b0b0af;
+  --text-tertiary: #6e6e6d;
+  --border-color: rgba(255, 255, 255, 0.06);
+
+  --accent-primary: #0AEB4D;
+  --accent-primary-rgb: 10, 235, 77;
+  --accent-secondary: #4D65B6;
+  --accent-secondary-rgb: 77, 101, 182;
+  --accent-tertiary: #E1717A;
+  --accent-tertiary-rgb: 225, 113, 122;
+
+  --grid-opacity: 0.025;
+  --grid-color: 10, 235, 77;
+}
+
+.presentation-wrapper.pres-light,
+.presentation-wrapper .print-mode {
+  --bg-primary: #F5F5F4;
+  --bg-secondary: #FFFFFF;
+  --bg-tertiary: #e8e8e7;
+  --text-primary: #0f0f0e;
+  --text-secondary: #4a4a49;
+  --text-tertiary: #6e6e6d;
+  --border-color: rgba(0, 0, 0, 0.1);
+
+  --accent-primary: #08c940;
+  --accent-primary-rgb: 8, 201, 64;
+  --accent-secondary: #3d5199;
+  --accent-secondary-rgb: 61, 81, 153;
+  --accent-tertiary: #c95560;
+  --accent-tertiary-rgb: 201, 85, 96;
+
+  --grid-opacity: 0.03;
+  --grid-color: 0, 0, 0;
+}
