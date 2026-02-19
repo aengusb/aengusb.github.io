@@ -47,6 +47,14 @@ export default function Presentation({ children, theme: initialTheme = 'personal
     link.href = `/presentations/themes/${theme}.css`;
   }, [theme]);
 
+  // Scale root font-size so all rem-based Tailwind classes grow with viewport
+  useEffect(() => {
+    const prev = document.documentElement.style.fontSize;
+    // ~24px on 1920w, ~20px on 1440w, capped at 28px
+    document.documentElement.style.fontSize = 'clamp(18px, 1.125vw, 28px)';
+    return () => { document.documentElement.style.fontSize = prev; };
+  }, []);
+
   // Apply light mode class on the wrapper element (not <html>, to avoid conflicts with site CSS)
   useEffect(() => {
     const wrapper = wrapperRef.current?.closest('.presentation-wrapper');
