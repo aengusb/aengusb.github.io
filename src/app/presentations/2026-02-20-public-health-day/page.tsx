@@ -61,27 +61,143 @@ export default function PublicHealthDay() {
         </div>
       </div>
 
-      {/* ── 2. About me / MEO ─────────────────────────── */}
-      <ContentSlide
-        category="Introduction"
-        title="The Media Ecosystem Observatory"
-        slideNumber={2}
-        footerText="abridgman.ca"
-      >
-        <BulletList
-          items={[
-            <span key="1"><strong>MEO</strong> — Canada&apos;s digital media monitoring infrastructure at McGill</span>,
-            <span key="2">We study the <strong>health of information ecosystems</strong> — not just individual pieces of content</span>,
-            <span key="3">Digital trace data across platforms: X, Facebook, Instagram, YouTube, TikTok, Telegram, podcasts</span>,
-            <span key="4">Part of the <strong>Canadian Digital Media Research Network</strong> (CDMRN) — 14 research labs nationwide</span>,
-          ]}
-        />
-        <Citation refs={[
-          'Bridgman et al., Like it or Not: The Changing Canadian Information Ecosystem, 2025',
-          'Bridgman et al., Infodemic Pathways: Evaluating the Role That Traditional and Social Media Play in Cross-National Information Transfer, 2021',
-          'Bridgman et al., The Causes and Consequences of COVID-19 Misperceptions: Understanding the Role of News and Social Media, 2020',
-        ]} />
-      </ContentSlide>
+      {/* ── 2. Introduction — Aengus with cascading publication covers ── */}
+      <div className="h-full w-full relative overflow-hidden bg-[var(--bg-primary)] grid-bg flex">
+        {/* Left side — name and title */}
+        <div className="w-[45%] flex flex-col justify-center pl-16 pr-8 z-10">
+          <p className="text-base uppercase tracking-widest text-[var(--accent-primary)] opacity-60 mb-4 animate-fade-in">
+            <span className="opacity-60">{"// "}</span>Introduction
+          </p>
+          <h1 className="text-5xl md:text-6xl font-bold text-[var(--text-primary)] leading-tight mb-4 animate-slide-up">
+            Aengus
+            <br />
+            Bridgman
+          </h1>
+          <div className="accent-line w-24 my-4 animate-fade-in stagger-2" />
+          <p className="text-xl text-[var(--text-secondary)] mb-2 animate-fade-in stagger-3">
+            Assistant Professor &mdash; Max Bell School of Public Policy
+          </p>
+          <p className="text-xl text-[var(--accent-primary)] mb-1 animate-fade-in stagger-3">
+            Director &mdash; Media Ecosystem Observatory
+          </p>
+          <p className="text-xl text-[var(--accent-secondary)] animate-fade-in stagger-4">
+            Associate Director, Research &mdash; Centre for Media, Technology &amp; Democracy
+          </p>
+          <p className="text-lg text-[var(--text-tertiary)] mt-4 animate-fade-in stagger-4">
+            McGill University
+          </p>
+        </div>
+
+        {/* Right side — cascading publication covers */}
+        <div className="w-[55%] relative flex items-center justify-center overflow-hidden">
+          {[
+            { title: 'The Causes and Consequences of COVID-19 Misperceptions', venue: 'Harvard Kennedy School Misinformation Review', year: '2020', color: 'var(--accent-primary)', rotate: -14, x: -100, y: -260 },
+            { title: 'A Rare Moment of Cross-Partisan Consensus', venue: 'Canadian Journal of Political Science', year: '2020', color: 'var(--accent-secondary)', rotate: 4, x: 80, y: -240 },
+            { title: 'Unveiling: An Unexpected Mid-campaign Court Ruling', venue: 'The Journal of Politics', year: '2020', color: 'var(--accent-tertiary)', rotate: -8, x: -30, y: -170 },
+            { title: 'Infodemic Pathways', venue: 'Frontiers in Political Science', year: '2021', color: 'var(--accent-primary)', rotate: 6, x: 100, y: -150 },
+            { title: 'Understanding Vaccine Hesitancy in Canada', venue: 'Media Ecosystem Observatory', year: '2020', color: 'var(--accent-secondary)', rotate: -3, x: -80, y: -80 },
+            { title: 'Mis- and Disinformation during the 2021 Federal Election', venue: 'Media Ecosystem Observatory', year: '2022', color: 'var(--accent-tertiary)', rotate: 8, x: 60, y: -60 },
+            { title: 'A Distinct Society: Understanding Social Distrust in Quebec', venue: 'Canadian Journal of Political Science', year: '2022', color: 'var(--accent-primary)', rotate: -5, x: -50, y: 10 },
+            { title: 'Old News, New Reality: A Year of Meta\u2019s News Ban', venue: 'Media Ecosystem Observatory', year: '2024', color: 'var(--accent-secondary)', rotate: 3, x: 90, y: 40 },
+            { title: 'Flame Wars: Misinformation and Wildfire', venue: 'Re.Climate', year: '2024', color: 'var(--accent-tertiary)', rotate: -10, x: -90, y: 100 },
+            { title: 'Russian Funding of US and Canadian Political Influencers', venue: 'CDMRN', year: '2024', color: 'var(--accent-primary)', rotate: 5, x: 40, y: 130 },
+            { title: 'Building a Media Ecosystem Observatory from Scratch', venue: 'ICWSM', year: '2025', color: 'var(--accent-secondary)', rotate: -7, x: -60, y: 200 },
+            { title: 'The Canadian Information Ecosystem during the 2025 Federal Election', venue: 'MEO / CDMRN', year: '2025', color: 'var(--accent-tertiary)', rotate: 4, x: 70, y: 240 },
+          ].map((pub, i) => (
+            <div
+              key={i}
+              className="absolute w-[240px] animate-fade-in"
+              style={{
+                transform: `translate(${pub.x}px, ${pub.y}px) rotate(${pub.rotate}deg)`,
+                animationDelay: `${0.1 + i * 0.1}s`,
+                zIndex: 10 + i,
+              }}
+            >
+              <div
+                className="p-4 rounded-lg shadow-xl border"
+                style={{
+                  background: 'var(--bg-secondary)',
+                  borderColor: pub.color,
+                  borderTopWidth: '3px',
+                }}
+              >
+                <p className="text-[10px] uppercase tracking-widest mb-1" style={{ color: pub.color, opacity: 0.8 }}>{pub.year}</p>
+                <p className="text-xs font-semibold text-[var(--text-primary)] leading-snug mb-1">{pub.title}</p>
+                <p className="text-[10px] text-[var(--text-tertiary)]">{pub.venue}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+
+        {/* Footer */}
+        <div className="absolute bottom-0 left-0 right-0 flex justify-between items-center px-10 py-4 border-t border-[var(--border-color)] bg-[var(--bg-primary)]/90 z-20">
+          <span className="text-base text-[var(--text-tertiary)] font-medium tracking-wide">abridgman.ca</span>
+          <span className="text-base text-[var(--text-tertiary)]">2</span>
+        </div>
+      </div>
+
+      {/* ── 3. MTD + MEO ─────────────────────────────── */}
+      <div className="h-full w-full relative overflow-hidden bg-[var(--bg-primary)]">
+        <div className="accent-line w-full flex-shrink-0" />
+        <div className="flex-1 w-full flex flex-col p-10 pt-8 h-full">
+          {/* Header */}
+          <div className="mb-8 pb-4 border-b border-[var(--border-color)]">
+            <div className="flex items-baseline gap-3">
+              <span className="text-[var(--accent-primary)] text-base uppercase tracking-widest opacity-60">
+                <span className="opacity-60">{"// "}</span>Introduction
+              </span>
+            </div>
+            <h2 className="text-3xl md:text-4xl font-bold text-[var(--text-primary)] mt-2">
+              Where This Work Lives
+            </h2>
+          </div>
+
+          {/* Two org blocks side by side */}
+          <div className="flex-1 grid grid-cols-2 gap-10">
+            {/* MTD */}
+            <div className="flex flex-col">
+              <div className="slide-card p-8 flex-1 flex flex-col" style={{ borderTopColor: 'var(--accent-secondary)', borderTopWidth: '3px' }}>
+                <p className="text-base uppercase tracking-widest text-[var(--accent-secondary)] opacity-80 mb-2">Centre for Media, Technology &amp; Democracy</p>
+                <h3 className="text-3xl font-bold text-[var(--text-primary)] mb-6">MTD</h3>
+                <div className="p-5 rounded-lg bg-[var(--bg-secondary)] border-l-4 border-[var(--accent-secondary)] mb-6">
+                  <p className="text-xl text-[var(--text-primary)] italic leading-relaxed">
+                    &ldquo;Empower democratic societies to navigate digital change.&rdquo;
+                  </p>
+                </div>
+                <ul className="space-y-3 text-lg text-[var(--text-secondary)] flex-1">
+                  <li className="animate-fade-in" style={{ animationDelay: '0.2s' }}>Research centre at McGill&apos;s Max Bell School of Public Policy</li>
+                  <li className="animate-fade-in" style={{ animationDelay: '0.3s' }}>Policy-facing research on platform governance, AI, and democracy</li>
+                  <li className="animate-fade-in" style={{ animationDelay: '0.4s' }}>Training the next generation of digital policy leaders</li>
+                </ul>
+              </div>
+            </div>
+
+            {/* MEO */}
+            <div className="flex flex-col">
+              <div className="slide-card p-8 flex-1 flex flex-col" style={{ borderTopColor: 'var(--accent-primary)', borderTopWidth: '3px' }}>
+                <p className="text-base uppercase tracking-widest text-[var(--accent-primary)] opacity-80 mb-2">Media Ecosystem Observatory</p>
+                <h3 className="text-3xl font-bold text-[var(--text-primary)] mb-6">MEO</h3>
+                <div className="p-5 rounded-lg bg-[var(--bg-secondary)] border-l-4 border-[var(--accent-primary)] mb-6">
+                  <p className="text-xl text-[var(--text-primary)] italic leading-relaxed">
+                    Canada&apos;s digital media monitoring infrastructure
+                  </p>
+                </div>
+                <ul className="space-y-3 text-lg text-[var(--text-secondary)] flex-1">
+                  <li className="animate-fade-in" style={{ animationDelay: '0.3s' }}>Real-time tracking across X, Facebook, Instagram, YouTube, TikTok, Telegram, podcasts</li>
+                  <li className="animate-fade-in" style={{ animationDelay: '0.4s' }}>Leads the <strong className="text-[var(--text-primary)]">Canadian Digital Media Research Network</strong> — 14 labs nationwide</li>
+                  <li className="animate-fade-in" style={{ animationDelay: '0.5s' }}>Election monitoring, incident response, and ecosystem health reports</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        {/* Footer */}
+        <div className="absolute bottom-0 left-0 right-0 flex justify-between items-center px-10 py-4 border-t border-[var(--border-color)] bg-[var(--bg-primary)]/90">
+          <span className="text-base text-[var(--text-tertiary)] font-medium tracking-wide">abridgman.ca</span>
+          <span className="text-base text-[var(--text-tertiary)]">3</span>
+        </div>
+      </div>
 
       {/* ── 3. The metaphor ───────────────────────────── */}
       <ContentSlide
