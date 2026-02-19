@@ -31,14 +31,14 @@ export default function PublicHealthDay() {
               className="w-full h-auto block"
             />
           </div>
-          <div className="absolute z-10 text-right" style={{ top: '7vh', left: '10vw' }}>
+          <div className="absolute z-10 text-right" style={{ top: '8vh', left: '10vw' }}>
             <p className="text-2xl md:text-5xl font-semibold uppercase tracking-wide" style={{ color: '#6BA539', WebkitTextStroke: '1.25px rgba(255,255,255,0.4)' }}>
               Information
               <br />
               Ecosystem
             </p>
           </div>
-          <div className="absolute z-10 text-left" style={{ bottom: '13vh', right: '13vw' }}>
+          <div className="absolute z-10 text-left" style={{ bottom: '18vh', right: '13vw' }}>
             <p className="text-2xl md:text-5xl font-semibold text-red-500 uppercase tracking-wide" style={{ WebkitTextStroke: '1.25px rgba(255,255,255,0.4)' }}>
               Misinformation
             </p>
@@ -71,24 +71,6 @@ export default function PublicHealthDay() {
         </div>
       </div>
 
-      {/* ── 3. Hook beat 2: AI chatbots ── */}
-      <div className="h-full w-full relative overflow-hidden bg-[var(--bg-primary)] grid-bg flex flex-col items-center justify-center">
-        <p className="absolute top-8 left-12 text-lg uppercase tracking-widest text-[var(--accent-primary)] opacity-60 animate-fade-in">
-          <span className="opacity-60">{"// "}</span>Where Canadians Get Health Information
-        </p>
-        <div className="text-center animate-slide-up">
-          <div className="text-8xl md:text-9xl font-bold text-[var(--accent-secondary)] mb-4">50%</div>
-          <p className="text-4xl text-[var(--text-primary)] mb-2">of Canadians</p>
-          <p className="text-2xl text-[var(--text-secondary)]">have turned to AI chatbots for health information</p>
-          <p className="text-xl text-[var(--text-tertiary)] mt-4">Only 27% trust it to be accurate — but they use it anyway</p>
-        </div>
-        <Citation refs={['CMA / Abacus Data, Health and Media Tracking Survey, 2025 (N = 5,000)']} />
-        <div className="absolute bottom-0 left-0 right-0 flex justify-between items-center px-10 py-4 border-t border-[var(--border-color)] bg-[var(--bg-primary)]/90">
-          <span className="text-lg text-[var(--text-tertiary)] font-medium tracking-wide">abridgman.ca</span>
-          <span className="text-lg text-[var(--text-tertiary)]">3</span>
-        </div>
-      </div>
-
       {/* ── 4. Hook beat 3: Two tiers — alt health + political/general ── */}
       <div className="h-full w-full relative overflow-hidden bg-[var(--bg-primary)] grid-bg flex flex-col items-center justify-center">
         <p className="absolute top-8 left-12 text-lg uppercase tracking-widest text-[var(--accent-primary)] opacity-60 animate-fade-in">
@@ -102,18 +84,18 @@ export default function PublicHealthDay() {
           </p>
           <div className="grid grid-cols-6 gap-4 animate-slide-up">
             {[
-              { name: 'Passion Struck', img: 'alt-health/Passion Struck with John R_ Miles.jpg' },
-              { name: 'Feel Better, Live More', img: 'alt-health/Feel Better_ Live More with Dr Rangan Chatterjee.jpg' },
-              { name: 'Well with Arielle Lorre', img: 'alt-health/Well with Arielle Lorre.jpg' },
-              { name: 'Feminist Wellness', img: 'alt-health/Feminist Wellness.jpg' },
-              { name: 'Dhru Purohit Show', img: 'alt-health/Dhru Purohit Show.jpg' },
-              { name: 'Dr. Tyna Show', img: 'alt-health/The Dr_ Tyna Show.jpg' },
-              { name: 'Wellness Process', img: 'alt-health/The Wellness Process.jpg' },
-              { name: 'Dylan Gemelli', img: 'alt-health/The Dylan Gemelli Podcast.jpg' },
-              { name: 'mindbodygreen', img: 'alt-health/The mindbodygreen Podcast.jpg' },
-              { name: 'Dr. Ardis Show', img: 'alt-health/The Dr_ Ardis Show Podcast.jpg' },
-              { name: 'Wise Traditions', img: 'alt-health/Wise Traditions.jpg' },
-              { name: 'Doctor Youn', img: 'alt-health/The Doctor Youn Show.jpg' },
+              { name: 'Passion Struck', img: 'alt-health/passion-struck-with-john-r-miles.jpg' },
+              { name: 'Feel Better, Live More', img: 'alt-health/feel-better-live-more-with-dr-rangan-chatterjee.jpg' },
+              { name: 'Well with Arielle Lorre', img: 'alt-health/well-with-arielle-lorre.jpg' },
+              { name: 'Feminist Wellness', img: 'alt-health/feminist-wellness.jpg' },
+              { name: 'Dhru Purohit Show', img: 'alt-health/dhru-purohit-show.jpg' },
+              { name: 'Dr. Tyna Show', img: 'alt-health/the-dr-tyna-show.jpg' },
+              { name: 'Wellness Process', img: 'alt-health/the-wellness-process.jpg' },
+              { name: 'Dylan Gemelli', img: 'alt-health/the-dylan-gemelli-podcast.jpg' },
+              { name: 'mindbodygreen', img: 'alt-health/the-mindbodygreen-podcast.jpg' },
+              { name: 'Dr. Ardis Show', img: 'alt-health/the-dr-ardis-show-podcast.jpg' },
+              { name: 'Wise Traditions', img: 'alt-health/wise-traditions.jpg' },
+              { name: 'Doctor Youn', img: 'alt-health/the-doctor-youn-show.jpg' },
             ].map((pod, i) => (
               <div key={i} className="flex flex-col items-center animate-fade-in" style={{ animationDelay: `${0.03 * i}s` }}>
                 <img
@@ -134,18 +116,18 @@ export default function PublicHealthDay() {
           </p>
           <div className="grid grid-cols-6 gap-4 animate-slide-up" style={{ animationDelay: '0.3s' }}>
             {[
-              { name: 'Alex Jones', img: 'channels/The Alex Jones Show - Infowars_com.jpg' },
-              { name: 'Dana Loesch', img: 'channels/The Dana Show with Dana Loesch _ Politics _ Culture Commentary.jpg' },
-              { name: "Bannon's War Room", img: 'channels/Bannon_s War Room.jpg' },
-              { name: 'Clay & Buck', img: 'channels/The Clay Travis and Buck Sexton Show.jpg' },
-              { name: 'Joe Rogan', img: 'channels/The Joe Rogan Experience.jpg' },
-              { name: 'Russell Brand', img: 'channels/Stay Free with Russell Brand.jpg' },
-              { name: 'Flyover Conservatives', img: 'channels/Flyover Conservatives.jpg' },
-              { name: 'Liz Wheeler', img: 'channels/The Liz Wheeler Show.jpg' },
-              { name: 'Redacted News', img: 'channels/Redacted News.jpg' },
-              { name: 'Megyn Kelly', img: 'channels/The Megyn Kelly Show.jpg' },
-              { name: 'Glenn Beck', img: 'channels/The Glenn Beck Program.jpg' },
-              { name: 'Charlie Kirk', img: 'channels/The Charlie Kirk Show.jpg' },
+              { name: 'Alex Jones', img: 'channels/the-alex-jones-show-infowars-com.jpg' },
+              { name: 'Dana Loesch', img: 'channels/the-dana-show-with-dana-loesch-politics-culture-commentary.jpg' },
+              { name: "Bannon's War Room", img: 'channels/bannon-s-war-room.jpg' },
+              { name: 'Clay & Buck', img: 'channels/the-clay-travis-and-buck-sexton-show.jpg' },
+              { name: 'Joe Rogan', img: 'channels/the-joe-rogan-experience.jpg' },
+              { name: 'Russell Brand', img: 'channels/stay-free-with-russell-brand.jpg' },
+              { name: 'Flyover Conservatives', img: 'channels/flyover-conservatives.jpg' },
+              { name: 'Liz Wheeler', img: 'channels/the-liz-wheeler-show.jpg' },
+              { name: 'Redacted News', img: 'channels/redacted-news.jpg' },
+              { name: 'Megyn Kelly', img: 'channels/the-megyn-kelly-show.jpg' },
+              { name: 'Glenn Beck', img: 'channels/the-glenn-beck-program.jpg' },
+              { name: 'Charlie Kirk', img: 'channels/the-charlie-kirk-show.jpg' },
             ].map((pod, i) => (
               <div key={i} className="flex flex-col items-center animate-fade-in" style={{ animationDelay: `${0.3 + 0.03 * i}s` }}>
                 <img
@@ -162,6 +144,24 @@ export default function PublicHealthDay() {
         <div className="absolute bottom-0 left-0 right-0 flex justify-between items-center px-10 py-4 border-t border-white/10">
           <span className="text-base text-white/30 font-medium tracking-wide">abridgman.ca</span>
           <span className="text-base text-white/30">4</span>
+        </div>
+      </div>
+
+      {/* ── 3. Hook beat 2: AI chatbots ── */}
+      <div className="h-full w-full relative overflow-hidden bg-[var(--bg-primary)] grid-bg flex flex-col items-center justify-center">
+        <p className="absolute top-8 left-12 text-lg uppercase tracking-widest text-[var(--accent-primary)] opacity-60 animate-fade-in">
+          <span className="opacity-60">{"// "}</span>Where Canadians Get Health Information
+        </p>
+        <div className="text-center animate-slide-up">
+          <div className="text-8xl md:text-9xl font-bold text-[var(--accent-secondary)] mb-4">50%</div>
+          <p className="text-4xl text-[var(--text-primary)] mb-2">of Canadians</p>
+          <p className="text-2xl text-[var(--text-secondary)]">have turned to AI chatbots for health information</p>
+          <p className="text-xl text-[var(--text-tertiary)] mt-4">Only 27% trust it to be accurate — but they use it anyway</p>
+        </div>
+        <Citation refs={['CMA / Abacus Data, Health and Media Tracking Survey, 2025 (N = 5,000)']} />
+        <div className="absolute bottom-0 left-0 right-0 flex justify-between items-center px-10 py-4 border-t border-[var(--border-color)] bg-[var(--bg-primary)]/90">
+          <span className="text-lg text-[var(--text-tertiary)] font-medium tracking-wide">abridgman.ca</span>
+          <span className="text-lg text-[var(--text-tertiary)]">3</span>
         </div>
       </div>
 
