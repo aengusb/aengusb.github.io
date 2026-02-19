@@ -160,6 +160,7 @@
       "venue": "Canadian Journal of Political Science/Revue canadienne de science politique",
       "venueType": "journal",
       "doi": "10.1017/S0008423921000780",
+      "pdfUrl": "/files/papers/bridgman_2022_distrust.pdf",
       "tags": ["canadian-politics", "democracy"]
     },
     {
@@ -266,6 +267,7 @@
       "venueType": "journal",
       "doi": "10.1177/1354068820911345",
       "replicationUrl": "https://doi.org/10.7910/DVN/NGTGED",
+      "pdfUrl": "/files/papers/bridgman_2020_senate.pdf",
       "tags": ["canadian-politics", "democracy"]
     },
     {
@@ -557,6 +559,7 @@
       "venue": "Media Ecosystem Observatory",
       "venueType": "report",
       "url": "https://mediaecosystemobservatory.com/Vaccine-hesistancy",
+      "pdfUrl": "/files/papers/owen_2020_vaccine-hesitancy.pdf",
       "tags": ["covid-19", "misinformation"]
     },
     {
