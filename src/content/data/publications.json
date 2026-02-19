@@ -30,6 +30,7 @@
       "venueType": "conference",
       "doi": "10.48550/arXiv.2506.10942",
       "url": "https://arxiv.org/abs/2506.10942",
+      "pdfUrl": "/files/papers/pehlivan_2025_meo-infrastructure.pdf",
       "tags": ["social-media", "canadian-politics"]
     },
     {
@@ -128,6 +129,7 @@
       "venue": "Media Ecosystem Observatory",
       "venueType": "report",
       "url": "https://meo.ca/s/MEO_BCEMP-FullRept-2025_f05.pdf",
+      "pdfUrl": "/files/papers/bridgman_2025_bc-final.pdf",
       "tags": ["elections", "misinformation", "canadian-politics"]
     },
     {
@@ -209,6 +211,7 @@
       "venueType": "journal",
       "url": "https://www.frontiersin.org/articles/10.3389/fpos.2021.648646",
       "replicationUrl": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Y0RP9J",
+      "pdfUrl": "/files/papers/bridgman_2021_infodemic.pdf",
       "tags": ["covid-19", "misinformation", "social-media"]
     },
     {
@@ -247,6 +250,7 @@
       "venueType": "journal",
       "doi": "10.37016/mr-2020-028",
       "replicationUrl": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5QS2XP",
+      "pdfUrl": "/files/papers/bridgman_2020_covid.pdf",
       "featured": true,
       "tags": ["covid-19", "misinformation", "social-media"]
     },
@@ -301,6 +305,7 @@
       "venue": "Canadian Digital Media Research Network",
       "venueType": "report",
       "url": "https://static1.squarespace.com/static/65427f5b140649321cd829e9/t/675860f3c8ffb13de64d8916/1733845241887/MEO-CDMRN-Tenet-Media-Russia-Incident-Report_2024_final.pdf",
+      "pdfUrl": "/files/papers/bridgman_2024_tenet-russia.pdf",
       "featured": true,
       "tags": ["foreign-interference", "misinformation", "social-media"]
     },
@@ -329,6 +334,7 @@
       "venue": "Canadian Digital Media Research Network",
       "venueType": "report",
       "url": "https://static1.squarespace.com/static/65427f5b140649321cd829e9/t/66cf664bd218c123615bde47/1724868172938/MEO-InRpt_Kirkland-2024_004.pdf",
+      "pdfUrl": "/files/papers/bridgman_2024_kirkland-bots.pdf",
       "tags": ["social-media", "misinformation", "canadian-politics"]
     },
     {
@@ -354,6 +360,7 @@
       "venue": "Media Ecosystem Observatory",
       "venueType": "report",
       "url": "https://static1.squarespace.com/static/6450265301129e5dbabfe8a2/t/66f6ac5ac031861caedcbc4b/1727442012759/MEO_BCEMP-BaseRept-2024_006jp.pdf",
+      "pdfUrl": "/files/papers/bridgman_2024_bc-baseline.pdf",
       "tags": ["elections", "misinformation", "canadian-politics"]
     },
     {
@@ -374,6 +381,7 @@
       "venue": "Re.Climate",
       "venueType": "report",
       "url": "https://reclimate.ca/wp-content/uploads/2024/06/Re.Climate-Report-Wildfire-Misinformation-2024.pdf",
+      "pdfUrl": "/files/papers/russill_2024_wildfire.pdf",
       "tags": ["misinformation", "canadian-politics"]
     },
     {
@@ -390,6 +398,7 @@
       "venue": "Media Ecosystem Observatory",
       "venueType": "report",
       "url": "https://static1.squarespace.com/static/6450265301129e5dbabfe8a2/t/66c36dba3066f124adb4000c/1724083643261/Meta+News+Ban+Report-08-19.pdf",
+      "pdfUrl": "/files/papers/parker_2024_meta-news-ban.pdf",
       "tags": ["social-media", "canadian-politics", "democracy"]
     },
     {
@@ -411,6 +420,7 @@
       "venue": "Media Ecosystem Observatory",
       "venueType": "report",
       "url": "https://figshare.com/articles/book/Indistinct_Information_Habitats_Information_and_Attitudes_in_the_2023_Alberta_Election/24625314",
+      "pdfUrl": "/files/papers/bridgman_2023_alberta.pdf",
       "tags": ["elections", "misinformation", "canadian-politics"]
     },
     {
@@ -431,6 +441,7 @@
       "venue": "Media Ecosystem Observatory",
       "venueType": "report",
       "url": "https://static1.squarespace.com/static/6450265301129e5dbabfe8a2/t/6622c8a408f39611294ebdb2/1713555621401/Whenjournalism+is+turned+off_Preliminary+Report.pdf",
+      "pdfUrl": "/files/papers/parker_2024_news-deserts.pdf",
       "tags": ["democracy", "canadian-politics"]
     },
     {
@@ -456,6 +467,7 @@
       "venue": "Media Ecosystem Observatory",
       "venueType": "report",
       "url": "https://figshare.com/articles/book/State_of_the_Canadian_Media_Ecosystem_Report_November_2023/24574036?file=43326219",
+      "pdfUrl": "/files/papers/bridgman_2023_ecosystem.pdf",
       "tags": ["social-media", "canadian-politics"]
     },
     {
@@ -478,6 +490,7 @@
       "venue": "Media Ecosystem Observatory",
       "venueType": "report",
       "url": "https://doi.org/10.31219/osf.io/wam45",
+      "pdfUrl": "/files/papers/lavigne_2023_quebec.pdf",
       "tags": ["elections", "misinformation", "canadian-politics"]
     },
     {
@@ -505,6 +518,7 @@
       "venue": "Media Ecosystem Observatory",
       "venueType": "report",
       "url": "https://doi.org/10.31219/osf.io/ubfmx",
+      "pdfUrl": "/files/papers/bridgman_2022_federal.pdf",
       "tags": ["elections", "misinformation", "canadian-politics"]
     },
     {
@@ -523,6 +537,7 @@
       "venue": "Journal of Medical Internet Research (Preprint)",
       "venueType": "preprint",
       "url": "https://osf.io/7hypj/",
+      "pdfUrl": "/files/papers/teichmann_2020_public-health.pdf",
       "tags": ["covid-19", "social-media"]
     },
     {
