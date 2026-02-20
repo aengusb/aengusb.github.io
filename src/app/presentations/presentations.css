@@ -225,6 +225,29 @@
 .presentation-wrapper .stagger-5 { animation-delay: 0.5s; }
 
 /* ============================================================
+   FRAGMENT SUPPORT — click-to-reveal sub-steps within a slide
+   Add data-fragments={N} to a slide, then use class="fragment fragment-0"
+   etc. on child elements. They appear one per click.
+   ============================================================ */
+
+.presentation-wrapper .fragment {
+  opacity: 0;
+  transform: translateY(10px);
+  transition: opacity 0.4s ease-out, transform 0.4s ease-out;
+}
+
+.presentation-wrapper .fragment.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Print mode: show all fragments */
+.presentation-wrapper .print-mode .fragment {
+  opacity: 1 !important;
+  transform: none !important;
+}
+
+/* ============================================================
    SLIDE TRANSITIONS
    ============================================================ */
 

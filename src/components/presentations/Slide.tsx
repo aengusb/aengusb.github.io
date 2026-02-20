@@ -131,7 +131,7 @@ export function ContentSlide({ category, title, children, slideNumber, footerTex
             </span>
           )}
         </div>
-        <h2 className="text-5xl md:text-6xl font-bold text-[var(--text-primary)] mt-2">
+        <h2 className="text-4xl md:text-5xl font-bold text-[var(--text-primary)] mt-2">
           {title}
         </h2>
       </div>
@@ -167,7 +167,7 @@ export function TwoColumnSlide({ category, title, questionTitle, left, right, sl
             </span>
           )}
         </div>
-        <h2 className="text-5xl md:text-6xl font-bold text-[var(--text-primary)] mt-2">
+        <h2 className="text-4xl md:text-5xl font-bold text-[var(--text-primary)] mt-2">
           {title}
         </h2>
       </div>
