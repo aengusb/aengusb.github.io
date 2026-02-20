@@ -212,7 +212,7 @@ export default function PublicHealthDay() {
         </div>
         <div className="fragment" data-fragment-index={2}>
           <HighlightBox variant="amber">
-            <p className="text-2xl"><strong>Health misinformation is a symptom of a weak information ecosystem.</strong></p>
+            <p className="text-2xl"><strong>Rampant health misinformation can be a symptom of a weak information ecosystem.</strong></p>
           </HighlightBox>
         </div>
       </ContentSlide>
@@ -384,74 +384,106 @@ export default function PublicHealthDay() {
         </div>
       </div>
 
-      {/* ── PLACEHOLDER: What they're actually saying ── */}
-      <TwoColumnSlide
-        category="The Ecosystem"
-        title="What they're actually saying"
-        questionTitle="Thematic patterns at scale"
-        footerText="abridgman.ca"
-        data-notes="We ran topic modeling across all 51,000 segments and the results are striking. The single largest topic cluster is vaccines and autism — over 2,000 segments in peak months, driven overwhelmingly by the discredited claim that vaccines cause autism. This isn't fringe anymore: it's the dominant health narrative in this ecosystem. The second largest cluster is RFK, Kennedy, and the CDC — which tells you something important. Health discourse in these channels is inseparable from political identity. When RFK was nominated for HHS, it wasn't treated as a health policy story — it was a victory narrative against 'the establishment.' The same channels discussing vaccine-autism links are the ones discussing election fraud, deep state conspiracies, and anti-globalist politics. Pharma and tariffs show up as a major cluster too — drug pricing gets reframed not as a policy issue but as evidence of pharmaceutical corruption. Fluoride, detox, supplements — these are all woven into the same ideological package. The key takeaway for this audience: health misinformation is not a standalone problem you can address with better health communication alone. It's embedded in a broader ideological ecosystem. Correcting the health claims without addressing the political identity they're attached to is like treating symptoms without diagnosing the disease."
-        left={
-          <>
-            <BulletList
-              items={[
-                <span key="1"><strong>Vaccines &amp; autism</strong> dominate — largest topic cluster</span>,
-                <span key="2"><strong>RFK / Kennedy / CDC</strong> — health as political identity</span>,
-                <span key="3"><strong>Pharma, fluoride, detox</strong> — blended with conspiracy</span>,
-              ]}
-            />
-            <HighlightBox variant="amber">
-              <p>Health misinformation is embedded in a <strong>broader ideological package</strong>.</p>
-            </HighlightBox>
-          </>
-        }
-        right={
-          <Figure
-            src={`${IMG}/top_topics.png`}
-            alt="Topic analysis of health podcast content"
-            caption="Source: MEO podcast monitoring, 2025–2026"
-          />
-        }
-      />
+      {/* ── What they're actually saying — topics + audio clips ── */}
+      <div
+        data-notes="Play the clips. Alex Jones: 'Low end, vaccines causing half the autism... thousand percent increase.' Megyn Kelly with Dr Hyman: 'toxic stew... mercury or aluminum... Made perfect sense to me.' These are not fringe — these are among the most-listened-to podcasts in North America. The topic modeling confirms: vaccines and autism is the single largest cluster. Health discourse is inseparable from political identity (RFK/CDC cluster). Pharma, fluoride, detox all woven into the same ideological package."
+        className="h-full w-full relative overflow-hidden bg-[var(--bg-primary)] grid-bg flex flex-col p-12 pt-10"
+      >
+        <div className="accent-line w-full absolute top-0 left-0 right-0" />
+        <div className="mb-4 pb-3 border-b border-[var(--border-color)]">
+          <span className="text-[var(--accent-primary)] text-lg uppercase tracking-widest opacity-60">
+            <span className="opacity-60">{"// "}</span>The Ecosystem
+          </span>
+          <h2 className="text-4xl md:text-5xl font-bold text-[var(--text-primary)] mt-2">
+            What they&apos;re actually saying
+          </h2>
+        </div>
 
-      {/* ── PLACEHOLDER: The temporal dimension ── */}
-      <TwoColumnSlide
-        category="The Ecosystem"
-        title="Chronic and acute"
-        footerText="abridgman.ca"
-        data-notes="This timeline shows the full year of monitoring — February 2025 through February 2026. The top panel is total volume: how many transcript segments per week mention health and vaccine topics across all 613 channels. The bottom panel breaks that down by topic. What you see is not steady-state background noise. It's event-driven. The largest spike by far is September 2025 — when RFK was confirmed as HHS Secretary. Discussion volume nearly tripled in a single week. Every major political channel ran extended segments on vaccines, autism, CDC corruption, and what Kennedy's appointment meant for 'medical freedom.' That's not organic conversation — that's coordinated narrative amplification. The measles outbreaks — first in Texas in February 2025, then the 2026 surge — generated sustained increases in vaccine-autism discourse. Not discussion of measles prevention, mind you. The outbreaks triggered more anti-vaccine content, not less. The fluoride executive order in July 2025 created an immediate spike in the fluoride cluster — an issue that had been dormant was reactivated overnight. Pharma tariffs in November did the same for anti-pharmaceutical narratives. The pattern is clear: every policy moment, every outbreak, every confirmation hearing becomes a narrative opportunity for these channels. They are reactive and strategic. For public health communicators, this means your response window is measured in hours, not weeks. By the time you draft a press release, they've already produced hundreds of hours of content framing the story their way."
-        left={
-          <>
-            <BulletList
-              items={[
-                <span key="1">RFK confirmation</span>,
-                <span key="2">Measles outbreak</span>,
-                <span key="3">Policy moments(e.g. fluoride order, pharma tariffs)</span>,
-                <span key="4">High ambient level of conversation</span>
-              ]}
-            />
-          </>
-        }
-        right={
-          <Figure
+        <div className="flex flex-1 min-h-0 items-center justify-center">
+          <div className="w-full max-w-3xl flex flex-col gap-8">
+            {[
+              {
+                file: 'clip-alex-jones.mp3',
+                speaker: 'Alex Jones',
+                show: 'The Alex Jones Show',
+                date: 'Jun 30, 2025',
+                quote: '\u201CLow end, we\u2019re talking like vaccines causing half the autism... a thousand percent increase in autism.\u201D',
+                img: 'channels/the-alex-jones-show-infowars-com.jpg',
+                color: 'var(--accent-tertiary)',
+              },
+              {
+                file: 'clip-megyn-kelly.mp3',
+                speaker: 'Megyn Kelly & Dr. Mark Hyman',
+                show: 'The Megyn Kelly Show',
+                date: '2025',
+                quote: '\u201CThe toxic stew... mercury or aluminum should also be factored into that discussion. Made perfect sense to me.\u201D',
+                img: 'channels/the-megyn-kelly-show.jpg',
+                color: 'var(--accent-secondary)',
+              },
+            ].map((clip, i) => (
+              <div
+                key={i}
+                className="slide-card p-6 flex gap-5 items-start animate-slide-up"
+                style={{ animationDelay: `${i * 0.15}s`, borderLeftWidth: '3px', borderLeftColor: clip.color }}
+              >
+                <img
+                  src={`${IMG}/${clip.img}`}
+                  alt={clip.speaker}
+                  className="w-20 h-20 rounded-lg object-cover flex-shrink-0"
+                />
+                <div className="flex-1 min-w-0">
+                  <div className="flex items-center gap-3 mb-2">
+                    <p className="text-xl font-bold text-[var(--text-primary)]">{clip.speaker}</p>
+                    <span className="text-base text-[var(--text-tertiary)]">{clip.date}</span>
+                  </div>
+                  <p className="text-lg text-[var(--text-secondary)] italic leading-relaxed mb-4">{clip.quote}</p>
+                  {/* eslint-disable-next-line jsx-a11y/media-has-caption */}
+                  <audio controls preload="none" className="w-full h-8 opacity-80">
+                    <source src={`/presentations/2026-02-20-public-health-day/audio/${clip.file}`} type="audio/mpeg" />
+                  </audio>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+
+        <div className="absolute bottom-0 left-0 right-0 flex justify-between items-center px-10 py-4 border-t border-[var(--border-color)] bg-[var(--bg-primary)]/90">
+          <span className="text-lg text-[var(--text-tertiary)] font-medium tracking-wide">abridgman.ca</span>
+        </div>
+      </div>
+
+      {/* ── The temporal dimension ── */}
+      <div
+        data-notes="This timeline shows the full year of monitoring — February 2025 through February 2026. Top panel: total volume of health/vaccine transcript segments per week across all 613 channels. Bottom panel: breakdown by topic. It's event-driven, not steady-state. Largest spike: September 2025, RFK confirmed as HHS Secretary — volume nearly tripled. Measles outbreaks triggered more anti-vaccine content, not less. Fluoride executive order and pharma tariffs each reactivated dormant topics overnight. Every policy moment becomes a narrative opportunity. Your response window is hours, not weeks."
+        className="h-full w-full relative overflow-hidden bg-[var(--bg-primary)] flex flex-col p-12 pt-10"
+      >
+        <div className="accent-line w-full absolute top-0 left-0 right-0" />
+        <div className="mb-4 pb-3 border-b border-[var(--border-color)]">
+          <span className="text-[var(--accent-primary)] text-lg uppercase tracking-widest opacity-60">
+            <span className="opacity-60">{"// "}</span>The Ecosystem
+          </span>
+          <h2 className="text-4xl md:text-5xl font-bold text-[var(--text-primary)] mt-2">
+            Chronic and acute
+          </h2>
+        </div>
+        <div className="flex-1 min-h-0 flex items-center justify-center">
+          <img
             src={`${IMG}/timeline_events.png`}
             alt="Event-driven timeline showing health discussion spikes around RFK confirmation, measles outbreaks, and policy announcements"
-            caption="51,302 segments from 613 channels (Feb 2025–Feb 2026). Source: MEO podcast monitoring."
+            className="object-contain max-h-full max-w-full rounded-lg"
           />
-        }
-      />
-
-      {/* ══════════════════════════════════════════════════
-          ACT 3 — THE PROBLEM: Why does it matter?
-          ══════════════════════════════════════════════════ */}
-
-      <SectionSlide
-        title="Why does it matter?"
-      />
+        </div>
+        <p className="text-sm text-[var(--text-tertiary)] text-center mt-2">
+          51,302 segments from 613 channels (Feb 2025–Feb 2026). Source: MEO podcast monitoring.
+        </p>
+        <div className="absolute bottom-0 left-0 right-0 flex justify-between items-center px-10 py-4 border-t border-[var(--border-color)] bg-[var(--bg-primary)]/90">
+          <span className="text-lg text-[var(--text-tertiary)] font-medium tracking-wide">abridgman.ca</span>
+        </div>
+      </div>
 
       {/* ── The ecosystem at scale — what the literature says ── */}
       <ContentSlide
-        category="The Problem"
+        category="The Ecosystem"
         title="The ecosystem at scale"
         footerText="abridgman.ca"
         data-notes="Key literature findings. (1) Allen et al: misinfo is ~1% of consumption but its effects are outsized — it's not about volume, it's about impact in key moments. (2) Asymmetric polarization: vulnerability is concentrated on one side, not evenly distributed — this is consistent across multiple studies and countries. (3) Tokita: information shapes community structure, not just vice versa — polarized ecosystems reorganize social networks through information cascades. (4) Krause: the ecosystem for science communication is now fragmented, platformized, algorithmically curated — scientists are competing with influencers for attention. References: Allen et al. 2020, Tokita et al. 2021, Krause et al. 2025."
@@ -468,7 +500,7 @@ export default function PublicHealthDay() {
 
       {/* ── What we find in Canada ── */}
       <ContentSlide
-        category="The Problem"
+        category="The Ecosystem"
         title="What we find in Canada"
         footerText="abridgman.ca"
         data-notes="Four MEO/CDMRN findings. (1) Meta blocked news in response to the Online News Act — journalism visibility collapsed on the country's largest platform. (2) Political influencers outpaced parties and traditional media in election content volume during 2025. (3) Tenet Media case: Russian government funding Canadian influencers to launder geopolitical narratives. (4) AI-generated fake local news sites proliferated during the 2025 election."
@@ -485,39 +517,65 @@ export default function PublicHealthDay() {
 
       {/* ── The harm is measurable ── */}
       <ContentSlide
-        category="The Problem"
+        category="The Ecosystem"
         title="The harm is measurable"
         footerText="abridgman.ca"
         data-notes="Three harm findings: (1) Loomba et al: a single exposure to vaccine misinformation reduced vaccination intent by 6.4 percentage points — that's clinically significant from ONE exposure. (2) Southwell: health misinfo exposure follows existing health disparities — lower health literacy = more exposure AND more affected. It widens the gap. (3) CMA/Abacus survey: Canadians who followed AI health advice were 5x more likely to experience harm than those who did not. Protective factors: trust in scientists is the #1 predictor of resistance to health misinformation across countries (Roozenbeek et al.). Analytic thinking — not intelligence per se, but reflective engagement with claims. Traditional media use — reliance on social media for news increases susceptibility. References: Loomba et al. 2021, Southwell et al. 2023, CMA/Abacus 2025, Roozenbeek et al. 2021."
       >
-        <div className="grid grid-cols-2 gap-8 mt-4 flex-1">
+        <div className="grid grid-cols-1 gap-8 mt-4 flex-1">
           <div>
             <BulletList
               items={[
-                <span key="1">Upper limit is one exposure to -6.4 pp vaccination intent</span>,
-                <span key="2">Exposure <strong>follows health disparities</strong></span>,
-                <span key="3">AI health advice → <strong>5× more likely to experience harm</strong></span>,
+                <span key="1">COVID-19 misinfo led to lower bound <strong>2,800 excess deaths</strong> and <strong>$300M</strong> in hospital costs in Canada</span>,
+                <span key="2">Upper limit: one exposure produces -6.4 pp vaccination intent</span>,
+                <span key="3">Exposure <strong>follows health disparities</strong></span>,
+                <span key="4">AI health advice → <strong>5× more likely to experience harm</strong></span>,
               ]}
             />
           </div>
-          <div>
-            <HighlightBox variant="teal">
-              <p className="font-semibold text-[var(--accent-primary)] mb-3">Protective Factors</p>
-              <ul className="space-y-2 text-lg">
-                <li><strong>Trust in scientists</strong> — #1 predictor</li>
-                <li><strong>Analytic thinking</strong> — reflective engagement</li>
-                <li><strong>Traditional media use</strong></li>
-              </ul>
-            </HighlightBox>
-          </div>
         </div>
         <Citation refs={[
+          'Council of Canadian Academies, Fault Lines: Socioeconomic Impacts of Science and Health Misinformation, 2023',
           'Loomba et al., Measuring the Impact of COVID-19 Vaccine Misinformation on Vaccination Intent, 2021',
           'Southwell et al., Misinformation as a Misunderstood Challenge to Public Health, 2023',
           'Roozenbeek et al., Susceptibility to Misinformation about COVID-19 around the World, 2021',
           'CMA / Abacus Data, Health and Media Tracking Survey, 2025',
         ]} />
       </ContentSlide>
+
+      {/* ══════════════════════════════════════════════════
+          ACT 3 — THE PROBLEM: Why is this so hard to fix?
+          ══════════════════════════════════════════════════ */}
+
+      <SectionSlide
+        title="Why is this so hard to fix?"
+      />
+
+      {/* ── The communication problem — who owns the conversation ── */}
+      <div
+        data-notes="Pivot to the communication problem. This is social media data — posts about health and vaccines from Canadian politicians, news media, and influencers. Left: share of posts. Right: share of engagement. Influencers produce ~75% of posts. But engagement — over 95%. News media and politicians are barely visible. Political leadership simply isn't there on these issues. A single influencer post about vaccines gets more engagement than an entire week of Health Canada communications. You are not competing on a level playing field. The platforms are structurally tilted toward influencer content. This is why the harm matters — because the people with the megaphones are not the people with the evidence. Source: MEO digital trace monitoring, Jan 2025–Feb 2026."
+        className="h-full w-full relative overflow-hidden bg-[var(--bg-primary)] flex flex-col p-12 pt-10"
+      >
+        <div className="accent-line w-full absolute top-0 left-0 right-0" />
+        <div className="mb-4 pb-3 border-b border-[var(--border-color)]">
+          <span className="text-[var(--accent-primary)] text-lg uppercase tracking-widest opacity-60">
+            <span className="opacity-60">{"// "}</span>The Problem
+          </span>
+          <h2 className="text-4xl md:text-5xl font-bold text-[var(--text-primary)] mt-2">
+            Who owns the conversation?
+          </h2>
+        </div>
+        <div className="flex-1 min-h-0 flex items-center justify-center">
+          <img
+            src={`${IMG}/engagement_shares.png`}
+            alt="Share of health/vaccine conversation: influencers dominate ~75% of volume and ~95% of engagement compared to news media and politicians"
+            className="object-contain max-h-full max-w-full rounded-lg"
+          />
+        </div>
+        <div className="absolute bottom-0 left-0 right-0 flex justify-between items-center px-10 py-4 border-t border-[var(--border-color)] bg-[var(--bg-primary)]/90">
+          <span className="text-lg text-[var(--text-tertiary)] font-medium tracking-wide">abridgman.ca</span>
+        </div>
+      </div>
 
       {/* ── Why conventional approaches fall short ── */}
 
@@ -630,23 +688,23 @@ export default function PublicHealthDay() {
           <div>
             <p className="text-2xl font-bold text-[var(--accent-primary)] mb-4">Disease Control</p>
             <ul className="space-y-3 text-xl text-[var(--text-secondary)]">
-              <li><strong>Vaccination</strong></li>
-              <li><strong>Surveillance</strong></li>
-              <li><strong>Treatment</strong></li>
-              <li><strong>Combination therapy</strong></li>
-              <li><strong>Chronic management</strong></li>
-              <li><strong>Acceptable risk thresholds</strong></li>
+              <li><strong>Vaccination</strong> — primary prevention</li>
+              <li><strong>Surveillance</strong> — track spread</li>
+              <li><strong>Treatment</strong> — manage infections</li>
+              <li><strong>Combination therapy</strong> — no single tool works</li>
+              <li><strong>Chronic management</strong> — ongoing, not one-time</li>
+              <li><strong>Acceptable risk thresholds</strong> — not zero disease</li>
             </ul>
           </div>
           <div>
             <p className="text-2xl font-bold text-[var(--accent-secondary)] mb-4">Information Ecosystem</p>
             <ul className="space-y-3 text-xl text-[var(--text-secondary)]">
-              <li><strong>Prebunking</strong></li>
-              <li><strong>Monitoring</strong></li>
-              <li><strong>Contact and questioning</strong></li>
-              <li><strong>Multi-level intervention</strong></li>
-              <li><strong>Sustained effort</strong></li>
-              <li><strong>Tolerable levels of misinfo</strong></li>
+              <li><strong>Prebunking</strong> — inoculate before exposure</li>
+              <li><strong>Monitoring</strong> — track what&apos;s circulating</li>
+              <li><strong>Contact and questioning</strong> — correct misinformation</li>
+              <li><strong>Multi-level intervention</strong> — individual + platform + policy</li>
+              <li><strong>Sustained effort</strong> — effects decay, need boosters</li>
+              <li><strong>Tolerable levels of misinfo</strong> — resilience, not elimination</li>
             </ul>
           </div>
         </div>
@@ -705,7 +763,7 @@ export default function PublicHealthDay() {
             <span className="opacity-60">{"// "}</span>The Treatment
           </p>
           <p className="text-4xl md:text-5xl font-bold text-[var(--text-primary)] leading-tight animate-slide-up">
-            &ldquo;The information ecosystem is a public health issue. And public health professionals are information ecosystem participants — whether they know it or not.&rdquo;
+            &ldquo;The information ecosystem is a public health issue. And public health professionals are information ecosystem participants.&rdquo;
           </p>
           <div className="accent-line w-32 mx-auto mt-8 animate-fade-in stagger-3" />
         </div>
