@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { Suspense } from 'react';
 import { getAllConferences, getResearchAreas } from '@/lib/content';
 import { TalksPageClient } from '@/components/talks/TalksPageClient';
+import { generateConferencesJsonLd } from '@/lib/jsonld';
 
 export const metadata: Metadata = {
   title: 'Talks',
@@ -11,13 +12,20 @@ export const metadata: Metadata = {
 export default function TalksPage() {
   const allConferences = getAllConferences();
   const researchAreas = getResearchAreas();
+  const conferencesJsonLd = generateConferencesJsonLd(allConferences);
 
   return (
-    <Suspense fallback={<div className="container-main py-12">Loading...</div>}>
-      <TalksPageClient
-        allConferences={allConferences}
-        researchAreas={researchAreas}
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(conferencesJsonLd) }}
       />
-    </Suspense>
+      <Suspense fallback={<div className="container-main py-12">Loading...</div>}>
+        <TalksPageClient
+          allConferences={allConferences}
+          researchAreas={researchAreas}
+        />
+      </Suspense>
+    </>
   );
 }

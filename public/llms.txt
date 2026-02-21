@@ -1,0 +1,56 @@
+# Aengus Bridgman
+
+> Assistant Professor (Research), Max Bell School of Public Policy, McGill University
+> Montreal, Quebec, Canada
+
+## About
+
+Aengus Bridgman is a political scientist studying political behaviour and communication in Canada and other mature democracies. He works with survey, census, and social/traditional media data, with expertise in data science, machine learning, natural language processing, and computational social science.
+
+## Research Areas
+
+- Misinformation and disinformation
+- Elections and voting behaviour
+- Social media and digital platforms
+- AI and technology policy
+- Foreign interference
+- Canadian politics
+- COVID-19 and public health communication
+- Democracy and political participation
+
+## Leadership Roles
+
+- Director, Media Ecosystem Observatory (MEO) — https://www.meo.ca
+- Director, Canadian Digital Media Research Network (CDMRN) — https://www.cdmrn.ca
+- Assistant Director (Research), Centre for Media, Technology and Democracy — https://www.mediatechdemocracy.com
+
+## Site Map
+
+- / — Homepage with bio, affiliations, featured research and media
+- /research/ — Full list of academic publications (peer-reviewed articles, reports, book chapters)
+- /media/ — Media appearances (TV, radio, podcast, print — 100+ entries)
+- /conferences/ — Conference presentations, invited talks, and parliamentary testimony
+- /teaching/ — Courses taught at McGill University
+- /cv/ — Downloadable academic CV (PDF and LaTeX)
+- /presentations/ — Slide presentations
+
+## Structured Data
+
+- /data/site.json — Site metadata, affiliations, research areas
+- /data/publications.json — All publications with authors, DOIs, venues
+- /data/media.json — All media appearances with links
+- /data/conferences.json — All conference presentations and talks
+- /data/teaching.json — Teaching history
+- /feed.xml — RSS feed of publications
+- /media-feed.xml — RSS feed of media appearances
+
+## Contact
+
+- Email: aengus.bridgman@mcgill.ca
+- Twitter/X: @AengusBridgman
+- GitHub: github.com/aengusb
+- Google Scholar: https://scholar.google.ca/citations?user=rxQTZG0AAAAJ
+
+## See Also
+
+- /llms-full.txt — Extended version with full publication list and detailed bio

@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { Suspense } from 'react';
 import { getAllMedia, getFeaturedMedia, getResearchAreas } from '@/lib/content';
 import { MediaPageClient } from '@/components/media/MediaPageClient';
+import { generateMediaJsonLd } from '@/lib/jsonld';
 
 export const metadata: Metadata = {
   title: 'Media',
@@ -12,14 +13,21 @@ export default function MediaPage() {
   const allMedia = getAllMedia();
   const featuredMedia = getFeaturedMedia();
   const researchAreas = getResearchAreas();
+  const mediaJsonLd = generateMediaJsonLd(allMedia);
 
   return (
-    <Suspense fallback={<div className="container-main py-12">Loading...</div>}>
-      <MediaPageClient
-        allMedia={allMedia}
-        featuredMedia={featuredMedia}
-        researchAreas={researchAreas}
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(mediaJsonLd) }}
       />
-    </Suspense>
+      <Suspense fallback={<div className="container-main py-12">Loading...</div>}>
+        <MediaPageClient
+          allMedia={allMedia}
+          featuredMedia={featuredMedia}
+          researchAreas={researchAreas}
+        />
+      </Suspense>
+    </>
   );
 }

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aengus Bridgman — Publications</title>
+    <link>https://abridgman.ca/research/</link>
+    <description>Academic publications by Aengus Bridgman, McGill University.</description>
+    <language>en-ca</language>
+    <atom:link href="https://abridgman.ca/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Building a Media Ecosystem Observatory from Scratch: Infrastructure, Methodology, and Insights</title>
+      <link>https://arxiv.org/abs/2506.10942</link>
+      <description>Zeynep Pehlivan, Saewon Park, Alexei Sisulu Abrahams, Mika Desblancs-Patel, Benjamin David Steel, Aengus Bridgman. Proceedings of the International AAAI Conference on Web and Social Media (ICWSM), 2025.</description>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid>pehlivan-park-2025-meo-infrastructure</guid>
+    </item>
+    <item>
+      <title>Can-PolNews: A Multi-Platform Dataset of Political Discourse in Canada</title>
+      <link>https://ojs.aaai.org/index.php/ICWSM/article/view/35956</link>
+      <description>Saewon Park, Zeynep Pehlivan, Alexei Sisulu Abrahams, Mika Desblancs-Patel, Benjamin David Steel, Aengus Bridgman. Proceedings of the International AAAI Conference on Web and Social Media (ICWSM), 2025.</description>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid>park-pehlivan-2025-canpolnews</guid>
+    </item>
+    <item>
+      <title>The Canadian Information Ecosystem during the 2025 Federal Election</title>
+      <link>https://www.cdmrn.ca/publications/the-canadianinformation-ecosystem-during-the-2025-federal-election</link>
+      <description>Aengus Bridgman, Jennie Phillips, Alexei Abrahams, Isabelle Corriveau, Alexandra Stanghellini, Ashley Vu, Auxane Bussac, Ben Steel, Chris Ross, David Hobson, Dinara Karimova, Diya Jiang, Emma Frattasio, Esli Chan, Fakhreddine Riahi, Daniel Nikoula, Hana Allal, Junyan Zhu, Kathia Légaré, Kiran Gill, Liam Murphy, Luke Pindera, Mahnan Omar, Mathieu Lavigne, Mika Desblancs-Patel, Nader Hedfi, Nishtha Gupta, Olivia Melanson, Saewon Park, Sara Parker, Sarah Tran, Spencer Izen, Victoria Forte, Zeynep Pehlivan, Taylor Owen. Media Ecosystem Observatory / Canadian Digital Media Research Network, 2025.</description>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid>bridgman-2025-federal-election</guid>
+    </item>
+    <item>
+      <title>British Columbia Election Information Ecosystem Project: Final Report</title>
+      <link>https://meo.ca/s/MEO_BCEMP-FullRept-2025_f05.pdf</link>
+      <description>Alexei Abrahams, Thomas Bergeron, Danielle Bohonos, Aengus Bridgman, Esli Chan, Mika Desblancs-Patel, Spencer Izen, Grace Lim, Sherry Madah, Mahnan Omar, Zeynep Pehlivan, Jennie Phillips, Saewon Park, Chris Ross, Ben Steel, Chris Tenove, Ashley Vu, Junyan Zhu. Media Ecosystem Observatory, 2025.</description>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid>abrahams-bridgman-2025-bc-final</guid>
+    </item>
+    <item>
+      <title>Studies in Digital Politics: Activism, Mobilization, and Misinformation</title>
+      <link>https://www.proquest.com/openview/48077c1e449a76d14e1b33f5cd7f8b24/1?pq-origsite=gscholar&amp;cbl=18750&amp;diss=y</link>
+      <description>Aengus Bridgman. McGill University, 2024.</description>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid>bridgman-2024-dissertation</guid>
+    </item>
+    <item>
+      <title>Russian Funding of US and Canadian Political Influencers</title>
+      <link>https://static1.squarespace.com/static/65427f5b140649321cd829e9/t/675860f3c8ffb13de64d8916/1733845241887/MEO-CDMRN-Tenet-Media-Russia-Incident-Report_2024_final.pdf</link>
+      <description>Aengus Bridgman, Alexei Abrahams, Jennie Phillips, Elizabeth Dubois, Stephanie Carvin, Marcus Kolga, Mika Desblancs-Patel, Jean-Romain Roy. Canadian Digital Media Research Network, 2024.</description>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid>bridgman-abrahams-2024-tenet</guid>
+    </item>
+    <item>
+      <title>August 3 Bot Activity on X Related to Rally in Kirkland Lake</title>
+      <link>https://static1.squarespace.com/static/65427f5b140649321cd829e9/t/66cf664bd218c123615bde47/1724868172938/MEO-InRpt_Kirkland-2024_004.pdf</link>
+      <description>Aengus Bridgman, David Hobson, Chris Ross, Blake Lee-Whiting, Sara Parker, Chloe Kemeni, Julian Lam, Fenwick McKelvey, Elizabeth Dubois, Scott DeJong, Robert Marinov, Colleen McCool, Hélène Huang, Jeremy Clark, Junyan Zhu. Canadian Digital Media Research Network, 2024.</description>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid>bridgman-hobson-2024-kirkland</guid>
+    </item>
+    <item>
+      <title>British Columbia Election Information Ecosystem Project: Baseline Report</title>
+      <link>https://static1.squarespace.com/static/6450265301129e5dbabfe8a2/t/66f6ac5ac031861caedcbc4b/1727442012759/MEO_BCEMP-BaseRept-2024_006jp.pdf</link>
+      <description>Aengus Bridgman, Alexei Abrahams, Thomas Bergeron, Esli Chan, Mika Desblancs-Patel, Danielle Bohonos, Ashley Vu, Jennie Phillips, Zeynep Pehlivan, Saewon Park, Chris Ross, Ben Steel, Junyan Zhu. Media Ecosystem Observatory, 2024.</description>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid>bridgman-abrahams-2024-bc</guid>
+    </item>
+    <item>
+      <title>Flame Wars: Misinformation and Wildfire in Canada&apos;s Climate Conversation</title>
+      <link>https://reclimate.ca/wp-content/uploads/2024/06/Re.Climate-Report-Wildfire-Misinformation-2024.pdf</link>
+      <description>Chris Russill, Aengus Bridgman, Helen A. Hayes, Michael Khoo, Ghadah Alrasheed, Hannah Tollefson, Chris Ross, Leigh Peterson. Re.Climate, 2024.</description>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid>russill-bridgman-2024-wildfire</guid>
+    </item>
+    <item>
+      <title>Old News, New Reality: A Year of Meta&apos;s News Ban in Canada</title>
+      <link>https://static1.squarespace.com/static/6450265301129e5dbabfe8a2/t/66c36dba3066f124adb4000c/1724083643261/Meta+News+Ban+Report-08-19.pdf</link>
+      <description>Sara Parker, Christopher Ross, Zeynep Pehlivan, Aengus Bridgman. Media Ecosystem Observatory, 2024.</description>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid>parker-ross-2024-meta</guid>
+    </item>
+    <item>
+      <title>When Journalism is Turned Off: The Information Ecosystem in Local News Deserts in Canada</title>
+      <link>https://static1.squarespace.com/static/6450265301129e5dbabfe8a2/t/6622c8a408f39611294ebdb2/1713555621401/Whenjournalism+is+turned+off_Preliminary+Report.pdf</link>
+      <description>Sara Parker, Saewon Park, Zeynep Pehlivan, Alexei Abrahams, Mika Desblancs, Taylor Owen, Jennie Phillips, Aengus Bridgman. Media Ecosystem Observatory, 2024.</description>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid>parker-park-2024-news-deserts</guid>
+    </item>
+    <item>
+      <title>Spatial voting in non-partisan cities: A case study</title>
+      <link>https://doi.org/10.1016/j.electstud.2023.102599</link>
+      <description>Jack Lucas, Michael McGregor, Aengus Bridgman. Electoral Studies, 2023.</description>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
+      <guid>lucas-mcgregor-bridgman-2023</guid>
+    </item>
+    <item>
+      <title>Indistinct Information Habitats: Information and Attitudes in the 2023 Alberta Election</title>
+      <link>https://figshare.com/articles/book/Indistinct_Information_Habitats_Information_and_Attitudes_in_the_2023_Alberta_Election/24625314</link>
+      <description>Aengus Bridgman, Blake Lee-Whiting, Thomas Bergeron, Thomas Galipeau, Alexei Abrahams, Saewon Park, Sara Parker, Taylor Owen, Peter Loewen. Media Ecosystem Observatory, 2023.</description>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
+      <guid>bridgman-lee-whiting-2023-alberta</guid>
+    </item>
+    <item>
+      <title>The Canadian Information Ecosystem</title>
+      <link>https://figshare.com/articles/book/State_of_the_Canadian_Media_Ecosystem_Report_November_2023/24574036?file=43326219</link>
+      <description>Aengus Bridgman, Alexei Abrahams, Thomas Bergeron, Thomas Galipeau, Blake Lee-Whiting, Haaya Naushan, Saewon Park, Sara Parker, Zeynep Pehlivan, Jennie Phillips, Benjamin Steel, Peter Loewen, Taylor Owen. Media Ecosystem Observatory, 2023.</description>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
+      <guid>bridgman-abrahams-2023-ecosystem</guid>
+    </item>
+    <item>
+      <title>Analyse du rôle de la mésinformation lors de l&apos;élection provinciale québécoise de 2022</title>
+      <link>https://doi.org/10.31219/osf.io/wam45</link>
+      <description>Mathieu Lavigne, Maxime Blanchard, Anne Imouza, Aengus Bridgman, Chloé Staller, Kaligirwa Namahoro, Ella Noel, Catherine Perron, Phaedra de Saint-Rome, Taylor Owen. Media Ecosystem Observatory, 2023.</description>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
+      <guid>lavigne-blanchard-2023-quebec</guid>
+    </item>
+    <item>
+      <title>A distinct society: Understanding social distrust in Quebec</title>
+      <link>https://doi.org/10.1017/S0008423921000780</link>
+      <description>Aengus Bridgman, Rosalie Nadeau, Dietlind Stolle. Canadian Journal of Political Science/Revue canadienne de science politique, 2022.</description>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
+      <guid>bridgman-nadeau-stolle-2022</guid>
+    </item>
+    <item>
+      <title>Mobilization and Political Participation</title>
+      <link>https://academic.oup.com/edited-volume/44007/chapter-abstract/371816097</link>
+      <description>Aengus Bridgman, Dietlind Stolle. Oxford Handbook of Political Participation, 2022.</description>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
+      <guid>bridgman-stolle-2022-handbook</guid>
+    </item>
+    <item>
+      <title>Mis- and Disinformation during the 2021 Canadian Federal Election</title>
+      <link>https://doi.org/10.31219/osf.io/ubfmx</link>
+      <description>Aengus Bridgman, Mathieu Lavigne, Melissa Baker, Thomas Bergeron, Danielle Bohonos, Anthony Burton, Katherine McCoy, Mackenzie Hart, Mathieu Lavault, Rupin Liddar, Pangying Peng, Chris Ross, Jaclyn Victor, Taylor Owen, Peter Loewen. Media Ecosystem Observatory, 2022.</description>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
+      <guid>bridgman-lavigne-2022-federal</guid>
+    </item>
+    <item>
+      <title>All in this together? A preregistered report on deservingness of government aid during the COVID-19 pandemic</title>
+      <link>https://doi.org/10.1017/XPS.2021.10</link>
+      <description>Aengus Bridgman, Eric Merkley, Peter John Loewen, Taylor Owen, Derek Ruths. The Journal of Experimental Political Science, 2021.</description>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
+      <guid>bridgman-merkley-loewen-2021-deservingness</guid>
+    </item>
+    <item>
+      <title>Infodemic pathways: Evaluating the role that traditional and social media play in cross-national information transfer</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fpos.2021.648646</link>
+      <description>Aengus Bridgman, Eric Merkley, Oleg Zhilin, Peter John Loewen, Taylor Owen, Derek Ruths. Frontiers in Political Science, 2021.</description>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
+      <guid>bridgman-merkley-zhilin-2021-infodemic</guid>
+    </item>
+    <item>
+      <title>Unveiling: An Unexpected Mid-campaign Court Ruling&apos;s Consequences and the Limits of Following the Leader</title>
+      <link>https://doi.org/10.1086/711177</link>
+      <description>Aengus Bridgman, Costin Ciobanu, Aaron Erlich, Danielle Bohonos, Christopher Ross. The Journal of Politics, 2020.</description>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+      <guid>bridgman-ciobanu-erlich-2020-unveiling</guid>
+    </item>
+    <item>
+      <title>The causes and consequences of COVID-19 misperceptions: Understanding the role of news and social media</title>
+      <link>https://doi.org/10.37016/mr-2020-028</link>
+      <description>Aengus Bridgman, Eric Merkley, Peter John Loewen, Taylor Owen, Derek Ruths, Oleg Zhilin. The Harvard Kennedy School (HKS) Misinformation Review, 2020.</description>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+      <guid>bridgman-merkley-loewen-2020-covid</guid>
+    </item>
+    <item>
+      <title>A non-partisan legislative chamber: The influence of the Canadian Senate</title>
+      <link>https://doi.org/10.1177/1354068820911345</link>
+      <description>Aengus Bridgman. Party Politics, 2020.</description>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+      <guid>bridgman-2020-senate</guid>
+    </item>
+    <item>
+      <title>A Rare Moment of Cross-Partisan Consensus: Elite and Public Response to the COVID-19 Pandemic in Canada</title>
+      <link>https://doi.org/10.1017/S0008423920000311</link>
+      <description>Eric Merkley, Aengus Bridgman, Peter John Loewen, Taylor Owen, Derek Ruths, Lisa Teichmann, Oleg Zhilin. Canadian Journal of Political Science/Revue canadienne de science politique, 2020.</description>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+      <guid>merkley-bridgman-2020-consensus</guid>
+    </item>
+    <item>
+      <title>Public Health Communication and Engagement on Social Media during the COVID-19 Pandemic</title>
+      <link>https://osf.io/7hypj/</link>
+      <description>Lisa Teichmann, Sean Nossek, Aengus Bridgman, Peter John Loewen, Taylor Owen, Derek Ruths. Journal of Medical Internet Research (Preprint), 2020.</description>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+      <guid>teichmann-nossek-2020-public-health</guid>
+    </item>
+    <item>
+      <title>Understanding vaccine hesitancy in Canada: attitudes, beliefs, and the information ecosystem</title>
+      <link>https://mediaecosystemobservatory.com/Vaccine-hesistancy</link>
+      <description>Taylor Owen, Peter Loewen, Derek Ruths, Aengus Bridgman, Haji Mohammed Saleem, Eric Merkley, Oleg Zhilin. Media Ecosystem Observatory, 2020.</description>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+      <guid>owen-loewen-2020-vaccine</guid>
+    </item>
+    <item>
+      <title>Evaluation of the 2019 Federal Leaders&apos; Debates</title>
+      <link>https://www.debates-debats.ca/en/report/evaluation-2019-federal-leaders-debates</link>
+      <description>John McAndrews, Aengus Bridgman, Peter Loewen, Daniel Rubenson, Laura Stephenson, Allison Harell. Canadian Leaders&apos; Debates Commission, 2020.</description>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+      <guid>mcandrews-bridgman-2020-debates</guid>
+    </item>
+    <item>
+      <title>Digital Democracy Project: Lessons in Resilience</title>
+      <link>https://ppforum.ca/articles/lessons-in-resilience-canadas-digital-media-ecosystem-and-the-2019-election/</link>
+      <description>Taylor Owen, Peter Loewen, Derek Ruths, Aengus Bridgman, Robert Gorwa, Stephanie MacLellan, Eric Merkley, Oleg Zhilin. Public Policy Forum / Digital Democracy Project, 2020.</description>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+      <guid>owen-loewen-2019-ddp</guid>
+    </item>
+  </channel>
+</rss>

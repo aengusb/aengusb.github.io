@@ -1,0 +1,48 @@
+{
+  "name": "Aengus Bridgman",
+  "title": "Aengus Bridgman",
+  "description": "Political Scientist. Digital Politics, Big Data, and Canadian Politics.",
+  "url": "https://abridgman.ca",
+  "author": {
+    "name": "Aengus Bridgman",
+    "position": "Assistant Professor (Research)",
+    "institution": "McGill University",
+    "department": "Max Bell School of Public Policy",
+    "location": "Montreal, Quebec, Canada",
+    "bio": "I study political behaviour and communication in Canada and other mature democracies. Methodologically, I work with survey, census, and social/traditional media data with an additional interest in data science, machine learning, natural language processing and computational social science more generally.",
+    "avatar": "/images/aengus_2_bw.jpg"
+  },
+  "social": {
+    "twitter": "AengusBridgman",
+    "github": "aengusb",
+    "googleScholar": "https://scholar.google.ca/citations?user=rxQTZG0AAAAJ",
+    "email": "aengus.bridgman@mcgill.ca"
+  },
+  "affiliations": [
+    {
+      "name": "Media Ecosystem Observatory",
+      "url": "https://www.meo.ca",
+      "role": "Director"
+    },
+    {
+      "name": "Canadian Digital Media Research Network",
+      "url": "https://www.cdmrn.ca",
+      "role": "Director"
+    },
+    {
+      "name": "Centre for Media, Technology and Democracy",
+      "url": "https://www.mediatechdemocracy.com/",
+      "role": "Assistant Director, Research"
+    }
+  ],
+  "researchAreas": [
+    { "id": "misinformation", "label": "Misinformation", "aliases": ["disinformation", "fake-news", "conspiracy-theories"] },
+    { "id": "elections", "label": "Elections", "aliases": ["voting", "campaigns"] },
+    { "id": "social-media", "label": "Social Media", "aliases": ["facebook", "twitter", "x-twitter", "youtube", "meta"] },
+    { "id": "ai", "label": "AI & Technology", "aliases": ["AI", "deepfakes", "digital-ecosystem"] },
+    { "id": "foreign-interference", "label": "Foreign Interference", "aliases": ["russia", "china", "tenet-media"] },
+    { "id": "canadian-politics", "label": "Canadian Politics", "aliases": ["canada", "parliament", "quebec", "alberta", "bc-politics"] },
+    { "id": "covid-19", "label": "COVID-19", "aliases": ["vaccines", "vaccine-hesitancy", "public-health", "anti-mask"] },
+    { "id": "democracy", "label": "Democracy", "aliases": ["political-engagement", "participation", "public-opinion"] }
+  ]
+}

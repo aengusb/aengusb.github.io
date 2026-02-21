@@ -67,6 +67,8 @@ export default function RootLayout({
             `,
           }}
         />
+        <link rel="alternate" type="application/rss+xml" title="Aengus Bridgman — Publications" href="/feed.xml" />
+        <link rel="alternate" type="application/rss+xml" title="Aengus Bridgman — Media" href="/media-feed.xml" />
         <script
           data-goatcounter="https://abridgman.goatcounter.com/count"
           async

@@ -1,0 +1,106 @@
+# Aengus Bridgman — Full Profile
+
+> Assistant Professor (Research), Max Bell School of Public Policy, McGill University
+> Montreal, Quebec, Canada
+
+## About
+
+Aengus Bridgman is a political scientist studying political behaviour and communication in Canada and other mature democracies. He works with survey, census, and social/traditional media data, with expertise in data science, machine learning, natural language processing, and computational social science.
+
+He directs the Media Ecosystem Observatory (MEO), Canada's leading research centre monitoring digital information ecosystems during elections and public health crises. MEO tracks social media content across platforms (X/Twitter, Facebook, Instagram, YouTube, TikTok, Telegram, Bluesky) to study misinformation, platform governance, and information quality.
+
+## Research Areas
+
+- Misinformation and disinformation
+- Elections and voting behaviour
+- Social media and digital platforms
+- AI and technology policy
+- Foreign interference
+- Canadian politics
+- COVID-19 and public health communication
+- Democracy and political participation
+
+## Leadership Roles
+
+- Director, Media Ecosystem Observatory (MEO) — https://www.meo.ca
+- Director, Canadian Digital Media Research Network (CDMRN) — https://www.cdmrn.ca
+- Assistant Director (Research), Centre for Media, Technology and Democracy — https://www.mediatechdemocracy.com
+
+## Publications
+
+### Peer-Reviewed Articles
+
+- Bridgman, A. (2024). "Studies in Digital Politics: Activism, Mobilization, and Misinformation." McGill University (Dissertation). DOI: N/A
+- Lucas, J., McGregor, M., & Bridgman, A. (2023). "Spatial voting in non-partisan cities: A case study." Electoral Studies. DOI: 10.1016/j.electstud.2023.102599
+- Bridgman, A., Nadeau, R., & Stolle, D. (2022). "A distinct society: Understanding social distrust in Quebec." Canadian Journal of Political Science. DOI: 10.1017/S0008423921000780
+- Bridgman, A. & Stolle, D. (2022). "Mobilization and Political Participation." Oxford Handbook of Political Participation.
+- Bridgman, A., Merkley, E., Loewen, P.J., Owen, T., & Ruths, D. (2021). "All in this together? A preregistered report on deservingness of government aid during the COVID-19 pandemic." The Journal of Experimental Political Science. DOI: 10.1017/XPS.2021.10
+- Bridgman, A., Merkley, E., Zhilin, O., Loewen, P.J., Owen, T., & Ruths, D. (2021). "Infodemic pathways: Evaluating the role that traditional and social media play in cross-national information transfer." Frontiers in Political Science.
+- Bridgman, A., Ciobanu, C., Erlich, A., Bohonos, D., & Ross, C. (2020). "Unveiling: An Unexpected Mid-campaign Court Ruling's Consequences and the Limits of Following the Leader." The Journal of Politics. DOI: 10.1086/711177
+- Bridgman, A., Merkley, E., Loewen, P.J., Owen, T., Ruths, D., & Zhilin, O. (2020). "The causes and consequences of COVID-19 misperceptions: Understanding the role of news and social media." Harvard Kennedy School Misinformation Review. DOI: 10.37016/mr-2020-028
+- Bridgman, A. (2020). "A non-partisan legislative chamber: The influence of the Canadian Senate." Party Politics. DOI: 10.1177/1354068820911345
+- Merkley, E., Bridgman, A., Loewen, P.J., Owen, T., Ruths, D., Teichmann, L., & Zhilin, O. (2020). "A Rare Moment of Cross-Partisan Consensus: Elite and Public Response to the COVID-19 Pandemic in Canada." Canadian Journal of Political Science. DOI: 10.1017/S0008423920000311
+
+### Conference Papers (Peer-Reviewed)
+
+- Pehlivan, Z., Park, S., Abrahams, A.S., Desblancs-Patel, M., Steel, B.D., & Bridgman, A. (2025). "Building a Media Ecosystem Observatory from Scratch: Infrastructure, Methodology, and Insights." ICWSM 2025.
+- Park, S., Pehlivan, Z., Abrahams, A.S., Desblancs-Patel, M., Steel, B.D., & Bridgman, A. (2025). "Can-PolNews: A Multi-Platform Dataset of Political Discourse in Canada." ICWSM 2025.
+
+### Reports
+
+- Bridgman, A. et al. (2025). "The Canadian Information Ecosystem during the 2025 Federal Election." MEO / CDMRN.
+- Abrahams, A., Bridgman, A. et al. (2025). "British Columbia Election Information Ecosystem Project: Final Report." MEO.
+- Bridgman, A., Abrahams, A. et al. (2024). "Russian Funding of US and Canadian Political Influencers." CDMRN.
+- Bridgman, A. et al. (2024). "August 3 Bot Activity on X Related to Rally in Kirkland Lake." CDMRN.
+- Bridgman, A., Abrahams, A. et al. (2024). "British Columbia Election Information Ecosystem Project: Baseline Report." MEO.
+- Russill, C., Bridgman, A. et al. (2024). "Flame Wars: Misinformation and Wildfire in Canada's Climate Conversation." Re.Climate.
+- Parker, S., Ross, C., Pehlivan, Z., & Bridgman, A. (2024). "Old News, New Reality: A Year of Meta's News Ban in Canada." MEO.
+- Parker, S., Park, S. et al. (2024). "When Journalism is Turned Off: The Information Ecosystem in Local News Deserts in Canada." MEO.
+- Bridgman, A., Lee-Whiting, B. et al. (2023). "Indistinct Information Habitats: Information and Attitudes in the 2023 Alberta Election." MEO.
+- Bridgman, A., Abrahams, A. et al. (2023). "The Canadian Information Ecosystem." MEO.
+- Lavigne, M., Blanchard, M. et al. (2023). "Analyse du rôle de la mésinformation lors de l'élection provinciale québécoise de 2022." MEO.
+- Bridgman, A., Lavigne, M. et al. (2022). "Mis- and Disinformation during the 2021 Canadian Federal Election." MEO.
+- Owen, T., Loewen, P. et al. (2020). "Digital Democracy Project: Lessons in Resilience." Public Policy Forum.
+- McAndrews, J., Bridgman, A. et al. (2020). "Evaluation of the 2019 Federal Leaders' Debates." Canadian Leaders' Debates Commission.
+- Owen, T., Loewen, P. et al. (2020). "Understanding vaccine hesitancy in Canada." MEO.
+
+## Parliamentary and Public Testimony
+
+- House of Commons Standing Committee on Canadian Heritage (CHPC) — Effects of Influencers and Social Media Content on Children (Dec 2025)
+- Senate Standing Committee on National Security, Defence and Veterans Affairs (SECD) — Russia's Disinformation Impact on Canada (Oct 2025)
+- Public Inquiry on Foreign Interference (2023)
+- House of Commons Standing Committee on Access to Information, Privacy and Ethics (ETHI) (2023)
+
+## Teaching
+
+- PPOL 635: Misinformation: Theory and Practice (McGill, Max Bell School)
+- PPOL 199: Data-Driven Public Policy in the Digital Age (McGill, Max Bell School)
+- PPOL 636: Data Analysis for Policy Research (McGill, Max Bell School)
+
+## Site Map
+
+- / — Homepage with bio, affiliations, featured research and media
+- /research/ — Full list of academic publications
+- /media/ — Media appearances (TV, radio, podcast, print)
+- /conferences/ — Conference presentations, invited talks, parliamentary testimony
+- /teaching/ — Courses taught at McGill University
+- /cv/ — Downloadable academic CV (PDF and LaTeX)
+- /presentations/ — Slide presentations
+
+## Structured Data Endpoints
+
+- /data/site.json — Site metadata, affiliations, research areas
+- /data/publications.json — All publications with authors, DOIs, venues
+- /data/media.json — All media appearances with links
+- /data/conferences.json — All conference presentations and talks
+- /data/teaching.json — Teaching history
+- /feed.xml — RSS feed of publications
+- /media-feed.xml — RSS feed of media appearances
+
+## Contact
+
+- Email: aengus.bridgman@mcgill.ca
+- Twitter/X: @AengusBridgman
+- GitHub: github.com/aengusb
+- Google Scholar: https://scholar.google.ca/citations?user=rxQTZG0AAAAJ
+- Website: https://abridgman.ca

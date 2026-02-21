@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { getSiteConfig, getFeaturedPublications, getFeaturedMedia, getResearchAreas } from '@/lib/content';
+import { generatePersonJsonLd } from '@/lib/jsonld';
 
 function AffiliationBadge({ name, url, role }: { name: string; url: string; role?: string }) {
   return (
@@ -22,8 +23,14 @@ export default function Home() {
   const featuredMedia = getFeaturedMedia();
   const researchAreas = getResearchAreas();
 
+  const personJsonLd = generatePersonJsonLd(site);
+
   return (
     <div className="container-main py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(personJsonLd) }}
+      />
       {/* Hero Section */}
       <section className="flex flex-col md:flex-row gap-8 md:gap-12 items-start mb-16">
         <div className="flex-shrink-0">

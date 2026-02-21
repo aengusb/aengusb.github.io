@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { Suspense } from 'react';
 import { getAllPublications, getResearchAreas } from '@/lib/content';
 import { ResearchPageClient } from '@/components/research/ResearchPageClient';
+import { generatePublicationsJsonLd } from '@/lib/jsonld';
 
 export const metadata: Metadata = {
   title: 'Research',
@@ -11,13 +12,20 @@ export const metadata: Metadata = {
 export default function ResearchPage() {
   const allPublications = getAllPublications();
   const researchAreas = getResearchAreas();
+  const publicationsJsonLd = generatePublicationsJsonLd(allPublications);
 
   return (
-    <Suspense fallback={<div className="container-main py-12">Loading...</div>}>
-      <ResearchPageClient
-        allPublications={allPublications}
-        researchAreas={researchAreas}
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(publicationsJsonLd) }}
       />
-    </Suspense>
+      <Suspense fallback={<div className="container-main py-12">Loading...</div>}>
+        <ResearchPageClient
+          allPublications={allPublications}
+          researchAreas={researchAreas}
+        />
+      </Suspense>
+    </>
   );
 }
